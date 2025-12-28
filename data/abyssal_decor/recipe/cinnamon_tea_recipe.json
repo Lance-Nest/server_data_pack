@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "c:cinnamon/stick"
+    },
+	{
+	  "item": "minecraft:sugar"
+	}
+  ],
+  "result": {
+    "count": 1,
+    "id": "abyssal_decor:cinnamon_tea"
+  }
+}
