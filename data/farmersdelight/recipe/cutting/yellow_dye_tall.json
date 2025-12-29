@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "c:raw_materials/dyes/yellow/tall"
+      },
+      "subtracted": [
+        {
+          "item": "minecraft:sunflower"
+        }
+      ]
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "minecraft:yellow_dye"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

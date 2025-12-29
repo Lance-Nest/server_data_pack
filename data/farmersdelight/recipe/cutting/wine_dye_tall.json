@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+
+        "tag": "c:raw_materials/dyes/wine/tall"
+
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "dyenamics:wine_dye"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}
