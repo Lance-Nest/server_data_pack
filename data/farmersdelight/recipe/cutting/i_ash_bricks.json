@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "i_architecture:ash_bricks"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 4,
+        "id": "i_architecture:ash_brick"
+      }
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:item_ability",
+    "action": "pickaxe_dig"
+  }
+}
