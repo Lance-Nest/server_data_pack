@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_bass"
+    },
+	{
+      "tag": "extradelight:processed/cabbage"
+    },
+	{
+      "tag": "c:mushrooms"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "aquaculturedelight:bass_stew"
+  },
+  "container": {
+    "id": "minecraft:bowl"
+  }
+}

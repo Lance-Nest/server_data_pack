@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "tag": "c:foods/cooked_turtle"
+    },
+    {
+      "tag": "c:foods/cooked_turtle"
+    },
+    {
+      "tag": "extradelight:processed/carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "extradelight:processed/cabbage"
+    }
+  ],
+  "result": {
+    "id": "aquaculturedelight:turtle_meat_dish"
+  }
+}
