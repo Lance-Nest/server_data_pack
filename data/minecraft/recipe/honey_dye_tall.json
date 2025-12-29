@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "white_dye",
+  "ingredients": [
+    {
+      "tag": "c:raw_materials/dyes/honey/tall"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "dyenamics:honey_dye"
+  }
+}

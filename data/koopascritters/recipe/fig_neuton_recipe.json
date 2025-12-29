@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "figneuton",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "tag": "c:salt"
+    },
+    "c": {
+      "tag": "c:foods/milk"
+    }
+  },
+  "result": {
+    "id": "koopascritters:fig_neuton_kc",
+    "count": 12
+  }
+}

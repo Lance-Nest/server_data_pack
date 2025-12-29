@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "white_dye",
+  "ingredients": [
+    {
+      "tag": "c:raw_materials/dyes/peach/small"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dyenamics:peach_dye"
+  }
+}
