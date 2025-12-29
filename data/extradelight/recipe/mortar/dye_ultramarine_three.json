@@ -1,0 +1,12 @@
+{
+  "type": "extradelight:mortar",
+  "fluidOut": {},
+  "grinds": 4,
+  "ingredient": {
+    "tag": "c:raw_materials/dyes/ultramarine/tall"
+  },
+  "result": {
+    "count": 3,
+    "id": "dyenamics:ultramarine_dye"
+  }
+}

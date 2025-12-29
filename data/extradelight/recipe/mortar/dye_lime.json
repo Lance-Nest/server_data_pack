@@ -1,0 +1,20 @@
+{
+  "type": "extradelight:mortar",
+  "fluidOut": {},
+  "grinds": 4,
+  "ingredient": {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:raw_materials/dyes/lime/small"
+        },
+        {
+          "item": "minecraft:sea_pickle"
+        }
+      ]
+    },
+  "result": {
+    "count": 2,
+    "id": "minecraft:lime_dye"
+  }
+}

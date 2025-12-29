@@ -1,0 +1,12 @@
+{
+  "type": "extradelight:mortar",
+  "fluidOut": {},
+  "grinds": 4,
+  "ingredient": {
+    "tag": "c:raw_materials/dyes/brown/small"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:brown_dye"
+  }
+}

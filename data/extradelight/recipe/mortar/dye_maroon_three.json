@@ -1,0 +1,12 @@
+{
+  "type": "extradelight:mortar",
+  "fluidOut": {},
+  "grinds": 4,
+  "ingredient": {
+    "tag": "c:raw_materials/dyes/maroon/tall"
+  },
+  "result": {
+    "count": 3,
+    "id": "dyenamics:maroon_dye"
+  }
+}
