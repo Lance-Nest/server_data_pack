@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+	"abyssal_decor:amaranth_1",
+	"cocktailsdelight:red_grape_seeds",
+	"cocktailsdelight:white_grape_seeds",
+	"enchanted:belladonna_seeds",
+	"enchanted:mandrake_seeds",
+	"enchanted:snowbell_seeds",
+	"enchanted:water_artichoke_seeds",
+	"enchanted:wolfsbane_seeds"
+  ]
+}

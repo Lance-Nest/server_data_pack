@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "cluttered:blue_roundhead",
+	"cluttered:fly_agaric",
+	"ferdinandsflowers:cracking_russula",
+	"ferdinandsflowers:inky_cap",
+	"ferdinandsflowers:jack_o_lantern_dark",
+	"ferdinandsflowers:jack_o_lantern_fungus",
+	"ferdinandsflowers:jack_o_lantern_light",
+	"ferdinandsflowers:oyster_blue",
+	"ferdinandsflowers:oyster_yellow",
+	"ferdinandsflowers:pixies_parasol_blue",
+	"ferdinandsflowers:pixies_parasol_cyan",
+	"ferdinandsflowers:turkey_tail",
+	"ferdinandsflowers:turkey_tail_brown",
+	"ferdinandsflowers:red_reishi",
+	"ferdinandsflowers:violet_webcap",
+	"ferdinandsflowers:yellow_patches"
+  ]
+}

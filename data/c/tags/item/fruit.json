@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "ars_elemental:flashpine_pod",
+	"ars_nouveau:bastion_pod",
+	"ars_nouveau:bombegranate_pod",
+	"ars_nouveau:frostaya_pod",
+	"ars_nouveau:mendosteen_pod",
+	"ars_nouveau:sourceberry_bush",
+	"create:honeyed_apple",
+	"ferdinandsflowers:cranberry",
+	"ferdinandsflowers:raccoon_grape",
+	"hazennstuff:lemon",
+	"koopascritters:fig_kc",
+	"minecraft:enchanted_golden_apple",
+	"minecraft:golden_apple"
+  ]
+}
