@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+	"#c:foods/cooked_meat",
+	"#extradelight:processed/onion",
+	"#extradelight:processed/tomato",
+	"#extradelight:processed/chili"
+  ]
+}

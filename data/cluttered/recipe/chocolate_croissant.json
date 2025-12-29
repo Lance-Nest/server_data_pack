@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:croissant"
+    },
+    {
+      "tag": "c:chocolate/bar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cluttered:chocolate_croissant"
+  }
+}

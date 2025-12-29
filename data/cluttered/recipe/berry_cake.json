@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "tag": "c:foods/milk"
+    },
+    "c": {
+      "item": "minecraft:sweet_berries"
+    },
+    "e": {
+      "tag": "c:eggs"
+    },
+    "s": {
+      "tag": "extradelight:sweetener"
+    },
+    "w": {
+      "tag": "c:flour"
+    }
+  },
+  "pattern": [
+    "bcb",
+    "ses",
+    "wcw"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cluttered:berry_cake"
+  },
+  "show_notification": false
+}

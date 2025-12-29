@@ -1,0 +1,35 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+		{
+		  "item": "brewinandchewin:flaxen_cheese_wedge"
+		},
+        {
+          "item": "extradelight:cheese"
+        }
+      ]
+    },
+    {
+      "tag": "c:foods/pasta"
+    },
+    {
+      "tag": "extradelight:processed/tomato"
+    },
+    {
+      "tag": "c:foods/safe_raw_fish"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "brewinandchewin:cheesy_pasta"
+  }
+}

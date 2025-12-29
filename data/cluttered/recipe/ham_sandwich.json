@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:pastry_plate"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "tag": "extradelight:processed/tomato"
+    },
+    {
+      "item": "farmersdelight:smoked_ham"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cluttered:ham_sandwich"
+  }
+}

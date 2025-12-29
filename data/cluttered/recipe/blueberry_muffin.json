@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cluttered:pastry_plate"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "extradelight:muffin_sweet_berry"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cluttered:blueberry_muffin"
+  }
+}

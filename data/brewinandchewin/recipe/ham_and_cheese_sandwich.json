@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+		{
+		  "item": "minecraft:bread"
+		},
+        {
+          "tag": "extradelight:toast_or_bread_slice"
+        }
+      ]
+    },
+    {
+      "item": "farmersdelight:smoked_ham"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+		{
+		  "item": "brewinandchewin:flaxen_cheese_wedge"
+		},
+        {
+          "item": "extradelight:cheese"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+		{
+		  "item": "minecraft:bread"
+		},
+        {
+          "tag": "extradelight:toast_or_bread_slice"
+        }
+      ]
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "brewinandchewin:ham_and_cheese_sandwich"
+  }
+}
