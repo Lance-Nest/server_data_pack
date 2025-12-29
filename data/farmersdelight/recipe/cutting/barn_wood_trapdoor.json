@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "butchercraft:barn_wood_trapdoor_item"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "butchercraft:barn_wood_block_item"
+      }
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:item_ability",
+    "action": "axe_dig"
+  }
+}

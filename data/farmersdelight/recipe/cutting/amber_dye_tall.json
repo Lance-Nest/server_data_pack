@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+
+        "tag": "c:raw_materials/dyes/amber/tall"
+
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "dyenamics:amber_dye"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}
