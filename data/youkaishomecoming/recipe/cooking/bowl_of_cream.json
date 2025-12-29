@@ -1,0 +1,48 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "c:foods/milk"
+      },
+      "subtracted": [
+        {
+          "item": "extradelight:soy_milk"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "c:foods/milk"
+      },
+      "subtracted": [
+        {
+          "item": "extradelight:soy_milk"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "c:foods/milk"
+      },
+      "subtracted": [
+        {
+          "item": "extradelight:soy_milk"
+        }
+      ]
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "youkaishomecoming:bowl_of_cream"
+  }
+}

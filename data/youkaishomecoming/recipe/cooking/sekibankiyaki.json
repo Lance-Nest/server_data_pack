@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "item": "youkaishomecoming:redbean"
+    },
+    {
+      "tag": "c:butter"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 2,
+    "id": "youkaishomecoming:sekibankiyaki"
+  }
+}

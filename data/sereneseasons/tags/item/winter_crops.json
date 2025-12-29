@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cluttered:crabapple_sapling",
+	"cluttered:poplar_sapling",
+	"enchanted:alder_sapling",
+	"enchanted:belladonna_seeds",
+	"enchanted:mandrake_seeds",
+	"enchanted:snowbell_seeds",
+	"enchanted:water_artichoke_seeds",
+	"koopascritters:kopje_fig_sapling",
+	"silentgear:flax_seeds",
+	"silentgear:fluffy_seeds",
+	"youkaishomecoming:tea_seeds",
+	"youkaishomecoming:udumbara_seeds"
+  ]
+}

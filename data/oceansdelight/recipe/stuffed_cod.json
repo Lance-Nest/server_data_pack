@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    },
+    {
+      "tag": "extradelight:processed/tomato"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "tag": "supplementaries:ropes"
+    },
+    {
+      "item": "minecraft:cod"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "oceansdelight:stuffed_cod"
+  }
+}

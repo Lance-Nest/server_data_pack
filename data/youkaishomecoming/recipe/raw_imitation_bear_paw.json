@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:pufferfish"
+      },
+	  {
+		"item": "oceansdelight:fugu_slice"
+	  }
+	],
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "tag": "c:foods/raw_pork"
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    },
+    {
+      "tag": "youkaishomecoming:raw_eel"
+    },
+	{
+      "tag": "c:condiments/soy_sauce"
+    },
+    {
+      "item": "youkaishomecoming:saucer"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaishomecoming:raw_imitation_bear_paw"
+  }
+}

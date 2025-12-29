@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "bloomingnature:aspen_sapling",
+	"bloomingnature:baobab_sapling",
+	"bloomingnature:chestnut_sapling",
+	"bloomingnature:ebony_sapling",
+	"bloomingnature:larch_sapling",
+	"bloomingnature:swamp_cypress_sapling",
+	"bloomingnature:swamp_oak_sapling",
+	"cluttered:crabapple_sapling",
+	"cluttered:fluorescent_maple_sapling",
+	"cluttered:poplar_sapling",
+	"cluttered:sycamore_sapling",
+	"cluttered:willow_sapling",
+	"enchanted:alder_sapling",
+	"enchanted:belladonna_seeds",
+	"enchanted:hawthorn_sapling",
+	"enchanted:rowan_sapling",
+	"enchanted:wolfsbane_seeds",
+	"ferdinandsflowers:cranberry",
+	"ferdinandsflowers:raccoon_grape",
+	"koopascritters:kopje_fig_sapling",
+	"silentgear:flax_seeds",
+	"silentgear:netherwood_sapling",
+	"youkaishomecoming:green_coffee_bean",
+	"youkaishomecoming:redbean",
+	"youkaishomecoming:soybean",
+	"youkaishomecoming:tea_seeds",
+	"youkaishomecoming:udumbara_seeds"
+  ]
+}
