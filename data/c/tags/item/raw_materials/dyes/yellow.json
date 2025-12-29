@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+	"#c:raw_materials/dyes/yellow/small",
+	"#c:raw_materials/dyes/yellow/tall"
+  ]
+}
