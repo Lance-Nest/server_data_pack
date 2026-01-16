@@ -1,0 +1,9 @@
+{
+  "name": "red_wool",
+  "tagNamespace": "minecraft",
+  "type": "TEXTILE",
+  "loadString": "IGNORE",
+  "loadBlock": "EXISTS",
+  "loadCarpet": "EXISTS",
+  "extensions": []
+}
