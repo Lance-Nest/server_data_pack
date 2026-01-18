@@ -1,0 +1,9 @@
+{
+  "name": "fluorescent_wool",
+  "tagNamespace": "dyenamics",
+  "type": "TEXTILE",
+  "loadString": "IGNORE",
+  "loadBlock": "EXISTS",
+  "loadCarpet": "EXISTS",
+  "extensions": []
+}
