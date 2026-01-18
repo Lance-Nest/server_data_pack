@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "extradelight:gingham_orange"
+    }
+  },
+  "pattern": [
+    "pp"
+  ],
+  "result": {
+    "count": 3,
+    "id": "extradelight:gingham_orange"
+  }
+}
