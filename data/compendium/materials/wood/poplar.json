@@ -2,6 +2,7 @@
   "name": "poplar",
   "namespace": "cluttered",
   "type": "WOOD",
+  "version": 1.1,
   "loadPlanks": "EXISTS",
   "loadLog": "EXISTS",
   "loadStrippedLog": "EXISTS",

@@ -2,11 +2,20 @@
   "name": "cinnamon",
   "namespace": "extradelight",
   "type": "WOOD",
+  "version": 1.1,
   "loadPlanks": "EXISTS",
   "loadLog": "EXISTS",
   "loadStrippedLog": "EXISTS",
   "loadWood": "EXISTS",
   "loadStrippedWood": "EXISTS",
+  "specialLocations": {
+    "existsItem": {
+      "strippedWoodLocation": "extradelight:strippedcinnamon_wood"
+    },
+    "existsBlock": {
+      "strippedWoodLocation": "extradelight:stripped_cinnamon_wood"
+    }
+  },
   "extensions": [
     {
       "type": "EXTRALOGS",

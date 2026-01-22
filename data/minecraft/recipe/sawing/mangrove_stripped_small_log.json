@@ -1,7 +1,7 @@
 {
   "type": "compendium:sawbuck",
   "input": {
-    "tag": "minecraft:mangrove_logs"
+    "tag": "c:stripped_log/mangrove"
   },
   "loot": "minecraft:sawing/mangrove_stripped_small_log",
   "offset": [
@@ -11,7 +11,7 @@
   ],
   "ouput": {
     "count": 4,
-    "id": "compendium:mangrove_stripped_small_log_item"
+    "id": "compendium:stripped_mangrove_small_log_item"
   },
   "tools": [
     {

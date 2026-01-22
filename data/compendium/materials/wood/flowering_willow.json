@@ -2,11 +2,21 @@
   "name": "flowering_willow",
   "namespace": "cluttered",
   "type": "WOOD",
+  "version": 1.1,
   "loadPlanks": "EXISTS",
   "loadLog": "EXISTS",
   "loadStrippedLog": "EXISTS",
   "loadWood": "EXISTS",
   "loadStrippedWood": "EXISTS",
+  "specialLocations": {
+    "existsItem": {
+      "plankLocation": "cluttered:flowering_willow_planks",
+      "logLocation": "cluttered:flowering_willow_log",
+      "strippedLogLocation": "cluttered:stripped_flowering_willow_log",
+      "woodLocation": "cluttered:flowering_willow_wood",
+      "strippedWoodLocation": "cluttered:stripped_flowering_willow_wood"
+    }
+  },
   "extensions": [
     {
       "type": "EXTRALOGS",

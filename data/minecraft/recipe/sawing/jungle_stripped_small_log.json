@@ -1,7 +1,7 @@
 {
   "type": "compendium:sawbuck",
   "input": {
-    "tag": "minecraft:jungle_logs"
+    "tag": "c:stripped_log/jungle"
   },
   "loot": "minecraft:sawing/jungle_stripped_small_log",
   "offset": [
@@ -11,7 +11,7 @@
   ],
   "ouput": {
     "count": 4,
-    "id": "compendium:jungle_stripped_small_log_item"
+    "id": "compendium:stripped_jungle_small_log_item"
   },
   "tools": [
     {
