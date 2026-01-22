@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/fruit"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:fruit_plank_item"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/blue_mushroom"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:blue_mushroom_plank_item"
+  }
+}

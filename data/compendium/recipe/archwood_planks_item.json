@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:archwood_plank_item"
+      "tag": "c:plank/archwood"
     }
   },
   "pattern": [

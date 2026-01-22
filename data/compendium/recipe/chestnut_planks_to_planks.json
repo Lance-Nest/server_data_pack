@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/chestnut"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:chestnut_plank_item"
+  }
+}

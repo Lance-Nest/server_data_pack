@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/fir"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:fir_plank_item"
+  }
+}

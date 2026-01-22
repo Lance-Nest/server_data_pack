@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:birch_plank_item"
+        "tag": "c:plank/birch"
       }
     },
     "pattern": [

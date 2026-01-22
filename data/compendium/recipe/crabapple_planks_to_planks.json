@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/crabapple"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:crabapple_plank_item"
+  }
+}

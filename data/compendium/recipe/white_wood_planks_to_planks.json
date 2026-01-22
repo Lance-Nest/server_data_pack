@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/white_wood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:white_wood_plank_item"
+  }
+}

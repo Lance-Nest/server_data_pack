@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/sycamore"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:sycamore_plank_item"
+  }
+}

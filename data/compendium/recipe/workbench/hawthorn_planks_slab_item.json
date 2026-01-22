@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:hawthorn_plank_item"
+        "tag": "c:plank/hawthorn"
       }
     },
     "pattern": [

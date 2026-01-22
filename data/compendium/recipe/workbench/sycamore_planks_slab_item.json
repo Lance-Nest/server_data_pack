@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:sycamore_plank_item"
+        "tag": "c:plank/sycamore"
       }
     },
     "pattern": [

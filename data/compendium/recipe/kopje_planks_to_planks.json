@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/kopje"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:kopje_plank_item"
+  }
+}

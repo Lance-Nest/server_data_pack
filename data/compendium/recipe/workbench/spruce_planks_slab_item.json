@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:spruce_plank_item"
+        "tag": "c:plank/spruce"
       }
     },
     "pattern": [

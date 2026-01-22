@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/fan_palm"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:fan_palm_plank_item"
+  }
+}

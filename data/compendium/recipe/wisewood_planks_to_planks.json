@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/wisewood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:wisewood_plank_item"
+  }
+}

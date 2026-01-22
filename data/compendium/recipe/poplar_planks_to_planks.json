@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/poplar"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:poplar_plank_item"
+  }
+}

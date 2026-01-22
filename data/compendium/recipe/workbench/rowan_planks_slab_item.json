@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:rowan_plank_item"
+        "tag": "c:plank/rowan"
       }
     },
     "pattern": [

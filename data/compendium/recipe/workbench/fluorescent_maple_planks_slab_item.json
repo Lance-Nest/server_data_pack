@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:fluorescent_maple_plank_item"
+        "tag": "c:plank/fluorescent_maple"
       }
     },
     "pattern": [

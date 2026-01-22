@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:fruit_plank_item"
+      "tag": "c:plank/fruit"
     }
   },
   "pattern": [

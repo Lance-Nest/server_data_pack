@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:blackwood_plank_item"
+      "tag": "c:plank/blackwood"
     }
   },
   "pattern": [

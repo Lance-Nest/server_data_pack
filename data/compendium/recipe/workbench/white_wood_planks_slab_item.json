@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:white_wood_plank_item"
+        "tag": "c:plank/white_wood"
       }
     },
     "pattern": [

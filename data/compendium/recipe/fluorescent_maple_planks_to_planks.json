@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/fluorescent_maple"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:fluorescent_maple_plank_item"
+  }
+}

@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:waxed_oak_plank_item"
+      "tag": "c:plank/waxed_oak"
     }
   },
   "pattern": [

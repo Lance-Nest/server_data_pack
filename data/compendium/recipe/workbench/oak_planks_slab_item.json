@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:oak_plank_item"
+        "tag": "c:plank/oak"
       }
     },
     "pattern": [

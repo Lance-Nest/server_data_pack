@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/willow"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:willow_plank_item"
+  }
+}

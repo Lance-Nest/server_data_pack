@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/blackwood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:blackwood_plank_item"
+  }
+}

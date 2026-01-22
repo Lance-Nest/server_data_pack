@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:chestnut_plank_item"
+      "tag": "c:plank/chestnut"
     }
   },
   "pattern": [

@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:willow_plank_item"
+        "tag": "c:plank/willow"
       }
     },
     "pattern": [

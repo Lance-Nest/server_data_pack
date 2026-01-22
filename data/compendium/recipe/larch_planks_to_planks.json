@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/larch"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:larch_plank_item"
+  }
+}

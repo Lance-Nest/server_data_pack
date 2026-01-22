@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/cactus"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:cactus_plank_item"
+  }
+}

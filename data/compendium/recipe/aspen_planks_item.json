@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:aspen_plank_item"
+      "tag": "c:plank/aspen"
     }
   },
   "pattern": [

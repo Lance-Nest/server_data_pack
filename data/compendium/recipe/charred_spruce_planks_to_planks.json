@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/charred_spruce"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:charred_spruce_plank_item"
+  }
+}

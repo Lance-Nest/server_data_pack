@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:wisewood_plank_item"
+        "tag": "c:plank/wisewood"
       }
     },
     "pattern": [

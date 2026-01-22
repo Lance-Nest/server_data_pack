@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:frostbite_birch_plank_item"
+      "tag": "c:plank/frostbite_birch"
     }
   },
   "pattern": [

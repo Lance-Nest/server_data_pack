@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:ebony_plank_item"
+        "tag": "c:plank/ebony"
       }
     },
     "pattern": [

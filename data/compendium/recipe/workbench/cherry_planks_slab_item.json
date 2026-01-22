@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:cherry_plank_item"
+        "tag": "c:plank/cherry"
       }
     },
     "pattern": [

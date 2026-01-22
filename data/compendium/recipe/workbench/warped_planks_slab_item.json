@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:warped_plank_item"
+        "tag": "c:plank/warped"
       }
     },
     "pattern": [

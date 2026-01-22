@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "p": {
-      "item": "compendium:charred_spruce_plank_item"
+      "tag": "c:plank/charred_spruce"
     }
   },
   "pattern": [

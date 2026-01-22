@@ -3,7 +3,7 @@
   "input": {
     "key": {
       "p": {
-        "item": "compendium:crimson_plank_item"
+        "tag": "c:plank/crimson"
       }
     },
     "pattern": [
