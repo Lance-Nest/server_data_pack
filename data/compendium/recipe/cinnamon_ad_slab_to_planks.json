@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:slabs/planks/cinnamon_ad"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "compendium:cinnamon_ad_plank_item"
+  }
+}

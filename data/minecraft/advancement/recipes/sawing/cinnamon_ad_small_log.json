@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:hammering/cobblestone"
+        "recipe": "minecraft:sawing/cinnamon_ad_small_log"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -15,7 +15,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:hammering/cobblestone"
+      "minecraft:sawing/cinnamon_ad_small_log"
     ]
   }
 }
