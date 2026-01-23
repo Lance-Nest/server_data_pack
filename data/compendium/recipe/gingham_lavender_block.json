@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "dyenamics:lavender_wool"
+    },"w": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "pw",
+	"wp"
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:gingham_lavender_block_item"
+  }
+}

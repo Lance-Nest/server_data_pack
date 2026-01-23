@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "dyenamics:icy_blue_wool"
+    },"w": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "pw",
+	"wp"
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:gingham_icy_blue_block_item"
+  }
+}
