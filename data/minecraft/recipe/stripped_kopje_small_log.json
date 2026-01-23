@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "koopascritters:stripped_kopje_log"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "compendium:stripped_kopje_small_log_item"
+  }
+}
