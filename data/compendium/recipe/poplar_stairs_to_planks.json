@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:poplar_planks_stairs_item"
+      "tag": "c:stairs/planks/poplar"
     }
   ],
   "result": {

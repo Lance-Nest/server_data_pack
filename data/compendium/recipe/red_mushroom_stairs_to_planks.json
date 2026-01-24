@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:red_mushroom_planks_stairs_item"
+      "tag": "c:stairs/planks/red_mushroom"
     }
   ],
   "result": {

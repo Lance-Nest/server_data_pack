@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "abyssal_decor:blackwood_wood"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "compendium:stripped_blackwood_wood_item"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "farmersdelight:tree_bark"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

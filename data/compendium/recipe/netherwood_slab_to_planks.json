@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:netherwood_planks_slab_item"
+      "tag": "c:slabs/planks/netherwood"
     }
   ],
   "result": {

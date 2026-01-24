@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:blackwood_planks_slab_item"
+      "tag": "c:slabs/planks/blackwood"
     }
   ],
   "result": {

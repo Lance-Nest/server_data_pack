@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:waxed_oak_planks_stairs_item"
+      "tag": "c:stairs/planks/waxed_oak"
     }
   ],
   "result": {

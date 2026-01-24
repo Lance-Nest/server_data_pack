@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "dyenamics:ultramarine_wool"
+    }
+  },
+  "pattern": [
+    "pp"
+  ],
+  "result": {
+    "count": 3,
+    "id": "dyenamics:ultramarine_wool"
+  }
+}

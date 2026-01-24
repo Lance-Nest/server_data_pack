@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:frostbite_birch_planks_slab_item"
+      "tag": "c:slabs/planks/frostbite_birch"
     }
   ],
   "result": {

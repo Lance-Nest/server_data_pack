@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "compendium:cinnamon_ad_small_logs_item"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "compendium:stripped_cinnamon_ad_small_logs_item"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "farmersdelight:tree_bark"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

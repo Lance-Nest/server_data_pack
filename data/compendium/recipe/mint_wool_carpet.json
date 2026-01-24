@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "dyenamics:mint_wool"
+    }
+  },
+  "pattern": [
+    "pp"
+  ],
+  "result": {
+    "count": 3,
+    "id": "dyenamics:mint_wool"
+  }
+}

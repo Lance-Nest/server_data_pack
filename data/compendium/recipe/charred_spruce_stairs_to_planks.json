@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:charred_spruce_planks_stairs_item"
+      "tag": "c:stairs/planks/charred_spruce"
     }
   ],
   "result": {

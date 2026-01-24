@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:fan_palm_planks_stairs_item"
+      "tag": "c:stairs/planks/fan_palm"
     }
   ],
   "result": {

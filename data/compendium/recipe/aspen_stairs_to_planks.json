@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:aspen_planks_stairs_item"
+      "tag": "c:stairs/planks/aspen"
     }
   ],
   "result": {

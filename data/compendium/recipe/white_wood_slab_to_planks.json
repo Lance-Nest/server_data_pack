@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:white_wood_planks_slab_item"
+      "tag": "c:slabs/planks/white_wood"
     }
   ],
   "result": {

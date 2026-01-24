@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:chestnut_planks_slab_item"
+      "tag": "c:slabs/planks/chestnut"
     }
   ],
   "result": {

@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:hawthorn_planks_stairs_item"
+      "tag": "c:stairs/planks/hawthorn"
     }
   ],
   "result": {

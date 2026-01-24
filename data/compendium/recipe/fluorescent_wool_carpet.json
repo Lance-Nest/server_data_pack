@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "p": {
+      "item": "dyenamics:fluorescent_wool"
+    }
+  },
+  "pattern": [
+    "pp"
+  ],
+  "result": {
+    "count": 3,
+    "id": "dyenamics:fluorescent_wool"
+  }
+}

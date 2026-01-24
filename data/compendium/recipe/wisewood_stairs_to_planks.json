@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:wisewood_planks_stairs_item"
+      "tag": "c:stairs/planks/wisewood"
     }
   ],
   "result": {

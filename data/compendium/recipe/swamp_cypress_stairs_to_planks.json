@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:swamp_cypress_planks_stairs_item"
+      "tag": "c:stairs/planks/swamp_cypress"
     }
   ],
   "result": {

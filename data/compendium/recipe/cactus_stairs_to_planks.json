@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:cactus_planks_stairs_item"
+      "tag": "c:stairs/planks/cactus"
     }
   ],
   "result": {

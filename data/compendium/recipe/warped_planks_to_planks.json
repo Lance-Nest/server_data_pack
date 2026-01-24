@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:planks/warped"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "compendium:warped_plank_item"
+  }
+}

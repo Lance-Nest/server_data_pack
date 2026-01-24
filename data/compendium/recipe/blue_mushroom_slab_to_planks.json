@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "compendium:blue_mushroom_planks_slab_item"
+      "tag": "c:slabs/planks/blue_mushroom"
     }
   ],
   "result": {
