@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/raw_ghast"
+    },
+    [
+      {
+        "tag": "c:foods/vegetable"
+      },
+      {
+        "tag": "extradelight:processed/vegetable"
+      }
+    ],
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:ghast_salad"
+  }
+}

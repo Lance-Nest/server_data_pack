@@ -1,0 +1,23 @@
+{
+  "type": "extradelight:chiller",
+  "consumeContainer": true,
+  "container": {
+    "count": 4,
+    "id": "minecraft:stick"
+  },
+  "cookingtime": 800,
+  "experience": 0.35,
+  "fluid": {
+    "amount": 250,
+    "id": "minecraft:water"
+  },
+  "ingredients": [
+	{
+		"item": "minecraft:ghast_tear"
+	}
+  ],
+  "result": {
+    "count": 4,
+    "id": "mynethersdelight:tear_popsicle"
+  }
+}

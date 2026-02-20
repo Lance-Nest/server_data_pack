@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-	"ars_elemental:flashpine_pod"
+	"ars_elemental:flashpine_pod",
+	"#c:pineapples"
   ]
 }

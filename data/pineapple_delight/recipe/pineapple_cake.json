@@ -9,13 +9,13 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:foods/milk"
-    },
-    {
-      "tag": "extradelight:processed/beetroot"
+      "tag": "c:pineapples"
     },
     {
       "tag": "c:foods/milk"
+    },
+    {
+      "tag": "c:pineapples"
     },
     {
       "tag": "extradelight:sweetener"
@@ -30,7 +30,7 @@
       "tag": "c:flour"
     },
     {
-      "tag": "extradelight:processed/beetroot"
+      "tag": "c:flour"
     },
     {
       "tag": "c:flour"
@@ -38,6 +38,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "cluttered:heart_cake"
+    "id": "pineapple_delight:pineapple_cake"
   }
 }

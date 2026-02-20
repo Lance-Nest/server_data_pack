@@ -1,0 +1,39 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "minecraft:honeycomb"
+        },
+        {
+          "item": "minecraft:honey_bottle"
+        }
+      ]
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:sweet_berry_pie"
+  }
+}

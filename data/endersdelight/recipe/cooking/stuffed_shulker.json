@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "endersdelight:shulker_mollusk"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "tag": "extradelight:processed/tomato"
+    },
+	{
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "endersdelight:stuffed_shulker"
+  },
+  "container": {
+    "id": "minecraft:shulker_shell"
+  }
+}

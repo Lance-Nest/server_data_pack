@@ -3,23 +3,11 @@
   "consumeContainer": false,
   "container": {
     "count": 1,
-    "id": "extradelight:square_pan"
+    "id": "extradelight:pie_dish"
   },
   "cookingtime": 800,
   "experience": 1.0,
   "ingredients": [
-    {
-      "tag": "c:foods/milk"
-    },
-    {
-      "tag": "c:foods/berry"
-    },
-    {
-      "tag": "c:foods/milk"
-    },
-    {
-      "tag": "extradelight:sweetener"
-    },
     {
       "tag": "c:eggs"
     },
@@ -27,17 +15,23 @@
       "tag": "extradelight:sweetener"
     },
     {
-      "tag": "c:flour"
+      "item": "ars_nouveau:magebloom"
     },
     {
-      "tag": "c:foods/berry"
+      "item": "ars_nouveau:sourceberry_bush"
     },
     {
-      "tag": "c:flour"
+      "item": "ars_nouveau:sourceberry_bush"
+    },
+    {
+      "item": "ars_nouveau:sourceberry_bush"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
     }
   ],
   "result": {
     "count": 1,
-    "id": "cluttered:berry_cake"
+    "id": "ars_nouveau:source_berry_pie"
   }
 }

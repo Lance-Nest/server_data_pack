@@ -1,0 +1,34 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "endersdelight:voidpepper"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "minecraft:potato"
+        },
+        {
+          "item": "extradelight:potato_sticks"
+        }
+      ]
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "id": "endersdelight:steak_fries"
+  },
+  "container": {
+    "id": "endersdelight:shulker_bowl"
+  }
+}

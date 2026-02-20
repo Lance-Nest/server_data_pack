@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "ars_nouveau:frostaya_pod"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "ars_nouveau:sourceberry_bush"
+    },
+    {
+      "item": "arsdelight:neutralized_frostaya_jam"
+    },
+    {
+      "item": "ars_nouveau:sourceberry_bush"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "arsdelight:frostaya_pie"
+  }
+}

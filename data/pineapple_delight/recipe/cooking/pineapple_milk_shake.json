@@ -1,0 +1,35 @@
+{
+  "type": "extradelight:mixing_bowl",
+  "container": {
+    "count": 1,
+    "id": "minecraft:glass_bottle"
+  },
+  "fluids": [
+    {
+      "amount": 250,
+      "fluid": "minecraft:milk"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "extradelight:ice_cream"
+    },
+    {
+      "item": "pineapple_delight:pineapple_side"
+    },
+    {
+      "item": "pineapple_delight:pineapple_side"
+    },
+    {
+      "item": "pineapple_delight:pineapple_side"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "pineapple_delight:pineapple_milk_shake"
+  },
+  "stirs": 4,
+  "utensil": {
+    "tag": "c:spoons"
+  }
+}

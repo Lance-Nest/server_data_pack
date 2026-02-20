@@ -1,0 +1,29 @@
+{
+  "type": "extradelight:chiller",
+  "consumeContainer": true,
+  "container": {
+    "count": 4,
+    "id": "minecraft:stick"
+  },
+  "cookingtime": 800,
+  "experience": 0.35,
+  "fluid": {
+    "amount": 250,
+    "id": "minecraft:water"
+  },
+  "ingredients": [
+	{
+		"tag": "extradelight:sweetener"
+	},
+	{
+		"tag": "extradelight:sweetener"
+	},
+	{
+		"item": "minecraft:cyan_dye"
+	}
+  ],
+  "result": {
+    "count": 4,
+    "id": "youkaishomecoming:big_popsicle"
+  }
+}

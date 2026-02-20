@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "ferdinandsflowers:peppermint"
+	"ferdinandsflowers:peppermint",
+	"#c:cinnamon/stick"
   ]
 }

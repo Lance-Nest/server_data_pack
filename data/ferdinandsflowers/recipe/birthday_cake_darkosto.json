@@ -12,7 +12,7 @@
       "tag": "c:foods/milk"
     },
     {
-      "tag": "extradelight:processed/beetroot"
+      "tag": "c:foods/milk"
     },
     {
       "tag": "c:foods/milk"
@@ -27,17 +27,17 @@
       "tag": "extradelight:sweetener"
     },
     {
-      "tag": "c:flour"
+      "item": "ferdinandsflowers:venus_fly_trap"
     },
     {
-      "tag": "extradelight:processed/beetroot"
+      "item": "ferdinandsflowers:darkosto_traposto"
     },
     {
-      "tag": "c:flour"
+      "item": "ferdinandsflowers:venus_fly_trap"
     }
   ],
   "result": {
     "count": 1,
-    "id": "cluttered:heart_cake"
+    "id": "ferdinandsflowers:birthday_cake_darkosto"
   }
 }

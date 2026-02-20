@@ -1,0 +1,32 @@
+{
+  "type": "extradelight:chiller",
+  "consumeContainer": true,
+  "container": {
+    "count": 1,
+    "id": "minecraft:glass_bottle"
+  },
+  "cookingtime": 800,
+  "experience": 0.35,
+  "fluid": {
+    "amount": 250,
+    "id": "minecraft:milk"
+  },
+  "ingredients": [
+    {
+      "tag": "extradelight:sweetener"
+    },
+    {
+      "item": "pineapple_delight:pineapple_side"
+    },
+    {
+      "item": "pineapple_delight:pineapple_side"
+    },
+    {
+      "item": "pineapple_delight:pineapple_side"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "pineapple_delight:pineapple_ice_cream"
+  }
+}

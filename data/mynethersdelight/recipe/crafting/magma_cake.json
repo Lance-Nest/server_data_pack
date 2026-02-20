@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:square_pan"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "mynethersdelight:pepper_powder"
+    },
+    {
+      "item": "mynethersdelight:hot_cream"
+    },
+    {
+      "item": "mynethersdelight:pepper_powder"
+    },
+    {
+      "tag": "supplementaries:straw"
+    },
+    {
+      "tag": "supplementaries:straw"
+    },
+    {
+      "tag": "supplementaries:straw"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:magma_cake_block"
+  }
+}

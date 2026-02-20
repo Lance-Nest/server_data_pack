@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "extradelight:flour"
+    },
+    {
+      "chance": 0.25,
+      "id": "extradelight:flour"
+    }
+  ]
+}

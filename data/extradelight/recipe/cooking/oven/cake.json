@@ -12,7 +12,7 @@
       "tag": "c:foods/milk"
     },
     {
-      "tag": "extradelight:processed/beetroot"
+      "tag": "c:foods/milk"
     },
     {
       "tag": "c:foods/milk"
@@ -30,7 +30,7 @@
       "tag": "c:flour"
     },
     {
-      "tag": "extradelight:processed/beetroot"
+      "tag": "c:flour"
     },
     {
       "tag": "c:flour"
@@ -38,6 +38,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "cluttered:heart_cake"
+    "id": "minecraft:cake"
   }
 }
