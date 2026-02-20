@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+	"#c:sausage/cooked",
+	"#c:sausage/raw"
+  ]
+}

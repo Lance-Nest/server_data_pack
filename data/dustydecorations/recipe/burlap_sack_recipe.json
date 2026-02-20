@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "dustydecorations:burlap"
+    },
+	"w": {
+      "item": "minecraft:wheat"
+    },
+    "r": {
+      "tag": "supplementaries:ropes"
+    }
+  },
+  "pattern": [
+    "rbb",
+    "bwb",
+    "bbr"
+  ],
+  "result": {
+    "count": 3,
+    "id": "dustydecorations:burlap_sack"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "l": {
+      "item": "minecraft:lantern"
+    }
+  },
+  "pattern": [
+    " r ",
+    "plp",
+	" p "
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:paper_lantern"
+  }
+}

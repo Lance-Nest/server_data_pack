@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "t": {
+      "tag": "c:rods/wooden"
+    },
+    "s": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "pattern": [
+    "s s",
+    " r ",
+	"t t"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:displayed_oars"
+  }
+}

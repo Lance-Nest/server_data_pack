@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "tag": "extradelight:processed/potato"
+    },
+    {
+      "tag": "c:sausage/raw"
+    },
+    {
+      "tag": "c:sausage/raw"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:sausage_and_potatoes"
+  }
+}

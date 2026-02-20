@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+	"b": {
+      "item": "dustydecorations:burlap"
+    }
+  },
+  "pattern": [
+    "br",
+    "rb"
+  ],
+  "result": {
+    "count": 6,
+    "id": "dustydecorations:wicker"
+  }
+}

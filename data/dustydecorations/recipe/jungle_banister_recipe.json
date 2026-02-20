@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "j": {
+      "item": "minecraft:jungle_fence"
+    }
+  },
+  "pattern": [
+    "jrj",
+    " j ",
+	" j "
+  ],
+  "result": {
+    "count": 8,
+    "id": "dustydecorations:jungle_banister"
+  }
+}

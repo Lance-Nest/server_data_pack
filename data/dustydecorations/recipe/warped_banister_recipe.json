@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "w": {
+      "item": "minecraft:warped_fence"
+    }
+  },
+  "pattern": [
+    "wrw",
+    " w ",
+	" w "
+  ],
+  "result": {
+    "count": 8,
+    "id": "dustydecorations:warped_banister"
+  }
+}

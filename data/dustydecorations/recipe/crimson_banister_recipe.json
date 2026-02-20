@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "c": {
+      "item": "minecraft:crimson_fence"
+    }
+  },
+  "pattern": [
+    "crc",
+    " c ",
+	" c "
+  ],
+  "result": {
+    "count": 8,
+    "id": "dustydecorations:crimson_banister"
+  }
+}

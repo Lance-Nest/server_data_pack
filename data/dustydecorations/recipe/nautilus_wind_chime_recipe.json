@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "s": {
+      "tag": "dustydecorations:seaglass_fragment"
+    },
+	"n": {
+      "item": "dustydecorations:small_nautilus_shell"
+    }
+  },
+  "pattern": [
+    " r ",
+    "sns",
+	"s s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:nautilus_wind_chime"
+  }
+}

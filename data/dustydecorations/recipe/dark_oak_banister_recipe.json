@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "d": {
+      "item": "minecraft:dark_oak_fence"
+    }
+  },
+  "pattern": [
+    "drd",
+    " d ",
+	" d "
+  ],
+  "result": {
+    "count": 8,
+    "id": "dustydecorations:dark_oak_banister"
+  }
+}

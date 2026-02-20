@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    }
+  },
+  "pattern": [
+    " r ",
+    "r r",
+	" r "
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:rope_coil"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "b": {
+      "item": "minecraft:birch_fence"
+    }
+  },
+  "pattern": [
+    "brb",
+    " b ",
+	" b "
+  ],
+  "result": {
+    "count": 8,
+    "id": "dustydecorations:birch_banister"
+  }
+}

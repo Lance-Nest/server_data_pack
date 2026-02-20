@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "k": {
+      "item": "dustydecorations:wedged_cleaver"
+    }
+  },
+  "pattern": [
+    "rrr",
+    "kkk"
+  ],
+  "result": {
+    "count": 3,
+    "id": "dustydecorations:hanging_knives"
+  }
+}

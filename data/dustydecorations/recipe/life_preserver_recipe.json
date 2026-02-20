@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "w": {
+      "tag": "minecraft:wool"
+    },
+	"s": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "sws",
+    "wrw",
+	"sws"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:life_preserver"
+  }
+}

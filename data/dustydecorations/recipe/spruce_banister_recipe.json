@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "r": {
+      "tag": "supplementaries:ropes"
+    },
+    "s": {
+      "item": "minecraft:spruce_fence"
+    }
+  },
+  "pattern": [
+    "srs",
+    " s ",
+	" s "
+  ],
+  "result": {
+    "count": 8,
+    "id": "dustydecorations:spruce_banister"
+  }
+}
