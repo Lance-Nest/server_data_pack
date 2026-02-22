@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cbc",
+        "bcb",
+		"cbc"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:clay_ball"
+        },
+        "b": {
+            "item": "minecraft:brick"
+        }
+    },
+    "result": {
+        "id": "abyssal_decor:chiseled_brick",
+        "count": 3
+    }
+}

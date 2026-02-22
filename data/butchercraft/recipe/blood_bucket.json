@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "tag": "irons_spellbooks:blood_focus"
+    },
+    {
+      "tag": "irons_spellbooks:blood_focus"
+    },
+    {
+      "tag": "irons_spellbooks:blood_focus"
+    },
+    {
+      "tag": "irons_spellbooks:blood_focus"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "butchercraft:blood_fluid_bucket"
+  }
+}

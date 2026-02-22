@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#c:ingots/bronze",
+	"#c:ingots/industrial_iron",
+	"abyssal_decor:deepbronze_ingot",
+	"abyssal_decor:seabrass_ingot",
+	"cataclysm:ancient_metal_ingot",
+	"cataclysm:black_steel_ingot",
+	"cataclysm:cursium_ingot",
+	"cataclysm:ignitium_ingot",
+	"cataclysm:witherite_ingot"
+  ]
+}

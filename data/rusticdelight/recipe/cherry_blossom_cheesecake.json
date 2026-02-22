@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "rusticdelight:cherry_blossom_ingredients"
+    },
+    {
+      "tag": "rusticdelight:cherry_blossom_ingredients"
+    },
+    {
+      "tag": "rusticdelight:cherry_blossom_ingredients"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+	{
+      "tag": "c:foods/milk"
+    },
+	{
+      "tag": "c:foods/milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rusticdelight:cherry_blossom_cheesecake"
+  }
+}

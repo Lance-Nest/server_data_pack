@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+	"#extradelight:processed/carrot",
+	"#extradelight:processed/potato",
+	"#extradelight:processed/beetroot",
+	"#extradelight:processed/chili",
+	"#extradelight:processed/garlic",
+	"#extradelight:processed/onion",
+	"#c:meat/raw",
+	"extradelight:corn_seeds"
+  ]
+}

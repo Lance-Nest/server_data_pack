@@ -1,0 +1,109 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	},
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "c:crops/coffee/green"
+		},
+		"subtracted": [
+		  {
+			"item": "rusticdelight:coffee_beans"
+		  }
+		]
+	}
+  ],
+  "result": {
+    "count": 1,
+    "id": "extradelight:green_coffee_bean_sack"
+  }
+}

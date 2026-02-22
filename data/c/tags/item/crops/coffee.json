@@ -1,6 +1,7 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
+	"extradelight:coffee_cherries",
     "youkaishomecoming:coffee_berries"
   ]
 }

@@ -1,6 +1,8 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
+	"extradelight:green_coffee",
+	"rusticdelight:coffee_beans",
     "youkaishomecoming:green_coffee_bean"
   ]
 }

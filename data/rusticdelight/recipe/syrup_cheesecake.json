@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "rusticdelight:syrup"
+    },
+    {
+      "item": "rusticdelight:syrup"
+    },
+    {
+      "item": "rusticdelight:syrup"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+	{
+      "tag": "c:foods/milk"
+    },
+	{
+      "tag": "c:foods/milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rusticdelight:syrup_cheesecake"
+  }
+}

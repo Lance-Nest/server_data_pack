@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+	"aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:nuggets/copper"
+    }
+  },
+  "result": {
+    "id": "createdeco:copper_bars",
+    "count": 2
+  }
+}
