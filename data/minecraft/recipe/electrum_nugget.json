@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "hazennstuff:silver_scraps"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "createaddition:electrum_nugget"
+  }
+}

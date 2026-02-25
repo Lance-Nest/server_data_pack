@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": [
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "tag": "c:spider_fang"
+      }
+    ],
+    "y": {
+      "tag": "c:rods/wooden"
+    },
+    "z": {
+      "tag": "c:feathers"
+    }
+  },
+  "pattern": [
+    " x ",
+    " y ",
+    " z "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:arrow"
+  }
+}
