@@ -1,0 +1,18 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "minecraft:chain"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 5,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:iron_nugget"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sss",
+	"sas",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "hazennstuff:silver_scraps"
+    },
+    "a": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:silver_ring",
+    "count": 1
+  }
+}

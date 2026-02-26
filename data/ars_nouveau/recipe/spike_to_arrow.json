@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " w ",
+    " s ",
+    " f "
+  ],
+  "key": {
+    "w": {
+      "item": "ars_nouveau:wilden_spike"
+    },
+    "f": {
+      "tag": "c:feathers"
+    },
+    "s": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "minecraft:arrow",
+	"count": 32
+  }
+}

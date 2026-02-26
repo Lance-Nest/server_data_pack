@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " f ",
+    " d ",
+    " s "
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "f": {
+      "tag": "c:feathers"
+    },
+    "s": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "betterarcheology:diamond_brush"
+  }
+}

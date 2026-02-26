@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "item": "irons_spellbooks:common_ink"
+      }
+    ],
+    {
+      "tag": "c:feathers"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:writable_book"
+  }
+}

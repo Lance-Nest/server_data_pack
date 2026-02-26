@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+	"abyssal_decor:deepbronze_chain",
+	"abyssal_decor:seabrass_chain",
+	"ars_additions:archwood_chain",
+	"ars_additions:golden_chain",
+	"ars_additions:sourcestone_chain",
+	"ars_additions:polished_sourcestone_chain",
+	"everythingcopper:copper_chain",
+	"everythingcopper:waxed_copper_chain",
+	"everythingcopper:exposed_copper_chain",
+	"everythingcopper:waxed_exposed_copper_chain",
+	"everythingcopper:weathered_copper_chain",
+	"everythingcopper:waxed_weathered_copper_chain",
+	"everythingcopper:oxidized_copper_chain",
+	"everythingcopper:waxed_oxidized_copper_chain"
+  ]
+}
