@@ -1,0 +1,12 @@
+{
+  "type": "extradelight:drying_rack",
+  "cookingtime": 1000,
+  "experience": 10.0,
+  "ingredient": {
+    "item": "youkaishomecoming:green_tea_leaves"
+  },
+  "result": {
+    "count": 1,
+    "id": "youkaishomecoming:white_tea_leaves"
+  }
+}

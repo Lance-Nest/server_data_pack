@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createdeco:blue_bricks"
+    },
+    {
+      "tag": "c:moss"
+    }
+  ],
+  "result": {
+    "id": "createdeco:mossy_blue_bricks"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "y": {
+      "tag": "c:moss"
+    },
+    "x": {
+      "item": "abyssal_decor:cinnamon_shingles"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "result": {
+    "count": 8,
+    "id": "abyssal_decor:mossy_cinnamon_shingles"
+  }
+}

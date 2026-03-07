@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "bloomingnature:fen_moss_carpet"
+    }
+  },
+  "pattern": [
+    " m ",
+    " m ",
+    " m "
+  ],
+  "result": {
+    "count": 2,
+    "id": "bloomingnature:fen_moss"
+  }
+}

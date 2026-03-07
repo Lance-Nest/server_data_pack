@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "y": {
+      "tag": "c:feathers"
+    },
+    "x": {
+      "item": "ars_nouveau:magebloom_fiber"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xyx",
+    "xxx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ars_nouveau:orange_sbed"
+  }
+}

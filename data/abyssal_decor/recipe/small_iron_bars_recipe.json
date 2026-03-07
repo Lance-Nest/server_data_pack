@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "abyssal_decor:small_clean_iron_bars",
+    "count": 16
+  }
+}

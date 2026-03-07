@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "inknquill",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "c:feathers"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "item": "irons_spellbooks:common_ink"
+      }
+    ],
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "id": "dustydecorations:ink_n_quill",
+    "count": 1
+  }
+}

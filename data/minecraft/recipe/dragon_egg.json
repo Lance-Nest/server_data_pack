@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "o": {
+      "tag": "c:obsidians"
+    },
+    "c": {
+      "item": "minecraft:end_crystal"
+    },
+    "d": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "pattern": [
+    "oco",
+    "cdc",
+    "oco"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:dragon_egg"
+  }
+}

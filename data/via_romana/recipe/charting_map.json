@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "minecraft:map"
+    },
+	"i": [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "item": "irons_spellbooks:common_ink"
+      }
+    ],
+    "f": {
+      "tag": "c:feathers"
+    },
+	"s": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    "mi ",
+    "fs "
+  ],
+  "result": {
+    "count": 1,
+    "id": "via_romana:charting_map"
+  }
+}
