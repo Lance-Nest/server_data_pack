@@ -1,0 +1,24 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "artifacts:villager_hat"
+  },
+  "results": [
+    {
+      "count": 5,
+      "id": "farmersdelight:straw"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:yellow_dye"
+    },
+    {
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:emerald"
+    }
+  ]
+}

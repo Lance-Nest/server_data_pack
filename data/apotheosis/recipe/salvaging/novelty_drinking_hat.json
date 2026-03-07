@@ -1,0 +1,50 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "artifacts:novelty_drinking_hat"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:uncommon_material"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:blue_dye"
+            }
+        },
+		{
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:white_dye"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:glass_bottle"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:bamboo"
+            }
+        }
+    ]
+}

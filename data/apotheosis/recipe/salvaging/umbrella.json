@@ -1,0 +1,42 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "artifacts:umbrella"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 8,
+            "min_count": 4,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:uncommon_material"
+            }
+        },
+        {
+            "max_count": 6,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:stick"
+            }
+        },
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:slime_ball"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:rare_material"
+            }
+        }
+    ]
+}

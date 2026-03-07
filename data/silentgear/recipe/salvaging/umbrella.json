@@ -1,0 +1,28 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "artifacts:umbrella"
+  },
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:white_carpet"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:red_carpet"
+    },
+    {
+      "count": 9,
+      "id": "minecraft:stick"
+    },
+    {
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:slime_ball"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "artifacts:novelty_drinking_hat"
+  },
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:leather_helmet"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:blue_dye"
+    },
+	{
+      "count": 1,
+      "id": "minecraft:white_dye"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:glass_bottle"
+    },
+    {
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:bamboo"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "artifacts:cowboy_hat"
+  },
+  "results": [
+    {
+      "count": 5,
+      "id": "minecraft:leather_helmet"
+    },
+    {
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "count": 2,
+      "id": "butchercraft:leather_cord"
+    }
+  ]
+}
