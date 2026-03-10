@@ -39,11 +39,19 @@
             }
         },
         {
-            "max_count": 1,
-            "min_count": 0,
+            "max_count": 2,
+            "min_count": 1,
             "stack": {
                 "count": 1,
                 "id": "minecraft:bamboo"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:rare_material"
             }
         }
     ]

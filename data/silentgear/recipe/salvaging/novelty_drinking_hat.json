@@ -21,6 +21,10 @@
       "id": "minecraft:glass_bottle"
     },
     {
+      "count": 1,
+      "id": "irons_spellbooks:magic_cloth"
+    },
+    {
       "count": 2,
       "id": "irons_spellbooks:arcane_essence"
     },

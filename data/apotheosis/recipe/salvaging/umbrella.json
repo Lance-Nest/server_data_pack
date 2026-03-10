@@ -7,16 +7,16 @@
     ],
     "outputs": [
         {
-            "max_count": 8,
-            "min_count": 4,
+            "max_count": 4,
+            "min_count": 2,
             "stack": {
                 "count": 1,
                 "id": "apotheosis:uncommon_material"
             }
         },
         {
-            "max_count": 6,
-            "min_count": 2,
+            "max_count": 9,
+            "min_count": 5,
             "stack": {
                 "count": 1,
                 "id": "minecraft:stick"

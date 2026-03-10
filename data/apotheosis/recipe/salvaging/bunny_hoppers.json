@@ -2,7 +2,7 @@
     "type": "apotheosis:salvaging",
     "input": [
         {
-            "item": "artifacts:cowboy_hat"
+            "item": "artifacts:bunny_hoppers"
         }
     ],
     "outputs": [
@@ -19,7 +19,15 @@
             "min_count": 1,
             "stack": {
                 "count": 1,
-                "id": "butchercraft:leather_cord"
+                "id": "minecraft:rabbit_foot"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "butchercraft:rabbit_brown_head_item"
             }
         },
         {

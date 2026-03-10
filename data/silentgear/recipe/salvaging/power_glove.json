@@ -1,20 +1,16 @@
 {
   "type": "silentgear:salvaging",
   "ingredient": {
-    "item": "artifacts:plastic_drinking_hat"
+    "item": "artifacts:power_glove"
   },
   "results": [
     {
+      "count": 2,
+      "id": "minecraft:leather"
+    },
+    {
       "count": 1,
-      "id": "minecraft:leather_helmet"
-    },
-    {
-      "count": 2,
-      "id": "minecraft:orange_dye"
-    },
-    {
-      "count": 2,
-      "id": "minecraft:glass_bottle"
+      "id": "minecraft:yellow_dye"
     },
     {
       "count": 1,
@@ -25,8 +21,8 @@
       "id": "irons_spellbooks:arcane_essence"
     },
     {
-      "count": 2,
-      "id": "minecraft:bamboo"
+      "count": 1,
+      "id": "minecraft:gray_dye"
     }
   ]
 }

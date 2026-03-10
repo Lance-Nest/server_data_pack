@@ -2,12 +2,12 @@
     "type": "apotheosis:salvaging",
     "input": [
         {
-            "item": "artifacts:cowboy_hat"
+            "item": "artifacts:power_glove"
         }
     ],
     "outputs": [
         {
-            "max_count": 4,
+            "max_count": 3,
             "min_count": 2,
             "stack": {
                 "count": 1,
@@ -15,11 +15,19 @@
             }
         },
         {
-            "max_count": 2,
-            "min_count": 1,
+            "max_count": 1,
+            "min_count": 0,
             "stack": {
                 "count": 1,
-                "id": "butchercraft:leather_cord"
+                "id": "minecraft:yellow_dye"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:gray_dye"
             }
         },
         {

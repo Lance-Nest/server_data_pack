@@ -2,16 +2,16 @@
     "type": "apotheosis:salvaging",
     "input": [
         {
-            "item": "artifacts:cowboy_hat"
+            "item": "artifacts:feral_claws"
         }
     ],
     "outputs": [
         {
-            "max_count": 4,
-            "min_count": 2,
+            "max_count": 1,
+            "min_count": 0,
             "stack": {
                 "count": 1,
-                "id": "apotheosis:uncommon_material"
+                "id": "minecraft:lime_dye"
             }
         },
         {
@@ -23,8 +23,8 @@
             }
         },
         {
-            "max_count": 2,
-            "min_count": 1,
+            "max_count": 4,
+            "min_count": 2,
             "stack": {
                 "count": 1,
                 "id": "apotheosis:rare_material"

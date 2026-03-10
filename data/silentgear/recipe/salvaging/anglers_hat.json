@@ -1,7 +1,7 @@
 {
   "type": "silentgear:salvaging",
   "ingredient": {
-    "item": "artifacts:plastic_drinking_hat"
+    "item": "artifacts:anglers_hat"
   },
   "results": [
     {
@@ -10,11 +10,7 @@
     },
     {
       "count": 2,
-      "id": "minecraft:orange_dye"
-    },
-    {
-      "count": 2,
-      "id": "minecraft:glass_bottle"
+      "id": "minecraft:light_gray_dye"
     },
     {
       "count": 1,
@@ -25,8 +21,8 @@
       "id": "irons_spellbooks:arcane_essence"
     },
     {
-      "count": 2,
-      "id": "minecraft:bamboo"
+      "count": 1,
+      "id": "minecraft:feather"
     }
   ]
 }
