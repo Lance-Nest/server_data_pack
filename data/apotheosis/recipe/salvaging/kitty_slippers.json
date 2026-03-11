@@ -1,0 +1,42 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "artifacts:kitty_slippers"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:uncommon_material"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:gray_dye"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "silentgear:fluffy_puff"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:rare_material"
+            }
+        }
+    ]
+}

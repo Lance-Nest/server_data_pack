@@ -1,0 +1,28 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "artifacts:rooted_boots"
+  },
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:leather_boots"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:lime_dye"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:hanging_roots"
+    },
+    {
+      "count": 1,
+      "id": "irons_spellbooks:magic_cloth"
+    },
+    {
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    }
+  ]
+}

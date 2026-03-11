@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "enchanted:mutandis"
+    },
+    "c": {
+      "item": "farmersdelight:red_mushroom_colony"
+    },
+    "e": {
+      "item": "minecraft:cow_spawn_egg"
+    },
+    "s": {
+      "item": "minecraft:mushroom_stew"
+    }
+  },
+  "pattern": [
+    "mcm",
+    "mem",
+    "msm"
+  ],
+  "result": {
+    "id": "minecraft:mooshroom_spawn_egg"
+  }
+}
