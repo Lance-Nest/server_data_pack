@@ -1,0 +1,50 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "relics:roller_skates"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:uncommon_material"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:red_dye"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:yellow_dye"
+            }
+        },
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:iron_nugget"
+            }
+        },
+        {
+            "max_count": 2,
+            "min_count": 1,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:rare_material"
+            }
+        }
+    ]
+}

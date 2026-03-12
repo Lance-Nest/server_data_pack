@@ -1,0 +1,24 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "relics:leather_belt"
+  },
+  "results": [
+    {
+      "count": 5,
+      "id": "butchercraft:leather_cord"
+    },
+    {
+      "count": 1,
+      "id": "irons_spellbooks:magic_cloth"
+    },
+    {
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:gold_nugget"
+    }
+  ]
+}

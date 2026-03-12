@@ -1,0 +1,28 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "relics:holy_locket"
+  },
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:gold_nugget"
+    },
+    {
+      "count": 1,
+      "id": "irons_jewelry:ruby"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:blaze_powder"
+    },
+    {
+      "count": 3,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+    {
+      "count": 1,
+      "id": "irons_spellbooks:heavy_chain_necklace"
+    }
+  ]
+}

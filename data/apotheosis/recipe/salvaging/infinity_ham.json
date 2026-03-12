@@ -1,0 +1,26 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "relics:infinity_ham"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "farmersdelight:smoked_ham"
+            }
+        },
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:rare_material"
+            }
+        }
+    ]
+}

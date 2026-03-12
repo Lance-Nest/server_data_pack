@@ -1,0 +1,16 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "relics:infinity_ham"
+  },
+  "results": [
+    {
+      "count": 4,
+      "id": "farmersdelight:smoked_ham"
+    },
+    {
+      "count": 3,
+      "id": "irons_spellbooks:arcane_essence"
+    }
+  ]
+}

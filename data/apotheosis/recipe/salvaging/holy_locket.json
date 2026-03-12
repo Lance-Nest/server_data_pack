@@ -1,0 +1,42 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "relics:holy_locket"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:gold_nugget"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "irons_jewelry:ruby"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:blaze_powder"
+            }
+        },
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "apotheosis:rare_material"
+            }
+        }
+    ]
+}
