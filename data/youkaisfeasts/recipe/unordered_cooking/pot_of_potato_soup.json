@@ -1,0 +1,28 @@
+{
+  "type": "youkaisfeasts:unordered_cooking",
+  "input": [
+    {
+      "item": "youkaisfeasts:bowl_of_cream"
+    },
+    {
+      "tag": "extradelight:processed/potato"
+    },
+    {
+      "tag": "extradelight:processed/potato"
+    },
+    {
+      "tag": "extradelight:processed/potato"
+    },
+    {
+      "tag": "c:foods/raw_pork"
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaisfeasts:pot_of_potato_soup"
+  },
+  "time": 400
+}

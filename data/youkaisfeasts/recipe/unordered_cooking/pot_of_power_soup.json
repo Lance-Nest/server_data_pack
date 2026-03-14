@@ -1,0 +1,38 @@
+{
+  "type": "youkaisfeasts:unordered_cooking",
+  "input": [
+    {
+      "type": "youkaisfeasts:slip_bottle",
+      "fluid": "youkaisfeasts:soy_sauce"
+    },
+    {
+      "tag": "c:crops/soybean"
+    },
+    {
+      "tag": "c:foods/raw_boar"
+    },
+    {
+      "tag": "c:foods/raw_venison"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "extradelight:processed/carrot"
+    },
+    {
+      "tag": "extradelight:processed/tomato"
+    },
+    {
+      "tag": "extradelight:processed/cabbage"
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaisfeasts:pot_of_power_soup"
+  },
+  "time": 400
+}

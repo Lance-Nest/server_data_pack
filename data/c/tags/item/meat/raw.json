@@ -3,6 +3,8 @@
   "values": [
     "clutterbestiary:raw_venison",
 	"clutterbestiary:raw_venison_ribs",
-	"koopascritters:raw_wild_bird"
+	"koopascritters:raw_wild_bird",
+	"youkaisfeasts:raw_venison",
+	"youkaisfeasts:raw_venison_slice"
   ]
 }

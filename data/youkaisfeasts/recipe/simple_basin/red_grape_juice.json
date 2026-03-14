@@ -1,0 +1,18 @@
+{
+  "type": "youkaisfeasts:simple_basin",
+  "input": {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "youkaisfeasts:red_grape"
+        },
+        {
+          "item": "cocktailsdelight:red_grapes"
+        }
+      ]
+    },
+  "output": {
+    "amount": 50,
+    "id": "youkaisfeasts:red_grape_juice"
+  }
+}

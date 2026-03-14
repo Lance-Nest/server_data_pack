@@ -1,0 +1,24 @@
+{
+  "type": "youkaisfeasts:unordered_cooking",
+  "input": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:foods/vegetable"
+        },
+        {
+          "tag": "extradelight:processed/vegetable"
+        }
+      ]
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaisfeasts:higan_soup"
+  },
+  "time": 200
+}

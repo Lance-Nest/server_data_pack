@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-	"#c:meat/cooked",
-    "clutterbestiary:cooked_venison",
-	"clutterbestiary:cooked_venison_ribs"
+	"#c:meat/cooked"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "type": "youkaisfeasts:kettle",
+  "input": [
+    {
+      "tag": "c:tea_leaves/black"
+    },
+    {
+      "tag": "c:tea_leaves/black"
+    },
+    {
+      "tag": "c:cocoa/powder"
+    },
+    {
+      "tag": "c:foods/milk"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "youkaisfeasts:tea_mocha"
+  },
+  "time": 100
+}

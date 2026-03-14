@@ -1,9 +1,6 @@
 {
   "replace": false,
   "values": [
-	"extradelight:coffee",
-	"youkaishomecoming:americano",
-	"youkaishomecoming:espresso",
-	"youkaishomecoming:ristretto"
+	"extradelight:coffee"
   ]
 }

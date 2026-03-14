@@ -1,0 +1,46 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "youkaisfeasts:saucer"
+  },
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "tag": "c:foods/safe_raw_fish"
+    },
+    {
+      "tag": "c:condiments/soy_sauce"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:foods/vegetable"
+        },
+        {
+          "tag": "extradelight:processed/vegetable"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:foods/vegetable"
+        },
+        {
+          "tag": "extradelight:processed/vegetable"
+        }
+      ]
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "youkaisfeasts:sauce_grilled_fish"
+  }
+}

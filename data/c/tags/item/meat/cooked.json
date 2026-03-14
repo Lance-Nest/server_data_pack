@@ -3,6 +3,8 @@
   "values": [
     "clutterbestiary:cooked_venison",
 	"clutterbestiary:cooked_venison_ribs",
-	"koopascritters:cooked_wild_bird"
+	"koopascritters:cooked_wild_bird",
+	"youkaisfeasts:grilled_venison",
+	"youkaisfeasts:grilled_venison_slice"
   ]
 }

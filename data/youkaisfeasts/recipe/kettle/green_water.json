@@ -1,0 +1,22 @@
+{
+  "type": "youkaisfeasts:kettle",
+  "input": [
+    {
+      "tag": "extradelight:processed/cabbage"
+    },
+    {
+      "tag": "extradelight:processed/cabbage"
+    },
+    {
+      "tag": "extradelight:processed/cabbage"
+    },
+    {
+      "tag": "extradelight:processed/cabbage"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "youkaisfeasts:green_water"
+  },
+  "time": 100
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "youkaisfeasts:tofu"
+    },
+    {
+      "item": "youkaisfeasts:tofu"
+    },
+    {
+      "tag": "c:condiments/soy_sauce"
+    },
+    {
+      "tag": "c:crops/soybean"
+    },
+    {
+      "tag": "extradelight:processed/cabbage"
+    },
+    {
+      "tag": "c:ice/cubes"
+    },
+    {
+      "item": "youkaisfeasts:saucer"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "youkaisfeasts:cold_tofu"
+  }
+}
