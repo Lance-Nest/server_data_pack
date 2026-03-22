@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ccc",
+    "ccc",
+    "cbc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "youkaisfeasts:short_basket"
+    }
+  },
+  "result": {
+    "id": "youkaisfeasts:carrot_basket"
+  }
+}

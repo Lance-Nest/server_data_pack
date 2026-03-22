@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:golden_apple"
+    },
+    "b": {
+      "item": "youkaisfeasts:short_basket"
+    }
+  },
+  "result": {
+    "id": "youkaisfeasts:golden_apple_basket"
+  }
+}

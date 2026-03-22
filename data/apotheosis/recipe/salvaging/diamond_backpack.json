@@ -1,0 +1,58 @@
+{
+    "type": "apotheosis:salvaging",
+    "input": [
+        {
+            "item": "sophisticatedbackpacks:diamond_backpack"
+        }
+    ],
+    "outputs": [
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:leather"
+            }
+        },
+        {
+            "max_count": 4,
+            "min_count": 2,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:string"
+            }
+        },
+        {
+            "max_count": 1,
+            "min_count": 0,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:chest"
+            }
+        },
+        {
+            "max_count": 8,
+            "min_count": 4,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:iron_ingot"
+            }
+        },
+        {
+            "max_count": 8,
+            "min_count": 4,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:gold_ingot"
+            }
+        },
+        {
+            "max_count": 8,
+            "min_count": 4,
+            "stack": {
+                "count": 1,
+                "id": "minecraft:diamond"
+            }
+        }
+    ]
+}

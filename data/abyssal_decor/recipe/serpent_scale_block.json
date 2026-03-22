@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sss",
+    "scs",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "hazennstuff:shadow_scale"
+    },
+    "c": {
+      "item": "minecraft:cyan_dye"
+    }
+  },
+  "result": {
+    "id": "abyssal_decor:serpent_scales"
+  }
+}
