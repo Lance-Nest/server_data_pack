@@ -1,12 +1,6 @@
 {
   "replace": false,
   "values": [
-    "bloomingnature:aspen_sapling",
-	"bloomingnature:chestnut_sapling",
-	"bloomingnature:ebony_sapling",
-	"bloomingnature:fir_sapling",
-	"bloomingnature:swamp_cypress_sapling",
-	"bloomingnature:swamp_oak_sapling",
 	"cluttered:crabapple_sapling",
 	"cluttered:sycamore_sapling",
 	"enchanted:alder_sapling",
