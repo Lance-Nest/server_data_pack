@@ -1,10 +1,8 @@
 {
   "values": [
-	"abyssal_decor:daffodil",
 	"enchanted:ember_moss",
-	"ferdinandsflowers:live_forever",
-	"ferdinandsflowers:yellow_patches",
-	"ferdinandsflowers:yellow_stagshorn",
-	"jafohana:apricot_mallow"
+	"ferdinandsflowers:jack_o_lantern_fan",
+	"ferdinandsflowers:jack_o_lantern_fungus",
+	"herios_floral_expansion:orange_poppy"
   ]
 }

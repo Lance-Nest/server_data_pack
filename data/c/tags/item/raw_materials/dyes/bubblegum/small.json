@@ -1,12 +1,18 @@
 {
   "values": [
+	"ferdinandsflowers:cosmos_mix",
 	"ferdinandsflowers:devils_claw",
 	"ferdinandsflowers:echinacea",
 	"ferdinandsflowers:engelmanns_hedgehog_cactus",
+	"ferdinandsflowers:lotus_pink",
+	"ferdinandsflowers:nasturtium_pink",
 	"ferdinandsflowers:pink_desert_sand_verbena",
+	"herios_floral_expansion:magenta_hyacinth",
+	"herios_floral_expansion:pink_flowering_shrub",
 	"jafohana:dancing_ladies_ginger",
-	"jafohana:milk_vetch",
 	"jafohana:sea_thrift",
-	"jafohana:winter_heath"
+	"jafohana:winter_heath",
+	"mysticsbiomes:wildflower",
+	"the_great_outdoors:shooting_stsr_flower"
   ]
 }

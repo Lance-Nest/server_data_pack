@@ -1,7 +1,15 @@
 {
   "values": [
+	"abyssal_decor:daffodil",
+	"cnb:yellow_minipad_flower",
 	"enchanted:wolfsbane_flower",
+	"extradelight:orange_petal_litter_item",
 	"ferdinandsflowers:day_lily",
-	"ferdinandsflowers:white_daffodil"
+	"ferdinandsflowers:red_reishi",
+	"ferdinandsflowers:red_reishi_fan",
+	"ferdinandsflowers:water_lily_sunfire",
+	"ferdinandsflowers:yellow_patches",
+	"herios_floral_expansion:yellow_cactus_flower",
+	"herios_floral_expansion:yellow_flowering_shrub"
   ]
 }

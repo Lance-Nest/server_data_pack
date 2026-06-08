@@ -15,11 +15,11 @@
   "results": [
     {
       "count": 2,
-      "id": "dyenamics:persimmon_dye"
+      "id": "minecraft:orange_dye"
     },
     {
       "chance": 0.05,
-      "id": "minecraft:orange_dye"
+      "id": "dyenamics:persimmon_dye"
     },
     {
       "chance": 0.05,

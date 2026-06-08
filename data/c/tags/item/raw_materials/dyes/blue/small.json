@@ -1,11 +1,14 @@
 {
   "values": [
+	"ars_nouveau:frostaya_pod",
 	"ferdinandsflowers:blue_bachelor_button",
-	"ferdinandsflowers:commelina",
-	"ferdinandsflowers:medium_blue_lobelia",
-	"ferdinandsflowers:morning_glory",
-	"ferdinandsflowers:royal_blue_lobelia",
+	"ferdinandsflowers:baby_blue_eyes",
+	"jafohana:forget_me_not",
+	"herios_floral_expansion:blue_petals",
+	"herios_floral_expansion:blue_poppy",
 	"minecraft:cornflower",
-	"minecraft:lapis_lazuli"
+	"minecraft:lapis_lazuli",
+	"minecraft:tube_coral",
+	"minecraft:tube_coral_fan"
   ]
 }

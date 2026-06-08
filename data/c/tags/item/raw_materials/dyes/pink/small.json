@@ -1,18 +1,25 @@
 {
   "values": [
+	"cnb:light_pink_waterlily",
+	"cnb:pink_minipad_flower",
 	"extradelight:apple_petal_litter_item",
 	"ferdinandsflowers:bleeding_heart",
 	"ferdinandsflowers:buckwheat",
 	"ferdinandsflowers:clover_flowers",
-	"ferdinandsflowers:cosmos_mix",
 	"ferdinandsflowers:light_pink_geranium",
-	"ferdinandsflowers:nasturtium_pink",
 	"ferdinandsflowers:rock_rose",
-	"ferdinandsflowers:rock_rose_orchid",
-	"ferdinandsflowers:snapdragon_pink",
+	"herios_floral_expansion:pink_cactus_flower",
+	"herios_floral_expansion:pink_water_lily",
 	"jafohana:pink_hawks_beard",
 	"jafohana:pink_snapdragon",
+	"minecraft:brain_coral",
+	"minecraft:brain_coral_fan",
 	"minecraft:pink_petals",
-	"minecraft:pink_tulip"
+	"minecraft:pink_tulip",
+	"moresnifferflowers:torchewflower",
+	"mysticsbiomes:saguaro_blossom",
+	"mysticsbiomes:sea_thrift",
+	"serene_shrubbery:panola_pink_pansies",
+	"serene_shrubbery:white_liverwort"
   ]
 }

@@ -1,16 +1,24 @@
 {
   "values": [
 	"abyssal_decor:aster",
-	"ars_nouveau:magebloom",
 	"enchanted:belladonna_flower",
-	"ferdinandsflowers:birds_eye_gilia",
 	"ferdinandsflowers:california_sea_thrift",
 	"ferdinandsflowers:coastal_lotus",
-	"ferdinandsflowers:desert_sand_verbena",
+	"ferdinandsflowers:common_periwinkle",
+	"ferdinandsflowers:owls_clover",
+	"ferdinandsflowers:pansy",
 	"ferdinandsflowers:parrot_flower",
 	"ferdinandsflowers:peppermint",
+	"ferdinandsflowers:periwinkle",
+	"ferdinandsflowers:purple_crocus",
 	"ferdinandsflowers:purple_flag",
+	"ferdinandsflowers:water_lily_joy",
+	"ferdinandsflowers:white_lightning",
+	"ferdinandsflowers:wisteria_lavender",
 	"ferdinandsflowers:wooly_thyme",
-	"minecraft:allium"
+	"herios_floral_expansion:lilac_petals",
+	"herios_floral_expansion:violet_cactus_flower",
+	"mysticsbiomes:lavender",
+	"the_great_outdoors:purple_aster"
   ]
 }

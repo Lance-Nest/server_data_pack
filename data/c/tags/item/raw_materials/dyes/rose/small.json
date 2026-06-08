@@ -1,7 +1,13 @@
 {
   "values": [
+	"cnb:pink_waterlily",
+	"delicate_dyes:rose",
+	"ferdinandsflowers:buckwheat_red",
+	"ferdinandsflowers:devils_fingers",
+	"ferdinandsflowers:devils_fingers_single",
 	"ferdinandsflowers:jewel_of_the_desert",
 	"ferdinandsflowers:pink_clover",
-	"ferdinandsflowers:pink_geranium"
+	"ferdinandsflowers:pink_geranium",
+	"serene_shrubbery:pink_pansies"
   ]
 }

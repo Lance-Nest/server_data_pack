@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "white_dye",
+  "ingredients": [
+    {
+      "tag": "c:raw_materials/dyes/cyan/tall"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:cyan_dye"
+  }
+}

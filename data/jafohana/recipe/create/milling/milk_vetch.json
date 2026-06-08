@@ -15,12 +15,12 @@
   "results": [
     {
       "count": 2,
-      "id": "dyenamics:bubblegum_dye"
+      "id": "minecraft:magenta_dye"
     },
     {
       "chance": 0.1,
       "count": 2,
-      "id": "minecraft:magenta_dye"
+      "id": "dyenamics:bubblegum_dye"
     },
     {
       "chance": 0.1,

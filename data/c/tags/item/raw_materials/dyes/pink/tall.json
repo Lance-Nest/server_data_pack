@@ -1,9 +1,13 @@
 {
   "values": [
-	"ferdinandsflowers:flowering_current",
 	"ferdinandsflowers:hawthorne",
-	"ferdinandsflowers:light_pink_larkspur",
 	"ferdinandsflowers:ornamental_cherry",
-	"minecraft:peony"
+	"herios_floral_expansion:pink_petal_block",
+	"jafohana:brazilian_plume",
+	"mysticsbiomes:milkweed",
+	"serene_shrubbery:lupine_pink",
+	"serene_shrubbery:peach_foxglove",
+	"serene_shrubbery:pink_butterfly_bush",
+	"serene_shrubbery:pink_hydrangea"
   ]
 }

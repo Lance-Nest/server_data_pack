@@ -1,12 +1,14 @@
 {
   "values": [
 	"ferdinandsflowers:skyscraper_sunflower",
+	"ferdinandsflowers:sundance_kid_sunflower",
 	"ferdinandsflowers:teddy_bear_sunflower",
+	"herios_floral_expansion:yellow_petal_block",
 	"jafohana:alpine_ragwort",
 	"jafohana:fasciated_dandelion",
-	"jafohana:princes_plume",
 	"jafohana:yellowflag_iris",
 	"jafohana:yellow_marigold",
-	"minecraft:sunflower"
+	"minecraft:sunflower",
+	"veggies_delight:mature_dandelion"
   ]
 }

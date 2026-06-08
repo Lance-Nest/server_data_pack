@@ -1,7 +1,10 @@
 {
   "values": [
-    "ferdinandsflowers:devils_claw_vine",
-	"ferdinandsflowers:tumble_weed",
-	"minecraft:cocoa_beans"
+    "ferdinandsflowers:turkey_tail",
+	"ferdinandsflowers:turkey_tail_fan",
+    "ferdinandsflowers:turkey_tail_brown",
+	"ferdinandsflowers:turkey_tail_brown_fan",
+	"minecraft:cocoa_beans",
+	"would:walnut"
   ]
 }

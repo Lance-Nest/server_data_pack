@@ -1,16 +1,12 @@
 {
   "values": [
-	"ars_nouveau:frostaya_pod",
-	"ferdinandsflowers:baby_blue_eyes",
-	"ferdinandsflowers:baby_blue_eyes_small",
-	"ferdinandsflowers:borage",
 	"ferdinandsflowers:blue_bell_bachelor_button",
-	"ferdinandsflowers:forget_me_not",
+	"ferdinandsflowers:borage",
+	"ferdinandsflowers:commelina",
 	"ferdinandsflowers:light_blue_forget_me_not",
 	"ferdinandsflowers:light_blue_lobelia",
-	"ferdinandsflowers:oyster_blue",
 	"ferdinandsflowers:pixies_parasol_blue",
-	"jafohana:forget_me_not",
+	"herios_floral_expansion:desert_rose",
 	"minecraft:blue_orchid"
   ]
 }

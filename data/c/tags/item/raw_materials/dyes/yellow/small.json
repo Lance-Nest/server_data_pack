@@ -1,21 +1,27 @@
 {
   "values": [
-	"extradelight:lemon_petal_litter_item",
+	"cnb:yellow_waterlily",
 	"ferdinandsflowers:cinquefoil",
 	"ferdinandsflowers:corydalis",
 	"ferdinandsflowers:crinoline_stinkhorn",
+	"ferdinandsflowers:crocus_mix",
 	"ferdinandsflowers:golden_bean",
-	"ferdinandsflowers:oyster_yellow",
-	"ferdinandsflowers:silver_carpet",
+	"ferdinandsflowers:live_forever",
+	"ferdinandsflowers:nuphur",
 	"ferdinandsflowers:yellow_cosmos",
 	"ferdinandsflowers:yellow_crocus",
 	"ferdinandsflowers:yellow_daffodil",
-	"ferdinandsflowers:yellow_freesia",
-	"ferdinandsflowers:yellow_lupin",
-	"ferdinandsflowers:yellow_starthistle",
+	"ferdinandsflowers:yellow_staghorn",
+	"ferdinandsflowers:white_daffodil",
+	"herios_floral_expansion:golden_petals",
+	"herios_floral_expansion:yellow_bell",
+	"herios_floral_expansion:yellow_poppy",
 	"jafohana:yellow_african_daisy",
 	"jafohana:yellow_pansy",
-	"jafohana:yellow_snapdragon",
-	"minecraft:dandelion"
+	"minecraft:dandelion",
+	"minecraft:horn_coral",
+	"minecraft:horn_coral_fan",
+	"serene_shrubbery:yellow_pansies",
+	"the_great_outdoora:rocky_mountain_dwarf_sunflower"
   ]
 }

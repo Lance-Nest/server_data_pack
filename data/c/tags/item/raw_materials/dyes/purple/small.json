@@ -2,21 +2,19 @@
   "values": [
 	"ars_nouveau:sourceberry_bush",
 	"ferdinandsflowers:african_daisy",
-	"ferdinandsflowers:bachelor_button",
-	"ferdinandsflowers:blue_eyed_grass",
-	"ferdinandsflowers:cloud_sage",
-	"ferdinandsflowers:common_periwinkle",
-	"ferdinandsflowers:creeping_thyme",
+	"ferdinandsflowers:mexican_sage",
 	"ferdinandsflowers:pansy_purple",
-	"ferdinandsflowers:periwinkle",
-	"ferdinandsflowers:purple_crocus",
+	"ferdinandsflowers:purple_calla_lily",
+	"ferdinandsflowers:purple_haze",
 	"ferdinandsflowers:purple_lupin",
+	"ferdinandsflowers:salvia",
 	"ferdinandsflowers:violet",
-	"ferdinandsflowers:violet_coral_fungus",
-	"ferdinandsflowers:violet_webcap",
 	"ferdinandsflowers:wolfs_bane",
+	"ferdinandsflowers:water_lily_purple",
+	"herios_floral_expansion:ender_poppy",
+	"herios_floral_expansion:purple_flowering_shrub",
 	"jafohana:blood_red_iris",
-	"jafohana:harebell",
-	"jafohana:purple_pansy"
+	"jafohana:purple_pansy",
+	"serene_shrubbery:purple_pansies"
   ]
 }

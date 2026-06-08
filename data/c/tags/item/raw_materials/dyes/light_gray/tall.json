@@ -2,7 +2,12 @@
   "values": [
 	"ferdinandsflowers:dry_shrub",
 	"ferdinandsflowers:tall_calla_lily",
+	"herios_floral_expansion:light_grey_petal_block",
 	"jafohana:asphodel",
-	"jafohana:fasciated_oxeye_daisy"
+	"jafohana:fasciated_oxeye_daisy",
+	"mysticsbiomes:desert_lily",
+	"serene_shrubbery:white_butterfly_bush",
+	"serene_shrubbery:white_foxglove",
+	"serene_shrubbery:white_hydrangea"
   ]
 }

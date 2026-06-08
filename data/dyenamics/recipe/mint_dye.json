@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "mint_dye",
+  "ingredients": [
+    {
+      "tag": "c:dyes/lime"
+    },
+    {
+      "tag": "c:dyes/light_blue"
+    },
+    {
+      "tag": "c:dyes/white"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "dyenamics:mint_dye"
+  }
+}

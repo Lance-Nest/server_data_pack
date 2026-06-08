@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+
+        "tag": "c:raw_materials/dyes/aquamarine/tall"
+
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "dyenamics:aquamarine_dye"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+
+        "tag": "c:raw_materials/dyes/blurple/tall"
+
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "delicate_dyes:blurple_dye"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

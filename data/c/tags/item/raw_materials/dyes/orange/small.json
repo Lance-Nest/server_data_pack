@@ -4,6 +4,8 @@
 	"extradelight:orange_petal_litter_item",
 	"ferdinandsflowers:australian_flame_pea",
 	"ferdinandsflowers:california_poppy",
+	"ferdinandsflowers:jack_o_lantern_light",
+	"ferdinandsflowers:jack_o_lantern_light_fan",
 	"ferdinandsflowers:lantana",
 	"ferdinandsflowers:nasturtium",
 	"ferdinandsflowers:orange_australian_flame_pea",
@@ -14,7 +16,11 @@
 	"ferdinandsflowers:sticky_monkey",
 	"ferdinandsflowers:striped_zinnia",
 	"ferdinandsflowers:sunny_zinnia",
-	"jafohana:orange_spider_lily",
+	"herios_floral_expansion:orange_cactus_flower",
+	"herios_floral_expansion:orange_flowering_shrub",
+	"herios_floral_expansion:marigold",
+	"herios_floral_expansion:warped_puff",
+	"jafohana:wheel_lily",
 	"minecraft:orange_tulip",
 	"minecraft:torchflower"
   ]

@@ -1,0 +1,12 @@
+{
+  "type": "extradelight:mortar",
+  "fluidOut": {},
+  "grinds": 4,
+  "ingredient": {
+    "tag": "c:raw_materials/dyes/sacramento/tall"
+  },
+  "result": {
+    "count": 3,
+    "id": "delicate_dyes:sacramento_dye"
+  }
+}

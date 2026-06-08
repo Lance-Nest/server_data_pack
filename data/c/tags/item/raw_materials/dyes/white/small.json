@@ -2,15 +2,16 @@
   "values": [
 	"abyssal_decor:bark_orchid",
 	"ferdinandsflowers:beach_strawberry",
-	"ferdinandsflowers:chrysanthenum",
-	"ferdinandsflowers:narcissus",
 	"ferdinandsflowers:white_tinsel_flower",
+	"herios_floral_expansion:white_petals",
 	"jafohana:beach_spider_lily",
 	"jafohana:evening_primrose",
     "jafohana:snowdrop",
+	"jafohana:spathiphyllum",
 	"jafohana:white_african_daisy",
 	"jafohana:white_egret_orchid",
 	"minecraft:bone_meal",
-    "minecraft:lily_of_the_valley"
+    "minecraft:lily_of_the_valley",
+	"the_great_outdoors:white_aster"
   ]
 }

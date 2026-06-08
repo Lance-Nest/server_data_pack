@@ -1,19 +1,16 @@
 {
   "values": [
-	"ferdinandsflowers:buckwheat_red",
-	"ferdinandsflowers:desert_paintbrush",
 	"ferdinandsflowers:desert_sturt_pea",
-	"ferdinandsflowers:devils_fingers",
-	"ferdinandsflowers:devils_fingers_single",
 	"ferdinandsflowers:red_clover",
 	"ferdinandsflowers:red_geranium",
-	"hazennstuff:fireblossom",
 	"jafohana:crimson_clover",
-	"jafohana:fireball_lily",
 	"jafohana:firecracker_penstemon",
 	"jafohana:red_snapdragon",
 	"jafohana:red_spider_lily",
+	"herios_floral_expansion:rose",
 	"minecraft:beetroot",
+	"minecraft:fire_coral",
+	"minecraft:fire_coral_fan",
 	"minecraft:poppy",
 	"minecraft:red_tulip"
   ]

@@ -1,8 +1,14 @@
 {
   "values": [
+	"ferdinandsflowers:blue_tinsel_lily",
 	"ferdinandsflowers:grape_hyacinth",
+	"ferdinandsflowers:water_lily_lavender",
+	"herios_floral_expansion:blue_bell",
+	"herios_floral_expansion:blue_cactus_flower",
+	"herios_floral_expansion:blue_flowering_shrub",
 	"jafohana:blue_daisy",
 	"jafohana:bluestem_penstemon",
-	"jafohana:sea_holly"
+	"jafohana:sea_holly",
+	"serene_shrubbery:blue_liverwort"
   ]
 }

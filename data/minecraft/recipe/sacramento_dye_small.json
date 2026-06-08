@@ -4,11 +4,11 @@
   "group": "white_dye",
   "ingredients": [
     {
-      "item": "enchanted:glint_weed"
+      "tag": "c:raw_materials/dyes/sacramento/small"
     }
   ],
   "result": {
     "count": 1,
-    "id": "dyenamics:fluorescent_dye"
+    "id": "delicate_dyes:sacramento_dye"
   }
 }

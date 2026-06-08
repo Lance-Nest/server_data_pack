@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "white_dye",
+  "ingredients": [
+    {
+      "tag": "c:raw_materials/dyes/berry/small"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "delicate_dyes:rose_dye"
+  }
+}

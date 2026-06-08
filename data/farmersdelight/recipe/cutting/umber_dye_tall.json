@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+
+        "tag": "c:raw_materials/dyes/umber/tall"
+
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "delicate_dyes:umber_dye"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}
