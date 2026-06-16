@@ -6,7 +6,7 @@
 	],
 	"key": {
 		"#": {
-			"tag": "supplementaries:ropes"
+			"tag": "c:ropes"
 		},
 		"F": {
 			"item": "minecraft:flower_pot"

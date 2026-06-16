@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bratwurst",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:beef/raw"
+    },
+    {
+      "tag": "c:beef/raw"
+    },
+    {
+      "item": "butchercraft:casing"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "result": {
+    "id": "dustydecorations:raw_bratwurst",
+    "count": 6
+  }
+}

@@ -1,5 +1,7 @@
 {
+  "replace": true,
   "values": [
-    "enchanted:garlic"
+    "enchanted:garlic",
+	"extradelight:garlic"
   ]
 }

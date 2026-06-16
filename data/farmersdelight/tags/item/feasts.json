@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"extradelight:lasanga_feast"
+  ],
+  "remove": [
+	"veggiesdelight:lasagna_pan"
+  ]
+}

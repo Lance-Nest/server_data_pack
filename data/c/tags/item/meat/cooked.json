@@ -4,6 +4,17 @@
     "clutterbestiary:cooked_venison",
 	"clutterbestiary:cooked_venison_ribs",
 	"koopascritters:cooked_wild_bird",
+	"naturalist:cooked_bushmeat",
+	"naturalist:cooked_duck",
+	"naturalist:cooked_lizard_tail",
+	"reanimal:cooked_capybara_meat",
+	"reanimal:cooked_crocodile_meat",
+	"reanimal:cooked_giraffe_meat",
+	"reanimal:cooked_hedgehog_meat",
+	"reanimal:cooked_hippopotamus_meat",
+	"reanimal:cooked_ostrich_meat",
+	"reanimal:cooked_pigeon_meat",
+	"reanimal:cooked_seal_meat",
 	"youkaisfeasts:grilled_venison",
 	"youkaisfeasts:grilled_venison_slice"
   ]

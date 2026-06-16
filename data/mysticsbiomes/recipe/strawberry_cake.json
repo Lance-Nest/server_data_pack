@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:square_pan"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "mysticsbiomes:strawberry_milk_bucket"
+    },
+    {
+      "item": "mysticsbiomes:strawberry_milk_bucket"
+    },
+    {
+      "item": "mysticsbiomes:strawberry_milk_bucket"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "mysticsbiomes:strawberry"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mysticsbiomes:strawberry_cake"
+  }
+}

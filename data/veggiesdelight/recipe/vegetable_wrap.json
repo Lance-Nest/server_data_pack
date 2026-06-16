@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ramadandelight:flat_bread"
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    },
+    [
+      {
+        "tag": "c:foods/leafy_green"
+      }
+    ],
+    [
+      {
+        "tag": "extradelight:processed/roasted_bell_pepper"
+      },
+      {
+        "item": "veggiesdelight:roasted_zucchini"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      }
+    ],
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:vegetables_wrap"
+  }
+}

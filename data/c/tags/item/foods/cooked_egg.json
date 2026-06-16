@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+	"extradelight:boiled_egg",
+	"extradelight:scrambled_eggs",
+	"farmersdelight:fried_egg",
+	"mynethersdelight:enchanted_golden_egg",
+	"mynethersdelight:golden_egg"
+  ]
+}

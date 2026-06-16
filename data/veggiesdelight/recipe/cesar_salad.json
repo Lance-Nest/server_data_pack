@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "item": "extradelight:croutons"
+    },
+    {
+      "tag": "extradelight:processed/garlic"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "extradelight:processed/tomato"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:cesar_salad"
+  }
+}

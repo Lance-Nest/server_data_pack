@@ -552,5 +552,20 @@
     "compendium:wisewood_planks",
     "compendium:wisewood_planks_slab",
     "compendium:wisewood_planks_stairs"
+  ],
+  "remove": [
+	"cocktailsdelight:red_grapes_crate",
+	"cocktailsdelight:white_grapes_crate",
+	"incubation:chicken_egg_crate",
+	"quark:apple_crate",
+	"quark:beetroot_crate",
+	"quark:carrot_crate",
+	"quark:golden_apple_crate",
+	"quark:golden_carrot_crate",
+	"quark:potato_crate",
+	"veggiesdelight:bellpepper_crate",
+	"veggiesdelight:garlic_crate",
+	"youkaisfeasts:cucumber_crate",
+	"youkaisfeasts:pod_crate"
   ]
 }

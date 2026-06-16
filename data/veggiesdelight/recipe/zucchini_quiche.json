@@ -1,0 +1,34 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "veggiesdelight:roasted_zucchini"
+    },
+    {
+      "item": "veggiesdelight:roasted_zucchini"
+    },
+    {
+      "item": "veggiesdelight:roasted_zucchini"
+    },
+    {
+      "item": "extradelight:egg_mix"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "tag": "c:meat/cooked"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:zucchini_quiche"
+  }
+}

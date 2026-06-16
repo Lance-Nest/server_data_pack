@@ -1,0 +1,34 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:sheet"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "brewinandchewin:foods/pizza_topping"
+    },
+    {
+      "tag": "brewinandchewin:foods/cheese_wedge"
+    },
+    {
+      "tag": "brewinandchewin:foods/pizza_topping"
+    },
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "tag": "c:foods/dough"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "brewinandchewin:pizza"
+  }
+}

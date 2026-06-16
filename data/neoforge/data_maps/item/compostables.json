@@ -1,0 +1,82 @@
+{
+    "values": {
+		"cluttered:crabapple_sapling": {
+		  "chance": 0.3
+		},
+		"cluttered:fluorescent_maple_sapling": {
+		  "chance": 0.3
+		},
+		"cluttered:poplar_sapling": {
+		  "chance": 0.3
+		},
+		"cluttered:sycamore_sapling": {
+		  "chance": 0.3
+		},
+		"cluttered:willow_sapling": {
+		  "chance": 0.3
+		},
+		"enchanted:alder_sapling": {
+		  "chance": 0.3
+		},
+		"enchanted:hawthorn_sapling": {
+		  "chance": 0.3
+		},
+		"enchanted:rowan_sapling": {
+		  "chance": 0.3
+		},
+		"hazennstuff:frostbite_birch_sapling": {
+		  "chance": 1.0
+		},
+		"hazennstuff:wisewood_sapling": {
+		  "chance": 1.0
+		},
+		"mysticsbiomes:lavender_blossom_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:maple_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:orange_maple_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:peach_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:pink_cherry_blossom_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:strawberry_blossom_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:tropical_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:vanilla_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:white_cherry_blossom_sapling": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:yellow_maple_sapling": {
+		  "chance": 0.3
+		}
+    },
+    "remove": [
+		"cocktailsdelight:red_grapes",
+		"cocktailsdelight:red_grape_seeds",
+		"cocktailsdelight:white_grapes",
+		"cocktailsdelight:white_grape_seeds",
+		"veggiesdelight:bellpepper",
+		"veggiesdelight:bellpepper_seeds",
+		"veggiesdelight:garlic",
+		"veggiesdelight:garlic_clove",
+		"veggiesdelight:wild_bellpeppers",
+		"veggiesdelight:wild_garlic",
+		"youkaisfeasts:cucumber",
+		"youkaisfeasts:cucumber_seeds",
+		"youkaisfeasts:pods",
+		"youkaisfeasts:soybean",
+		"youkaisfeasts:wild_cucumber",
+		"youkaisfeasts:wild_soybean"
+    ]
+}

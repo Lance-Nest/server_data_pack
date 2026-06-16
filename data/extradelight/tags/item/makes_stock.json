@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#c:foods/raw_meat",
+    "#c:foods/cooked_meat",
+    "#c:foods/safe_raw_fish",
+    "#c:foods/cooked_fish",
+    "#c:foods/vegetable"
+  ]
+}

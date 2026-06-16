@@ -1,0 +1,17 @@
+{
+  "values": [
+    "extradelight:wild_chili_block",
+	"extradelight:wild_cucumber_item",
+	"extradelight:wild_garlic_block",
+	"extradelight:wild_ginger",
+	"extradelight:wild_mallow_root_block",
+    "extradelight:wild_peanut_block",
+	"extradelight:wild_soybean_item"
+  ],
+  "remove": [
+    "veggiesdelight:wild_bellpeppers",
+	"veggiesdelight:wild_garlic",
+	"youkaisfeasts:wild_cucumber",
+	"youkaisfeasts:wild_soybean"
+  ]
+}

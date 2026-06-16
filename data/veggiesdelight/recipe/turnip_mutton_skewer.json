@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:mutton/cooked"
+    },
+    {
+      "tag": "c:crops/turnip"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:turnip_mutton_skewer"
+  }
+}

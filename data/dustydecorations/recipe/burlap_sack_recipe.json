@@ -9,7 +9,7 @@
       "item": "minecraft:wheat"
     },
     "r": {
-      "tag": "supplementaries:ropes"
+      "tag": "c:ropes"
     }
   },
   "pattern": [

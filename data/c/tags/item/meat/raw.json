@@ -4,6 +4,17 @@
     "clutterbestiary:raw_venison",
 	"clutterbestiary:raw_venison_ribs",
 	"koopascritters:raw_wild_bird",
+	"naturalist:bushmeat",
+	"naturalist:duck",
+	"naturalist:lizard_tail",
+	"reanimal:raw_capybara_meat",
+	"reanimal:raw_crocodile_meat",
+	"reanimal:raw_giraffe_meat",
+	"reanimal:raw_hedgehog_meat",
+	"reanimal:raw_hippopotamus_meat",
+	"reanimal:raw_ostrich_meat",
+	"reanimal:raw_pigeon_meat",
+	"reanimal:raw_seal_meat",
 	"youkaisfeasts:raw_venison",
 	"youkaisfeasts:raw_venison_slice"
   ]

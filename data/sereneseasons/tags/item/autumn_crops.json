@@ -14,5 +14,10 @@
 	"koopascritters:kopje_fig_sapling",
 	"silentgear:flax_seeds",
 	"silentgear:netherwood_sapling"
+  ],
+  "remove": [
+	"veggiesdelight:bellpepper_seeds",
+	"veggiesdelight:garlic_clove",
+	"youkaisfeasts:soybean"
   ]
 }

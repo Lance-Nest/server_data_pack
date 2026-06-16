@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/cooked_cod"
+    },
+    {
+      "item": "extradelight:roasted_garlic"
+    },
+    {
+      "item": "extradelight:roasted_garlic"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "extradelight:processed/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:garlic_baked_cod"
+  }
+}

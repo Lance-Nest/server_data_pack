@@ -1,0 +1,10 @@
+{
+  "values": [
+    "extradelight:golden_apple_crate",
+	"extradelight:golden_carrot_crate"
+  ],
+  "remove": [
+	"quark:golden_apple_crate",
+	"quark:golden_carrot_crate"
+  ]
+}

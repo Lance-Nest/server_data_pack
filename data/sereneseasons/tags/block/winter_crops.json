@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cluttered:crabapple_sapling",
+	"cluttered:poplar_sapling",
+	"enchanted:alder_sapling",
+	"enchanted:belladonna",
+	"enchanted:mandrake",
+	"enchanted:snowbell",
+	"enchanted:water_artichoke",
+	"koopascritters:kopje_fig_sapling",
+	"silentgear:flax_plant",
+	"silentgear:fluffy_plant"
+  ]
+}

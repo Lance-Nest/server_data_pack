@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "tag": "c:crops/cauliflower"
+      },
+      {
+        "tag": "extradelight:processed/potato"
+      },
+      {
+        "tag": "c:crops/zucchini"
+      }
+    ],
+    {
+      "tag": "extradelight:processed/onion"
+    },
+    {
+      "tag": "c:crops/grain"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:raw_vegetarian_patty"
+  }
+}

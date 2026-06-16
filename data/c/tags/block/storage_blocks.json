@@ -1,0 +1,17 @@
+{
+  "values": [],
+  "remove": [
+	"incubation:chicken_egg_crate",
+	"quark:apple_crate",
+	"quark:beetroot_crate",
+	"quark:carrot_crate",
+	"quark:golden_apple_crate",
+	"quark:golden_carrot_crate",
+	"quark:potato_crate",
+	"veggiesdelight:bellpepper_crate",
+	"veggiesdelight:garlic_crate",
+	"youkaisfeasts:cucumber_crate",
+	"youkaisfeasts:pod_crate",
+	"youkaisfeasts:soybean_bag"
+  ]
+}

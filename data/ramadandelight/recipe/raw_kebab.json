@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "tag": "c:beef/ground/raw"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "ramadandelight:raw_kebab"
+  }
+}

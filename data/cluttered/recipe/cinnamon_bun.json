@@ -3,13 +3,10 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "cluttered:croissant"
+      "item": "cluttered:pastry_plate"
     },
 	{
-      "tag": "extradelight:sweetener"
-    },
-    {
-      "tag": "c:cinnamon/ground"
+      "item": "extradelight:cinnamon_rolls"
     }
   ],
   "result": {

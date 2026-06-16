@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+	"cluttered:crabapple_sapling",
+	"cluttered:sycamore_sapling",
+	"enchanted:alder_sapling",
+	"enchanted:hawthorn_sapling",
+	"enchanted:rowan_sapling",
+	"enchanted:snowbell",
+	"enchanted:water_artichoke",
+	"enchanted:wolfsbane",
+	"ferdinandsflowers:cranberry",
+	"ferdinandsflowers:raccoon_grape",
+	"koopascritters:kopje_fig_sapling",
+	"silentgear:flax_plant",
+	"silentgear:netherwood_sapling"
+  ],
+  "remove": [
+	"veggiesdelight:bellpepper_crop",
+	"veggiesdelight:garlic_crop",
+	"youkaisfeasts:soybean"
+  ]
+}

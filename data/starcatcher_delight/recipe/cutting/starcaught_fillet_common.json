@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "type": "neoforge:difference",
+      "base": {
+        "tag": "starcatcher:common_fishes"
+      },
+      "subtracted": [
+		{
+			"item": "minecraft:cod"
+		},
+		{
+			"item": "minecraft:salmon"
+		}
+	  ]
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 1,
+        "id": "starcatcher_delight:starcaught_fillet_common"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

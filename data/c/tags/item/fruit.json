@@ -13,6 +13,9 @@
 	"hazennstuff:lemon",
 	"koopascritters:fig_kc",
 	"minecraft:enchanted_golden_apple",
-	"minecraft:golden_apple"
+	"minecraft:golden_apple",
+	"mysticsbiomes:cherries",
+	"mysticsbiomes:peach",
+	"mysticsbiomes:strawberry"
   ]
 }

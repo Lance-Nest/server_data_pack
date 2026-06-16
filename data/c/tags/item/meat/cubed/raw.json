@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "#c:beef/cubed/raw",
+    "#c:mutton/cubed/raw",
+    "#c:pork/cubed/raw",
+    "#c:chicken/cubed/raw",
+    "#c:rabbit/cubed/raw",
+    "#c:goat/cubed/raw"
+  ]
+}

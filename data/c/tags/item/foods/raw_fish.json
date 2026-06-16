@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#c:foods/safe_raw_fish",
+	"reanimal:raw_starfish_caviar"
+  ]
+}

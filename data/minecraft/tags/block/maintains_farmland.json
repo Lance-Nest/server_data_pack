@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "extradelight:ginger_crop",
+	"extradelight:corn_bottom",
+    "extradelight:chili_crop",
+	"extradelight:garlic_crop",
+	"extradelight:mallow_root_crop",
+	"extradelight:peanut_crop",
+    "extradelight:cucumber_crop",
+    "extradelight:soybean_crop"
+  ],
+  "remove": [
+	"veggiesdelight:bellpepper_crop",
+	"veggiesdelight:garlic_crop"
+  ]
+}

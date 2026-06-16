@@ -1,0 +1,10 @@
+{
+   "values": [
+	"ramadandelight:chickpea"
+  ],
+  "remove": [
+	"veggiesdelight:bellpepper",
+	"veggiesdelight:garlic",
+	"veggiesdelight:garlic_clove"
+  ]
+}

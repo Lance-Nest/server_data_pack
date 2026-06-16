@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
+	"adorablehamsterpets:sliced_cucumber",
 	"extradelight:sliced_cucumber_item"
+  ],
+  "remove": [
+	"youkaisfeasts:cucumber_slice"
   ]
 }    

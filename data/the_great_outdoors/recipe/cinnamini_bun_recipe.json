@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cinnaminibun",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:honey_bottle"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "minecraft:wheat"
+    },
+    "d": {
+      "tag": "c:eggs"
+    }
+  },
+  "result": {
+    "id": "the_great_outdoors:cinnamini_bun",
+    "count": 8
+  }
+}

@@ -1,0 +1,9 @@
+{
+   "values": [
+	"#extradelight:processed/garlic"
+  ],
+  "remove": [
+	"veggiesdelight:garlic",
+	"veggiesdelight:garlic_clove"
+  ]
+}

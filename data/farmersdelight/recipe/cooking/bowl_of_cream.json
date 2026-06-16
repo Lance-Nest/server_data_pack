@@ -9,7 +9,7 @@
     {
       "type": "neoforge:difference",
       "base": {
-        "tag": "c:foods/milk"
+        "tag": "c:drinks/milk"
       },
       "subtracted": [
         {
@@ -20,7 +20,7 @@
     {
       "type": "neoforge:difference",
       "base": {
-        "tag": "c:foods/milk"
+        "tag": "c:drinks/milk"
       },
       "subtracted": [
         {
@@ -31,7 +31,7 @@
     {
       "type": "neoforge:difference",
       "base": {
-        "tag": "c:foods/milk"
+        "tag": "c:drinks/milk"
       },
       "subtracted": [
         {

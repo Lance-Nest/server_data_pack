@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+	"youkaisfeasts:black_grape",
+	"youkaisfeasts:red_grape"
+  ],
+  "remove": [
+	"cocktailsdelight:red_grapes",
+	"cocktailsdelight:white_grapes"
+  ]
+}

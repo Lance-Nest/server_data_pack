@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#c:foods/raw_cod",
+	"#c:foods/raw_salmon",
+	"#starcatcher_delight:filet_fishes",
+	"koopascritters:raw_peacock_bass",
+	"naturalist:bass",
+	"naturalist:catfish",
+	"oceansdelight:fugu_slice",
+	"reanimal:sea_urchin_caviar"
+  ]
+}

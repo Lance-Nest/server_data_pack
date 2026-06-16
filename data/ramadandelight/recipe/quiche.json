@@ -1,0 +1,45 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "ramadandelight:parsley"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:mutton/cooked"
+        },
+        {
+          "tag": "c:chicken/cooked"
+        },
+		{
+		  "tag": "c:beef/cooked"
+		}
+      ]
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+	{
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "ramadandelight:quiche"
+  }
+}

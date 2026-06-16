@@ -1,0 +1,34 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:square_pan"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "veggiesdelight:baked_sweet_potato"
+    },
+    {
+      "item": "veggiesdelight:baked_sweet_potato"
+    },
+    {
+      "item": "veggiesdelight:baked_sweet_potato"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:sweet_potato_pie"
+  }
+}

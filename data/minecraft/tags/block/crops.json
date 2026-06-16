@@ -8,5 +8,9 @@
 	"extradelight:mallow_root_crop",
 	"extradelight:peanut_crop",
 	"extradelight:soybean_crop"
+  ],
+  "remove": [
+	"veggiesdelight:bellpepper_crop",
+	"veggiesdelight:garlic_crop"
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:crops/turnip"
+    },
+    {
+      "tag": "extradelight:processed/garlic"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:meat/raw"
+        },
+        {
+          "tag": "c:foods/safe_raw_fish"
+        }
+      ]
+    },
+	{
+	  "tag": "extradelight:processed/onion"
+	}
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:turnip_cake"
+  }
+}

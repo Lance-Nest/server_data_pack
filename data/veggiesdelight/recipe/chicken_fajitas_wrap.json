@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+	{
+	  "item": "ramadandelight:flat_bread"
+	},
+    {
+      "tag": "extradelight:processed/onion"
+    },
+    {
+      "tag": "c:chicken/cooked"
+    },
+    {
+      "tag": "extradelight:processed/roasted_bell_pepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veggiesdelight:chicken_fajitas_wrap"
+  }
+}

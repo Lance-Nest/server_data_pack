@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "item": "reanimal:jellyfish_jelly"
+    },
+    {
+      "item": "reanimal:jellyfish_jelly"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "butchercraft:gelatin"
+  }
+}
