@@ -1,0 +1,43 @@
+{
+    "type": "gateways:normal",
+    "size": "small",
+    "color": "#FFFF84",
+    "waves": [
+        {
+            "max_wave_time": 800,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 10,
+                    "entity": "crittersandcompanions:leaf_insect"
+                }
+            ],
+            "modifiers": [
+                {
+                    "type": "gateways:attribute",
+                    "attribute": "minecraft:generic.movement_speed",
+                    "operation": "add_multiplied_total",
+                    "value": 0.05
+                }
+            ],
+            "rewards": [
+                {
+                    "type": "gateways:stack",
+                    "stack": {
+                        "id": "minecraft:leaf_litter",
+                        "count": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "rewards": [
+        {
+            "type": "gateways:stack",
+                    "stack": {
+                        "id": "minecraft:leaf_litter",
+                        "count": 10
+                    }
+        }
+    ] }
