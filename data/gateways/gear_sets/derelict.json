@@ -1,0 +1,186 @@
+{
+    "weight": 0,
+    "quality": 0,
+    "mainhands": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "minecraft:bow"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "offhands": [
+    ],
+    "boots": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "minecraft:chainmail_boots"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "leggings": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "minecraft:chainmail_leggings"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "chestplates": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "minecraft:chainmail_chestplate"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "helmets": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:decal_warning"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:decal_fire"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:decal_skull"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:decal_radioactive"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:decal_creeper"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:decal_no_entry"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "create:copper_diving_helmet"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "starcatcher:fisherman_hat_yellow"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:miner_helmet"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "create:cardboard_helmet"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "create:goggles"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "dustydecorations:teal_seaglass_lamp"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "supplementaries:safe"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "supplementaries:relayer"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "create:schematicannon"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "createdeco:red_brass_lamp"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "create:fluid_tank"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "offroad:rockcutting_wheel"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "aeronautics:aviators_goggles"
+            },
+            "drop_chance": 0
+        },
+		{
+            "weight": 1,
+            "stack": {
+                "id": "create:large_cogwheel"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "tags": [
+    ]
+}
