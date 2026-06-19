@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supplementaries:awning"
+    },
+    {
+      "item": "delicate_dyes:sky_dye"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:awning_sky",
+    "count": 1
+  }
+}
