@@ -68,5 +68,9 @@
     "minecraft:white_wool",
     "dyenamics:wine_wool",
     "minecraft:yellow_wool"
+  ],
+  "remove" : [
+	"brewinandchewin:quiche",
+	"ramadandelight:quiche"
   ]
 }
