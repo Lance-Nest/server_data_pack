@@ -3,9 +3,128 @@
     "quality": 0,
     "mainhands": [
         {
+            "weight": 10,
+            "stack": {
+                "id": "minecraft:air"
+            },
+            "drop_chance": 0
+        },
+        {
             "weight": 1,
             "stack": {
-                "id": "minecraft:bow"
+                "id": "compendium:cosmetic_toolbox"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:potato_cannon"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "createaddition:copper_rod"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "compendium:copper_pickaxe_item"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "simulated:plunger_launcher"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "railways:conductor_whistle"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "minecraft:spyglass"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "silentgear:crude_knife"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "compendium:copper_shovel_item"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:cardboard_sword"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:wrench"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "compendium:copper_prybar_item"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "supplementaries:wrench"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "compendium:crude_saw"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "compendium:crude_hammer"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:extendo_grip"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "compendium:copper_hammer_item"
             },
             "drop_chance": 0
         }
@@ -14,27 +133,97 @@
     ],
     "boots": [
         {
+            "weight": 10,
+            "stack": {
+                "id": "minecraft:air"
+            },
+            "drop_chance": 0
+        },
+        {
             "weight": 1,
             "stack": {
-                "id": "minecraft:chainmail_boots"
+                "id": "minecraft:leather_boots"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:cardboard_boots"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:copper_diving_boots"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "butchercraft:boots"
             },
             "drop_chance": 0
         }
     ],
     "leggings": [
         {
+            "weight": 10,
+            "stack": {
+                "id": "minecraft:air"
+            },
+            "drop_chance": 0
+        },
+        {
             "weight": 1,
             "stack": {
-                "id": "minecraft:chainmail_leggings"
+                "id": "create:cardboard_leggings"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "irons_spellbooks:cultist_leggings"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "minecraft:golden_leggings"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:miner_leggings"
             },
             "drop_chance": 0
         }
     ],
     "chestplates": [
         {
+            "weight": 10,
+            "stack": {
+                "id": "minecraft:air"
+            },
+            "drop_chance": 0
+        },
+        {
             "weight": 1,
             "stack": {
-                "id": "minecraft:chainmail_chestplate"
+                "id": "create:copper_backtank"
+            },
+            "drop_chance": 0
+        },
+        {
+            "weight": 1,
+            "stack": {
+                "id": "create:cardboard_chestplate"
             },
             "drop_chance": 0
         }
@@ -47,133 +236,133 @@
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "createdeco:decal_fire"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "createdeco:decal_skull"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "createdeco:decal_radioactive"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "createdeco:decal_creeper"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "createdeco:decal_no_entry"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "create:copper_diving_helmet"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "starcatcher:fisherman_hat_yellow"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "hazennstuff:miner_helmet"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "create:cardboard_helmet"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "create:goggles"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "dustydecorations:teal_seaglass_lamp"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "supplementaries:safe"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "supplementaries:relayer"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "create:schematicannon"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "createdeco:red_brass_lamp"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "create:fluid_tank"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "offroad:rockcutting_wheel"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "aeronautics:aviators_goggles"
             },
             "drop_chance": 0
         },
-		{
+        {
             "weight": 1,
             "stack": {
                 "id": "create:large_cogwheel"
