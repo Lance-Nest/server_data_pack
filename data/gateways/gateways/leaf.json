@@ -15,10 +15,12 @@
             ],
             "modifiers": [
                 {
-                    "type": "gateways:attribute",
-                    "attribute": "minecraft:generic.movement_speed",
-                    "operation": "add_multiplied_total",
-                    "value": 0.05
+                    "type": "gateways:mob_effect",
+                    "effect": {
+                        "effect": "butchercraft:blood_lust",
+                        "amplifier": 0,
+                        "visible": true
+                    }
                 }
             ],
             "rewards": [
