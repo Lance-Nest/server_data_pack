@@ -1,0 +1,13 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "yggdrasil:asflors/equipment/reward/chest/random_loot/house": 1,
+    "yggdrasil:asgard/reward/shared/common": 1,
+    "yggdrasil:generic/reward/random/house": 1,
+    "yggdrasil:generic/reward/random/misc": 1,
+    "yggdrasil:generic/reward/random/common": 1,
+    "yggdrasil:generic/reward/random/small": 1,
+    "yggdrasil:generic/reward/random/treasure": 1
+  }
+}

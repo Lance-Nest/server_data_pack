@@ -1,0 +1,7 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "betterarcheology:archeology/chest_jungle_temple_food": 1
+  }
+}

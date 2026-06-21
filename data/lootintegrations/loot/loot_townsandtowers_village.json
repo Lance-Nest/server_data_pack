@@ -1,0 +1,12 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "kaisyn:village/exclusives/village_wandering_trader_hut": 1,
+    "kaisyn:village/exclusives/village_mediterranean_house": 1,
+    "kaisyn:village/village_badlands_house": 1,
+    "kaisyn:village/village_jungle_house": 1,
+    "kaisyn:village/village_mushroom_house": 1,
+    "kaisyn:village/village_swamp_house": 1
+  }
+}

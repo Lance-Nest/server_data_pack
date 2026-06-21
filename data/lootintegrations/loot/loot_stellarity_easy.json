@@ -1,0 +1,14 @@
+{
+  "loot_table": "lootintegrations:chests/easy",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "stellarity:campsite/tent": 1,
+    "stellarity:campsite/tent2": 1,
+    "stellarity:end_city/ship_treasure": 1,
+    "stellarity:stronghold/portal_room/treasure": 1,
+    "stellarity:stronghold/corridor": 1,
+    "stellarity:stronghold/rascal_crossing": 1,
+    "stellarity:stronghold/secret_coffin": 1,
+    "stellarity:stronghold/workshop_loot": 1
+  }
+}

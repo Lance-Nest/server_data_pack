@@ -1,0 +1,14 @@
+{
+  "loot_table": "lootintegrations:chests/nether",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "medieval_nether:chests_castle_one": 1,
+    "medieval_nether:chests_castle_three": 3,
+    "medieval_nether:chests_castle_two": 2,
+    "medieval_nether:chests_house_one": 1,
+    "medieval_nether:chests_house_two": 1,
+    "medieval_nether:chests_pyramid": 1,
+    "medieval_nether:chests_ship_one": 1,
+    "medieval_nether:chests_ship_two": 1
+  }
+}

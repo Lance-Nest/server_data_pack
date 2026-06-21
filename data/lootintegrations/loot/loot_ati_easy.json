@@ -1,0 +1,14 @@
+{
+  "loot_table": "lootintegrations:chests/easy",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "ati_structures:chests/archer_chest": 1,
+    "ati_structures:chests/archer_chest2": 1,
+    "ati_structures:chests/crafting": 1,
+    "ati_structures:chests/iron_storage": 1,
+    "ati_structures:chests/library": 1,
+    "ati_structures:chests/resources": 1,
+    "ati_structures:chests/wood_storage": 1,
+    "epic:chests/mineral": 1
+  }
+}

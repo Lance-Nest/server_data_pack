@@ -1,0 +1,23 @@
+{
+  "loot_table": "lootintegrations:chests/village",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "stellarity:village/center/town_hall": 1,
+    "stellarity:village/house/common": 1,
+    "stellarity:village/archer_tower": 1,
+    "stellarity:village/armorer": 1,
+    "stellarity:village/butcher": 1,
+    "stellarity:village/cartographer": 1,
+    "stellarity:village/cleric": 1,
+    "stellarity:village/fisherman": 1,
+    "stellarity:village/fletcher": 1,
+    "stellarity:village/leatherworker": 1,
+    "stellarity:village/librarian": 1,
+    "stellarity:village/market": 1,
+    "stellarity:village/mason": 1,
+    "stellarity:village/shepherd": 1,
+    "stellarity:village/toolsmith": 1,
+    "stellarity:village/weaponsmith": 1,
+    "stellarity:chapel/equipment": 3
+  }
+}

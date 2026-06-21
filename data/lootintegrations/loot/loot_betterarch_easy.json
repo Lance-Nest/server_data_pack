@@ -1,0 +1,23 @@
+{
+  "loot_table": "lootintegrations:chests/easy",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "betterarcheology:archeology/chest_buried_ruins_sand": 2,
+    "betterarcheology:archeology/chest_catacombs_combat": 2,
+    "betterarcheology:archeology/chest_catacombs_generic": 2,
+    "betterarcheology:archeology/chest_catacombs_golden": 2,
+    "betterarcheology:archeology/chest_catacombs_library": 2,
+    "betterarcheology:archeology/chest_light_temple_book": 1,
+    "betterarcheology:archeology/chest_light_temple_generic": 1,
+    "betterarcheology:archeology/chest_light_temple_pillager": 1,
+    "betterarcheology:archeology/chest_light_temple_treasure": 1,
+    "betterarcheology:archeology/chest_loot_prototype": 1,
+    "betterarcheology:archeology/chest_mesa_ruins": 1,
+    "betterarcheology:archeology/chest_mott": 1,
+    "betterarcheology:archeology/chest_radiance_totem": 1,
+    "betterarcheology:archeology/chest_sculk_sword": 1,
+    "betterarcheology:archeology/chest_tumulus": 1,
+    "betterarcheology:archeology/loot_catacombs_equipment": 2,
+    "betterarcheology:archeology/loot_catacombs_generic": 1
+  }
+}

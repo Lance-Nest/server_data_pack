@@ -1,0 +1,10 @@
+{
+  "loot_table": "lootintegrations:chests/medium",
+  "max_result_itemcount": 10,
+  "integrated_loot_tables": {
+    "betterarcheology:archeology/chest_jungle_temple_equip": 2,
+    "betterarcheology:archeology/chest_jungle_temple_generic": 1,
+    "betterarcheology:archeology/chest_jungle_temple_treasure": 2,
+    "betterarcheology:archeology/sword_loot": 2
+  }
+}

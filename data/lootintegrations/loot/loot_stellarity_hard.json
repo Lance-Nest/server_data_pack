@@ -1,0 +1,12 @@
+{
+  "loot_table": "lootintegrations:chests/hard",
+  "max_result_itemcount": 12,
+  "integrated_loot_tables": {
+    "stellarity:end_city/vault/normal": 1,
+    "stellarity:end_city/vault/ominous": 1,
+    "stellarity:shipwreck/treasure": 1,
+    "stellarity:dragons_den": 1,
+    "stellarity:dungeon": 1,
+    "stellarity:floating_treasure": 1
+  }
+}

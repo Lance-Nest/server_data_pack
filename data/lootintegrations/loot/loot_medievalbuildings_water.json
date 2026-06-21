@@ -1,0 +1,13 @@
+{
+  "loot_table": "lootintegrations:chests/water",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "medieval_buildings:chests/ship_barrel": 1,
+    "medieval_buildings:chests/ship_chests": 2,
+    "medieval_buildings:chests/ship_barrier": 1,
+    "medieval_buildings:chests/ship_chests_superiors": 2,
+    "medieval_buildings:chests/ship_chests_under_the_stairs": 1,
+    "medievalend:ship_chests_superiors": 1,
+    "medieval_nether:barrier_ship": 1
+  }
+}

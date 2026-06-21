@@ -1,0 +1,14 @@
+{
+  "loot_table": "lootintegrations:chests/easy",
+  "max_result_itemcount": 8,
+  "integrated_loot_tables": {
+    "cataclysm:entities/the_prowler": 3,
+    "cataclysm:entities/coralssus": 3,
+    "cataclysm:entities/ignited_revenant": 3,
+    "cataclysm:entities/ender_golem": 3,
+    "cataclysm:chests/abandoned": 1,
+    "cataclysm:chests/abandoned_treasure": 3,
+    "cataclysm:chests/amethyst_nest_chest": 1,
+    "cataclysm:chests/desert_treasure": 1
+  }
+}
