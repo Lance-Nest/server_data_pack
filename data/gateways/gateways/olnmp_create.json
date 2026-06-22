@@ -1,10 +1,14 @@
 {
-    "type": "gateways:normal",
-    "size": "small",
-    "color": "#FFFF84",
+    "type": "apotheosis:tiered",
+    "settings": {
+        "soundtrack": "apotheosis:music_disc_flash",
+        "tier": "frontier",
+        "size": "medium",
+        "color": "#cc8f4f"
+    },
     "waves": [
         {
-            "max_wave_time": 10000,
+            "max_wave_time": 2500,
             "setup_time": 100,
             "entities": [
                 {
@@ -17,6 +21,10 @@
                 {
                     "type": "gateways:gear_set",
                     "gear_set": "gateways:derelict"
+                },
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "gateways:generic/junk"
                 }
             ]
         },
@@ -38,7 +46,15 @@
                 {
                     "attribute": "generic.max_health",
                     "operation": "add_multiplied_total",
-                    "value": 2
+                    "value": 1
+                },
+                {
+                            "type": "apotheosis:affix",
+                            "affix_chance": 1.0
+                },
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
                 }
             ]
         }

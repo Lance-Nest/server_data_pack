@@ -13,14 +13,23 @@
                     "entity": "minecraft:skeleton",
                     "nbt": {
                         "CustomNameVisible": 1,
-                        "CustomName": "{\"translate\":\"teacher_assistant\",\"color\":\"white\"}"
+                        "CustomName": "{\"Teachers Assistant\",\"color\":\"white\"}"
                     }
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 2,
+                    "entity": "minecraft:witch"
                 }
             ],
             "modifiers": [
                 {
                     "type": "gateways:gear_set",
-                    "gear_set": "gateways:wizard_student"
+                    "gear_set": "gateways:wizard_students"
+                },
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
                 }
             ]
         },
@@ -34,7 +43,7 @@
                     "entity": "minecraft:stray",
                     "nbt": {
                         "CustomNameVisible": 1,
-                        "CustomName": "{\"translate\":\"teacher\",\"color\":\"white\"}"
+                        "CustomName": "{\"Professor\",\"color\":\"white\"}"
                     }
                 }
             ],
@@ -43,6 +52,18 @@
                     "attribute": "generic.max_health",
                     "operation": "add_multiplied_total",
                     "value": 2
+                },
+                {
+                    "type": "gateways:gear_set",
+                    "gear_set": "gateways:wizard_teacher"
+                },
+                {
+                            "type": "apotheosis:affix",
+                            "affix_chance": 1.0
+                        },
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
                 }
             ]
         }
@@ -51,9 +72,14 @@
         {
             "type": "gateways:stack",
             "stack": {
-                "id": "arsadditions:codex_entry",
-                "count": 1
+                "id": "ars_additions:codex_entry",
+                "count": 4
             }
-        }
+        },
+        {
+                    "type": "gateways:experience",
+                    "experience": 450,
+                    "orb_size": 25
+                }
     ]
 }

@@ -1,0 +1,291 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "butchercraft:bone_saw",
+          "weight": 1,
+          "quality": 0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "extradelight:lid",
+          "weight": 1,
+          "quality": 0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "extradelight:whisk",
+          "weight": 1,
+          "quality": 0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supplementaries:wind_vane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supplementaries:bubble_blower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supplementaries:wrench"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "utilitarian:trowel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:hand_drill"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:fishing_lures"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:rusty_corrugated_metal_block",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 5,
+                "max": 25
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "compendium:crude_saw"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "compendium:crude_hammer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:flint_knife"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "compendium:cosmetic_toolbox"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:record_player_brown"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "barnyardbuddies:horseshoe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "starcatcher:broken_bottle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "starcatcher:mossy_boot"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:traditional_radio"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:safe_novakid"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:cardboard_box_open"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:sewing_machine_antique"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:retro_fridge_white"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:retro_toaster_red"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:coffee_grinder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:analog_kitchen_scale"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:gumball_machine_red"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:trashbag"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:filthcrete_blend",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 5,
+                "max": 25
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:foghorn"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:mystery_meat_can",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:grime",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 5,
+                "max": 25
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:desk_bell"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "abyssal_decor:bulb_lamp_floor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spelunkery:dust_bun",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 5
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cluttered:stained_glass_lamp"
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "create:toolboxes",
+          "expand": true
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "quark:shards",
+          "expand": true
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lightning_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tripwire_hook"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brush"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:copper_nugget",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 64
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:zinc_nugget",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:brass_nugget",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 4
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "createaddition:spool"
+        }
+      ]
+    }
+  ]
+}
