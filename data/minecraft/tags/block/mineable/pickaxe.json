@@ -1,0 +1,11 @@
+{
+  "values": [
+  ],
+  "remove": [
+	"create:zinc_ore",
+	"create:deepslate_zinc_ore",
+	"spelunkery:andesite_zinc_ore",
+	"spelunkery:diorite_zinc_ore",
+	"spelunkery:granite_zinc_ore"
+  ]
+}
