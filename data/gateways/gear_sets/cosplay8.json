@@ -1,0 +1,46 @@
+{
+    "weight": 0,
+    "quality": 0,
+    "mainhands": [
+    ],
+    "offhands": [
+    ],
+    "boots": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:frieren_boots"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "leggings": [
+       {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:frieren_leggings"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "chestplates": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:frieren_chestplate"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "helmets": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:frieren_helmet"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "tags": [
+    ]
+}

@@ -1,9 +1,8 @@
 {
     "type": "apotheosis:tiered",
     "settings": {
-        "soundtrack": "apotheosis:music_disc_flash",
         "tier": "frontier",
-        "size": "medium",
+        "size": "small",
         "color": "#cc8f4f"
     },
     "waves": [
@@ -38,7 +37,7 @@
                     "entity": "naturalist:hippo",
                     "nbt": {
                         "CustomNameVisible": 1,
-                        "CustomName": "{\"translate\":\"junkyard_dog\",\"color\":\"white\"}"
+                        "CustomName": "{\"text\":\"Junkyard Dog\",\"color\":\"white\"}"
                     }
                 }
             ],

@@ -1,0 +1,216 @@
+{
+    "type": "gateways:normal",
+    "size": "large",
+    "color": "#d602e5",
+    "waves": [
+        {
+            "max_wave_time": 2500,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay1"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay2"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay3"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay4"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                       "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay5"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay6"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay7"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Cosplayer\",\"color\":\"white\"}"
+                    },
+                    "modifiers": [
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay8"
+                        },
+                        {
+                            "type": "gateways:loot_table",
+                            "loot_table": "minecraft:empty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "max_wave_time": 10000,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "minecraft:zombie",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Defender of Honor\",\"color\":\"white\"}"
+                    },
+                     "modifiers": [
+                        {
+                            "type": "gateways:attribute",
+                            "attribute": "minecraft:generic.armor",
+                            "operation": "add_value",
+                            "value": 40.0
+                        },
+                        {
+                            "type": "gateways:gear_set",
+                            "gear_set": "gateways:cosplay9"
+                        },
+                        {
+                            "type": "apotheosis:affix",
+                            "affix_chance": 1.0
+                        }
+                    ]
+                }
+            ],
+            "modifiers": [
+                {
+                    "attribute": "generic.max_health",
+                    "operation": "add_multiplied_total",
+                    "value": 4
+                },
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
+                }
+            ]
+        }
+    ],
+    "rewards": [
+        {
+            "type": "gateways:stack",
+            "stack": {
+                "id": "gamediscs:gaming_console",
+                "count": 1
+            }
+        }
+    ]
+}

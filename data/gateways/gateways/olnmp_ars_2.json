@@ -1,19 +1,30 @@
 {
     "type": "gateways:normal",
-    "size": "small",
+    "size": "medium",
     "color": "#28add6",
     "waves": [
         {
-            "max_wave_time": 10000,
+            "max_wave_time": 2500,
             "setup_time": 100,
             "entities": [
                 {
                     "type": "gateways:standard",
-                    "count": 4,
-                    "entity": "minecraft:witch",
+                    "count": 2,
+                    "entity": "irons_spellbooks:pyromancer",
                     "nbt": {
                         "CustomNameVisible": 1,
-                        "CustomName": "{\"text\":\"Teachers Assistant\",\"color\":\"white\"}"
+                        "CustomName": "{\"text\":\"Administration\",\"color\":\"white\"}",
+                        "AngerTime": 9999999
+                    }
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 2,
+                    "entity": "irons_spellbooks:cryomancer",
+                    "nbt": {
+                        "CustomNameVisible": 1,
+                        "CustomName": "{\"text\":\"Administration\",\"color\":\"white\"}",
+                        "AngerTime": 9999999
                     }
                 }
             ],
@@ -25,33 +36,40 @@
             ]
         },
         {
-            "max_wave_time": 10000,
+            "max_wave_time": 2500,
             "setup_time": 100,
             "entities": [
                 {
                     "type": "gateways:standard",
                     "count": 1,
-                    "entity": "minecraft:zombie",
+                    "entity": "irons_spellbooks:archevoker",
                     "nbt": {
                         "CustomNameVisible": 1,
-                        "CustomName": "{\"text\":\"Professor\",\"color\":\"white\"}",
+                        "CustomName": "{\"text\":\"The Dean\",\"color\":\"white\"}",
                         "AngerTime": 9999999
                     }
                 }
             ],
             "modifiers": [
                 {
-                    "attribute": "generic.max_health",
-                    "operation": "add_multiplied_total",
-                    "value": 2
+                            "type": "gateways:attribute",
+                            "attribute": "minecraft:generic.armor",
+                            "operation": "add_value",
+                            "value": 20.0
                 },
                 {
-                    "type": "gateways:gear_set",
-                    "gear_set": "gateways:wizard_students"
+                    "attribute": "generic.scale",
+                    "operation": "add_multiplied_total",
+                    "value": 1.5
+                },
+                {
+                    "attribute": "generic.max_health",
+                    "operation": "add_multiplied_total",
+                    "value": 4
                 },
                 {
                             "type": "apotheosis:affix",
-                            "affix_chance": 100.0
+                            "affix_chance": 1.0
                 },
                 {
                     "type": "gateways:loot_table",
@@ -64,13 +82,13 @@
         {
             "type": "gateways:stack",
             "stack": {
-                "id": "ars_additions:codex_entry",
+                "id": "ars_additions:lost_codex_entry",
                 "count": 4
             }
         },
         {
                     "type": "gateways:experience",
-                    "experience": 180,
+                    "experience": 602,
                     "orb_size": 25
                 }
     ]

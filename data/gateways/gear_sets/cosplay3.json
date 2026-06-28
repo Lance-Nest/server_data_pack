@@ -1,0 +1,46 @@
+{
+    "weight": 0,
+    "quality": 0,
+    "mainhands": [
+    ],
+    "offhands": [
+    ],
+    "boots": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:giorno_giovanna_boots"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "leggings": [
+       {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:giorno_giovanna_leggings"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "chestplates": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:giorno_giovanna_chestplate"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "helmets": [
+        {
+            "weight": 1,
+            "stack": {
+                "id": "hazennstuff:giorno_giovanna_helmet"
+            },
+            "drop_chance": 0
+        }
+    ],
+    "tags": [
+    ]
+}
