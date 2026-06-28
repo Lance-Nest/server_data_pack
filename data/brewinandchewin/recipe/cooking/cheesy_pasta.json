@@ -7,15 +7,15 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "type": "neoforge:compound",
-      "children": [
-		{
-		  "item": "brewinandchewin:flaxen_cheese_wedge"
+		"type": "neoforge:difference",
+		"base": {
+			"tag": "c:cheese"
 		},
-        {
-          "item": "extradelight:cheese"
-        }
-      ]
+		"subtracted": [
+			{
+				"item": "brewinandchewin:scarlet_cheese_wedge"
+			}
+		]
     },
     {
       "tag": "c:foods/pasta"

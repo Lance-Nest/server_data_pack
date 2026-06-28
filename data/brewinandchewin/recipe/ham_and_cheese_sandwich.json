@@ -17,15 +17,7 @@
       "item": "farmersdelight:smoked_ham"
     },
     {
-      "type": "neoforge:compound",
-      "children": [
-		{
-		  "item": "brewinandchewin:flaxen_cheese_wedge"
-		},
-        {
-          "item": "extradelight:cheese"
-        }
-      ]
+      "tag": "c:cheese"
     },
     {
       "type": "neoforge:compound",
