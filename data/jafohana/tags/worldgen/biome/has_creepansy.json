@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wythers:deep_dark_forest",
+	"wythers:forbidden_forest",
+	"wythers:phantasmal_forest"
+  ]
+}
