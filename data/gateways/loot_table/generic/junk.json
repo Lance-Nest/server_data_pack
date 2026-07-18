@@ -8,20 +8,14 @@
         {
           "type": "minecraft:item",
           "name": "butchercraft:bone_saw",
-          "weight": 1,
-          "quality": 0
         },
         {
           "type": "minecraft:item",
           "name": "extradelight:lid",
-          "weight": 1,
-          "quality": 0
         },
         {
           "type": "minecraft:item",
           "name": "extradelight:whisk",
-          "weight": 1,
-          "quality": 0
         },
         {
           "type": "minecraft:item",

@@ -1,10 +1,13 @@
 {
-    "type": "gateways:normal",
-    "size": "small",
-    "color": "#cc8f4f",
+    "type": "apotheosis:tiered",
+    "settings": {
+        "tier": "haven",
+        "size": "small",
+        "color": "#cc8f4f"
+    },
     "waves": [
         {
-            "max_wave_time": 2500,
+            "max_wave_time": 1200,
             "setup_time": 100,
             "entities": [
                 {
@@ -25,7 +28,7 @@
             ]
         },
         {
-            "max_wave_time": 10000,
+            "max_wave_time": 1200,
             "setup_time": 100,
             "entities": [
                 {
@@ -63,5 +66,25 @@
                 "count": 16
             }
         }
-    ]
+    ],
+    "failures": [
+        {
+            "type": "gateways:explosion",
+            "strength": 10,
+            "fire": true,
+            "block_damage": false
+        },
+        {
+            "type": "gateways:summon",
+            "entity": {
+                    "type": "gateways:standard",
+                    "count": 25,
+                    "entity": "minecraft:silverfish"
+                }
+        }
+    ],
+    "rules": {
+        "lives": 1,
+        "requires_nearby_player": true
+    }
 }

@@ -1,0 +1,1 @@
+item replace entity @p armor.head with alshanex_familiars:familiar_helmet[custom_name='[{"text":"Tippable Fedora","italic":false}]',lore=['[{"text":"M\'lady","italic":false}]'],enchantment_glint_override=false,enchantments={levels:{binding_curse:1}}]

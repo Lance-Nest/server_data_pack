@@ -1,0 +1,92 @@
+{
+    "type": "apotheosis:tiered",
+    "settings": {
+        "tier": "ascent",
+        "size": "medium",
+        "color": "#14ba27"
+    },
+    "waves": [
+        {
+            "max_wave_time": 1200,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 4,
+                    "entity": "minecraft:vindicator"
+                }
+            ],
+            "modifiers": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
+                }
+            ]
+        },
+        {
+            "max_wave_time": 1200,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 2,
+                    "entity": "takesapillage:skirmisher"
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 4,
+                    "entity": "minecraft:witch"
+                }
+            ],
+            "modifiers": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
+                }
+            ]
+        },
+        {
+            "max_wave_time": 1200,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 1,
+                    "entity": "takesapillage:legioner"
+                }
+            ],
+            "modifiers": [
+                {
+                    "attribute": "generic.max_health",
+                    "operation": "add_multiplied_total",
+                    "value": 2
+                },
+                {
+                    "attribute": "generic.scale",
+                    "operation": "add_multiplied_total",
+                    "value": 1.5
+                },
+                {
+                    "type": "apotheosis:affix",
+                    "affix_chance": 1.0
+                },
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
+                }
+            ]
+        }
+    ],
+    "rewards": [
+        {
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:generic/uncommon_relic",
+            "rolls": 1,
+            "desc": "A random uncommon relic"
+        }
+    ],
+    "rules": {
+        "lives": 1,
+        "requires_nearby_player": true
+    }
+}

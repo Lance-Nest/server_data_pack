@@ -4,7 +4,7 @@
     "color": "#d602e5",
     "waves": [
         {
-            "max_wave_time": 2500,
+            "max_wave_time": 1200,
             "setup_time": 100,
             "entities": [
                 {
@@ -162,7 +162,7 @@
             ]
         },
         {
-            "max_wave_time": 10000,
+            "max_wave_time": 1200,
             "setup_time": 100,
             "entities": [
                 {
@@ -212,5 +212,16 @@
                 "count": 1
             }
         }
-    ]
+    ],
+    "failures": [
+        {
+            "type": "gateways:command",
+            "command": "execute as @s run function gateways:con",
+            "desc": "You will lose your hat!"
+        }
+    ],
+    "rules": {
+        "lives": 1,
+        "requires_nearby_player": true
+    }
 }

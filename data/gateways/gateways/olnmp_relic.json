@@ -1,9 +1,9 @@
 {
     "type": "apotheosis:tiered",
     "settings": {
-        "tier": "frontier",
+        "tier": "haven",
         "size": "small",
-        "color": "#28add6"
+        "color": "#14ba27"
     },
     "waves": [
         {
@@ -13,10 +13,31 @@
                 {
                     "type": "gateways:standard",
                     "count": 4,
-                    "entity": "minecraft:witch",
+                    "entity": "minecraft:pillager"
+                }
+            ],
+            "modifiers": [
+                {
+                    "type": "gateways:loot_table",
+                    "loot_table": "minecraft:empty"
+                }
+            ]
+        },
+        {
+            "max_wave_time": 1200,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 2,
+                    "entity": "takesapillage:archer"
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 4,
+                    "entity": "minecraft:wolf",
                     "nbt": {
-                        "CustomNameVisible": 1,
-                        "CustomName": "{\"text\":\"Teachers Assistant\",\"color\":\"white\"}"
+                        "AngerTime": 9999999
                     }
                 }
             ],
@@ -34,12 +55,7 @@
                 {
                     "type": "gateways:standard",
                     "count": 1,
-                    "entity": "minecraft:zombie",
-                    "nbt": {
-                        "CustomNameVisible": 1,
-                        "CustomName": "{\"text\":\"Professor\",\"color\":\"white\"}",
-                        "AngerTime": 9999999
-                    }
+                    "entity": "minecraft:vindicator"
                 }
             ],
             "modifiers": [
@@ -49,12 +65,13 @@
                     "value": 2
                 },
                 {
-                    "type": "gateways:gear_set",
-                    "gear_set": "gateways:wizard_students"
+                    "attribute": "generic.scale",
+                    "operation": "add_multiplied_total",
+                    "value": 1.5
                 },
                 {
-                            "type": "apotheosis:affix",
-                            "affix_chance": 100.0
+                    "type": "apotheosis:affix",
+                    "affix_chance": 1.0
                 },
                 {
                     "type": "gateways:loot_table",
@@ -65,23 +82,10 @@
     ],
     "rewards": [
         {
-            "type": "gateways:stack",
-            "stack": {
-                "id": "ars_additions:codex_entry",
-                "count": 4
-            }
-        },
-        {
-                    "type": "gateways:experience",
-                    "experience": 180,
-                    "orb_size": 25
-                }
-    ],
-    "failures": [
-        {
-            "type": "gateways:command",
-            "command": "execute as @s run function gateways:plague",
-            "desc": "A plague upon your land"
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:generic/common_relic",
+            "rolls": 1,
+            "desc": "A random common relic"
         }
     ],
     "rules": {

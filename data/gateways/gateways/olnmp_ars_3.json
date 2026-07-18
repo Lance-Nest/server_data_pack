@@ -52,8 +52,8 @@
             ],
             "modifiers": [
                 {
-                            "type": "apotheosis:affix",
-                            "affix_chance": 1.0
+                    "type": "apotheosis:affix",
+                    "affix_chance": 1.0
                 }
             ]
         }
@@ -67,9 +67,44 @@
             }
         },
         {
-                    "type": "gateways:experience",
-                    "experience": 1497,
-                    "orb_size": 25
-                }
-    ]
+            "type": "gateways:experience",
+            "experience": 1497,
+            "orb_size": 25
+        },
+        {
+            "type": "gateways:command",
+            "command": "kill @e[type=irons_spellbooks:dead_king_soul]",
+            "desc": "Remove Dead King Soul"
+        }
+    ],
+    "failures": [
+        {
+            "type": "gateways:mob_effect",
+            "effect": "ars_elemental:hymn_of_order",
+            "duration": 72000,
+            "amplifier": 0
+        },
+        {
+            "type": "gateways:mob_effect",
+            "effect": "runiclib:heartbreak",
+            "duration": 72000,
+            "amplifier": 10
+        },
+        {
+            "type": "gateways:mob_effect",
+            "effect": "runiclib:confusion",
+            "duration": 72000,
+            "amplifier": 0
+        },
+        {
+            "type": "gateways:mob_effect",
+            "effect": "hazennstuff:mana_sickness",
+            "duration": 72000,
+            "amplifier": 10
+        }
+    ],
+    "rules": {
+        "lives": 1,
+        "requires_nearby_player": true
+    }
 }

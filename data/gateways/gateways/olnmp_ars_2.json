@@ -91,5 +91,23 @@
                     "experience": 602,
                     "orb_size": 25
                 }
-    ]
+    ],
+        "failures": [
+        {
+            "type": "gateways:mob_effect",
+            "effect": "cataclysm_spellbooks:incapacitated_effect",
+            "duration": 600,
+            "amplifier": 0
+        },
+        {
+            "type": "gateways:mob_effect",
+            "effect": "extradelight:sour_pucker",
+            "duration": 600,
+            "amplifier": 4
+        }
+    ],
+    "rules": {
+        "lives": 1,
+        "requires_nearby_player": true
+    }
 }
