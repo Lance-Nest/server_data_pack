@@ -1,100 +1,172 @@
 {
   "values": [
-    "minecraft:stripped_acacia_log",
-    "minecraft:stripped_acacia_wood",
-    "compendium:stripped_acacia_small_logs_item",
-    "enchanted:stripped_alder_log",
-    "compendium:stripped_alder_wood_item",
-    "compendium:stripped_alder_small_logs_item",
-    "compendium:stripped_archwood_small_logs_item",
-    "minecraft:stripped_birch_log",
-    "minecraft:stripped_birch_wood",
-    "compendium:stripped_birch_small_logs_item",
-    "abyssal_decor:stripped_blackwood_log",
-    "compendium:stripped_blackwood_wood_item",
-    "compendium:stripped_blackwood_small_logs_item",
-    "compendium:stripped_blue_mushroom_log_item",
-    "compendium:stripped_blue_mushroom_wood_item",
-    "compendium:stripped_blue_mushroom_small_logs_item",
-    "minecraft:stripped_cherry_log",
-    "minecraft:stripped_cherry_wood",
-    "compendium:stripped_cherry_small_logs_item",
-    "cataclysm:chorus_stem",
-    "compendium:stripped_chorus_small_logs_item",
-    "extradelight:stripped_cinnamon_log",
-    "extradelight:strippedcinnamon_wood",
-    "compendium:stripped_cinnamon_small_logs_item",
-    "abyssal_decor:stripped_cinnamon_log",
-    "abyssal_decor:stripped_cinnamon_wood",
-    "compendium:stripped_cinnamon_ad_small_logs_item",
-    "cluttered:stripped_crabapple_log",
-    "cluttered:stripped_crabapple_wood",
-    "compendium:stripped_crabapple_small_logs_item",
-    "minecraft:stripped_crimson_stem",
-    "minecraft:stripped_crimson_hyphae",
-    "compendium:stripped_crimson_small_logs_item",
-    "minecraft:stripped_dark_oak_log",
-    "minecraft:stripped_dark_oak_wood",
-    "compendium:stripped_dark_oak_small_logs_item",
-    "cluttered:stripped_flowering_crabapple_log",
-    "cluttered:stripped_flowering_crabapple_wood",
-    "compendium:stripped_flowering_crabapple_small_logs_item",
-    "cluttered:stripped_flowering_poplar_log",
-    "cluttered:stripped_flowering_poplar_log",
-    "compendium:stripped_flowering_poplar_small_logs_item",
-    "cluttered:stripped_flowering_willow_log",
-    "cluttered:stripped_flowering_willow_wood",
-    "compendium:stripped_flowering_willow_small_logs_item",
-    "cluttered:stripped_fluorescent_maple_log",
-    "cluttered:stripped_fluorescent_maple_wood",
-    "compendium:stripped_fluorescent_maple_small_logs_item",
-    "hazennstuff:stripped_frostbite_birch_log",
-    "hazennstuff:stripped_frostbite_birch_wood",
-    "compendium:stripped_frostbite_birch_small_logs_item",
-    "extradelight:stripped_fruit_log",
-    "extradelight:stripped_fruit_wood",
-    "compendium:stripped_fruit_small_logs_item",
-    "enchanted:stripped_hawthorn_log",
-    "compendium:stripped_hawthorn_wood_item",
-    "compendium:stripped_hawthorn_small_logs_item",
-    "minecraft:stripped_jungle_log",
-    "minecraft:stripped_jungle_wood",
-    "compendium:stripped_jungle_small_logs_item",
-    "koopascritters:stripped_kopje_log",
-    "compendium:stripped_kopje_small_logs_item",
-    "minecraft:stripped_mangrove_log",
-    "minecraft:stripped_mangrove_wood",
-    "compendium:stripped_mangrove_small_logs_item",
-    "silentgear:stripped_netherwood_log",
-    "silentgear:stripped_netherwood_wood",
-    "compendium:stripped_netherwood_small_logs_item",
-    "minecraft:stripped_oak_log",
-    "minecraft:stripped_oak_wood",
-    "compendium:stripped_oak_small_logs_item",
-    "cluttered:stripped_poplar_log",
-    "cluttered:stripped_poplar_wood",
-    "compendium:stripped_poplar_small_logs_item",
-    "compendium:stripped_red_mushroom_log_item",
-    "compendium:stripped_red_mushroom_wood_item",
-    "compendium:stripped_red_mushroom_small_logs_item",
-    "enchanted:rowan_log",
-    "compendium:stripped_rowan_wood_item",
-    "compendium:stripped_rowan_small_logs_item",
-    "minecraft:stripped_spruce_log",
-    "minecraft:stripped_spruce_wood",
-    "compendium:stripped_spruce_small_logs_item",
-    "cluttered:stripped_sycamore_log",
-    "cluttered:stripped_sycamore_wood",
-    "compendium:stripped_sycamore_small_logs_item",
-    "minecraft:stripped_warped_stem",
-    "minecraft:stripped_warped_hyphae",
-    "compendium:stripped_warped_small_logs_item",
-    "compendium:stripped_white_wood_small_logs_item",
-    "cluttered:stripped_willow_log",
-    "cluttered:stripped_willow_wood",
-    "compendium:stripped_willow_small_logs_item",
-    "hazennstuff:stripped_wisewood_log",
-    "hazennstuff:stripped_wisewood_wood",
-    "compendium:stripped_wisewood_small_logs_item"
+    {
+      "id": "compendium:stripped_alder_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_archwood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_ashen_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_aspen_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_azalea_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_baobab_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_black_cherry_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_blackwood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_blue_spruce_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_cedar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_chorus_wood_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_chorus_log_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_chorus_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_cinnamon_ad_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_corrupted_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_dried_stem_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_ebony_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_fir_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_frostbite_birch_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_giant_stem_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_hawthorn_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_kopje_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_lavender_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_mahogany_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_maple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_maple_w_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_netherwood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_palm_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_peach_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_pine_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_rowan_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_sea_foam_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_strawberry_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_tropical_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_trumpet_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_vanilla_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_vivicus_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_walnut_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_white_wood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_whitebark_pine_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_willow_w_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_wisewood_small_logs_item",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:frostbite_birch_plank_item"
+    {
+      "id": "compendium:frostbite_birch_plank_item",
+      "required": false
+    }
   ]
 }

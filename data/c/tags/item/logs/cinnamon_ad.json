@@ -1,7 +1,8 @@
 {
   "values": [
-    "abyssal_decor:cinnamon_log",
-    "abyssal_decor:cinnamon_wood",
-    "compendium:cinnamon_ad_small_logs_item"
+    {
+      "id": "compendium:cinnamon_ad_small_logs_item",
+      "required": false
+    }
   ]
 }

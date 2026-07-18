@@ -1,7 +1,8 @@
 {
   "values": [
-    "enchanted:hawthorn_log",
-    "compendium:hawthorn_wood_item",
-    "compendium:hawthorn_small_logs_item"
+    {
+      "id": "compendium:hawthorn_small_logs_item",
+      "required": false
+    }
   ]
 }

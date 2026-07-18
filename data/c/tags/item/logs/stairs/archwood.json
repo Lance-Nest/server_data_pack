@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:archwood_small_logs_stairs_item"
+    {
+      "id": "compendium:archwood_small_logs_stairs_item",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:archwood_planks_stairs_item"
+    {
+      "id": "compendium:archwood_styled_planks_stairs_item",
+      "required": false
+    }
   ]
 }

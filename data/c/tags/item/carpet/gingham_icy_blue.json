@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:gingham_icy_blue_carpet_item"
+    {
+      "id": "compendium:gingham_icy_blue_carpet_item",
+      "required": false
+    }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "values": [
-    "koopascritters:kopje_fig_planks",
-    "compendium:kopje_planks_item"
+    {
+      "id": "compendium:kopje_styled_planks_item",
+      "required": false
+    }
   ]
 }

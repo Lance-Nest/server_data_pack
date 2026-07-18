@@ -1,6 +1,8 @@
 {
   "values": [
-    "enchanted:rowan_planks",
-    "compendium:rowan_planks_item"
+    {
+      "id": "compendium:rowan_styled_planks_item",
+      "required": false
+    }
   ]
 }

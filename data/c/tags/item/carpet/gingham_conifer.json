@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:gingham_conifer_carpet_item"
+    {
+      "id": "compendium:gingham_conifer_carpet_item",
+      "required": false
+    }
   ]
 }

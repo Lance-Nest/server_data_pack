@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:white_wood_planks_slab_item"
+    {
+      "id": "compendium:white_wood_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

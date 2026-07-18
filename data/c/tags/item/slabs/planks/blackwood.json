@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:blackwood_planks_slab_item"
+    {
+      "id": "compendium:blackwood_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

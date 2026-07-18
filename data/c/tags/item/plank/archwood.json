@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:archwood_plank_item"
+    {
+      "id": "compendium:archwood_plank_item",
+      "required": false
+    }
   ]
 }

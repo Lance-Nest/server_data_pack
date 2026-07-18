@@ -1,35 +1,8 @@
 {
   "values": [
-    "minecraft:stripped_acacia_wood",
-    "compendium:stripped_alder_wood_item",
-    "minecraft:stripped_birch_wood",
-    "compendium:stripped_blackwood_wood_item",
-    "compendium:stripped_blue_mushroom_wood_item",
-    "minecraft:stripped_cherry_wood",
-    "cataclysm:chorus_stem",
-    "extradelight:strippedcinnamon_wood",
-    "abyssal_decor:stripped_cinnamon_wood",
-    "cluttered:stripped_crabapple_wood",
-    "minecraft:stripped_crimson_hyphae",
-    "minecraft:stripped_dark_oak_wood",
-    "cluttered:stripped_flowering_crabapple_wood",
-    "cluttered:stripped_flowering_poplar_log",
-    "cluttered:stripped_flowering_willow_wood",
-    "cluttered:stripped_fluorescent_maple_wood",
-    "hazennstuff:stripped_frostbite_birch_wood",
-    "extradelight:stripped_fruit_wood",
-    "compendium:stripped_hawthorn_wood_item",
-    "minecraft:stripped_jungle_wood",
-    "minecraft:stripped_mangrove_wood",
-    "silentgear:stripped_netherwood_wood",
-    "minecraft:stripped_oak_wood",
-    "cluttered:stripped_poplar_wood",
-    "compendium:stripped_red_mushroom_wood_item",
-    "compendium:stripped_rowan_wood_item",
-    "minecraft:stripped_spruce_wood",
-    "cluttered:stripped_sycamore_wood",
-    "minecraft:stripped_warped_hyphae",
-    "cluttered:stripped_willow_wood",
-    "hazennstuff:stripped_wisewood_wood"
+    {
+      "id": "compendium:stripped_chorus_wood_item",
+      "required": false
+    }
   ]
 }

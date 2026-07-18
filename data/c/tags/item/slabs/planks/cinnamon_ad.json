@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:cinnamon_ad_planks_slab_item"
+    {
+      "id": "compendium:cinnamon_ad_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

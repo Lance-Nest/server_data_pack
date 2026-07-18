@@ -1,7 +1,8 @@
 {
   "values": [
-    "silentgear:netherwood_log",
-    "silentgear:netherwood_wood",
-    "compendium:netherwood_small_logs_item"
+    {
+      "id": "compendium:netherwood_small_logs_item",
+      "required": false
+    }
   ]
 }

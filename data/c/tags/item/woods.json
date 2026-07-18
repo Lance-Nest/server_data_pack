@@ -1,35 +1,12 @@
 {
   "values": [
-    "minecraft:acacia_wood",
-    "compendium:alder_wood_item",
-    "minecraft:birch_wood",
-    "abyssal_decor:blackwood_wood",
-    "cluttered:blue_mushroom_wood",
-    "minecraft:cherry_wood",
-    "extradelight:cinnamon_wood",
-    "abyssal_decor:cinnamon_wood",
-    "cluttered:crabapple_wood",
-    "minecraft:crimson_hyphae",
-    "minecraft:dark_oak_wood",
-    "cluttered:flowering_crabapple_wood",
-    "cluttered:flowering_poplar_wood",
-    "cluttered:flowering_willow_wood",
-    "cluttered:fluorescent_maple_wood",
-    "hazennstuff:frostbite_birch_wood",
-    "extradelight:fruit_wood",
-    "compendium:hawthorn_wood_item",
-    "minecraft:jungle_wood",
-    "minecraft:mangrove_wood",
-    "silentgear:netherwood_wood",
-    "minecraft:oak_wood",
-    "cluttered:poplar_wood",
-    "cluttered:red_mushroom_wood",
-    "compendium:rowan_wood_item",
-    "minecraft:spruce_wood",
-    "cluttered:sycamore_wood",
-    "minecraft:warped_hyphae",
-    "abyssal_decor:white_wood_wood",
-    "cluttered:willow_wood",
-    "hazennstuff:wisewood_wood"
+    {
+      "id": "compendium:archwood_wood_item",
+      "required": false
+    },
+    {
+      "id": "compendium:chorus_wood_item",
+      "required": false
+    }
   ]
 }

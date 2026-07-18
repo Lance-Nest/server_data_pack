@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:kopje_planks_slab_item"
+    {
+      "id": "compendium:kopje_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "values": [
-    "abyssal_decor:white_wood_log",
-    "abyssal_decor:white_wood_wood"
+    {
+      "id": "compendium:white_wood_small_logs_item",
+      "required": false
+    }
   ]
 }

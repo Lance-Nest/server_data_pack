@@ -1,7 +1,8 @@
 {
   "values": [
-    "enchanted:stripped_hawthorn_log",
-    "compendium:stripped_hawthorn_wood_item",
-    "compendium:stripped_hawthorn_small_logs_item"
+    {
+      "id": "compendium:stripped_hawthorn_small_logs_item",
+      "required": false
+    }
   ]
 }

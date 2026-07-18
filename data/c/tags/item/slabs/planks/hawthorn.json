@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:hawthorn_planks_slab_item"
+    {
+      "id": "compendium:hawthorn_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

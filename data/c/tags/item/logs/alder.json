@@ -1,7 +1,8 @@
 {
   "values": [
-    "enchanted:alder_log",
-    "compendium:alder_wood_item",
-    "compendium:alder_small_logs_item"
+    {
+      "id": "compendium:alder_small_logs_item",
+      "required": false
+    }
   ]
 }

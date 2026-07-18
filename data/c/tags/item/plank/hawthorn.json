@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:hawthorn_plank_item"
+    {
+      "id": "compendium:hawthorn_plank_item",
+      "required": false
+    }
   ]
 }

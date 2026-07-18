@@ -1,7 +1,8 @@
 {
   "values": [
-    "hazennstuff:stripped_frostbite_birch_log",
-    "hazennstuff:stripped_frostbite_birch_wood",
-    "compendium:stripped_frostbite_birch_small_logs_item"
+    {
+      "id": "compendium:stripped_frostbite_birch_small_logs_item",
+      "required": false
+    }
   ]
 }

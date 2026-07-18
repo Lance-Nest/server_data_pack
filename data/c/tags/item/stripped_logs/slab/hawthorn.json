@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:stripped_hawthorn_small_logs_slab_item"
+    {
+      "id": "compendium:stripped_hawthorn_small_logs_slab_item",
+      "required": false
+    }
   ]
 }

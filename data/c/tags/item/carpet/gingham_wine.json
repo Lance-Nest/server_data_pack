@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:gingham_wine_carpet_item"
+    {
+      "id": "compendium:gingham_wine_carpet_item",
+      "required": false
+    }
   ]
 }

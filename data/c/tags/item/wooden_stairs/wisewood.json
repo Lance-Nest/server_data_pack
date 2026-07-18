@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:wisewood_planks_stairs_item"
+    {
+      "id": "compendium:wisewood_styled_planks_stairs_item",
+      "required": false
+    }
   ]
 }

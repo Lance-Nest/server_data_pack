@@ -1,7 +1,8 @@
 {
   "values": [
-    "abyssal_decor:stripped_blackwood_log",
-    "compendium:stripped_blackwood_wood_item",
-    "compendium:stripped_blackwood_small_logs_item"
+    {
+      "id": "compendium:stripped_blackwood_small_logs_item",
+      "required": false
+    }
   ]
 }

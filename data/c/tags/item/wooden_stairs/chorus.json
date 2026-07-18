@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:chorus_planks_stairs_item"
+    {
+      "id": "compendium:chorus_styled_planks_stairs_item",
+      "required": false
+    }
   ]
 }

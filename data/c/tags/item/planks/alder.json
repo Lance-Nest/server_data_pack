@@ -1,6 +1,8 @@
 {
   "values": [
-    "enchanted:alder_planks",
-    "compendium:alder_planks_item"
+    {
+      "id": "compendium:alder_styled_planks_item",
+      "required": false
+    }
   ]
 }

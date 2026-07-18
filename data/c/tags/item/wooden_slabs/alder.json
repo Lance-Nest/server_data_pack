@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:alder_planks_slab_item"
+    {
+      "id": "compendium:alder_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

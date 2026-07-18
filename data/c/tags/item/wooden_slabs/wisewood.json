@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:wisewood_planks_slab_item"
+    {
+      "id": "compendium:wisewood_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

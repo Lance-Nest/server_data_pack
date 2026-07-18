@@ -1,6 +1,8 @@
 {
   "values": [
-    "silentgear:netherwood_planks",
-    "compendium:netherwood_planks_item"
+    {
+      "id": "compendium:netherwood_styled_planks_item",
+      "required": false
+    }
   ]
 }

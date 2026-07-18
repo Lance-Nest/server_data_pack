@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:gingham_ultramarine_block_item"
+    {
+      "id": "compendium:gingham_ultramarine_block_item",
+      "required": false
+    }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "values": [
-    "abyssal_decor:white_wood_planks",
-    "compendium:white_wood_planks_item"
+    {
+      "id": "compendium:white_wood_styled_planks_item",
+      "required": false
+    }
   ]
 }
