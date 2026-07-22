@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:poplar_plank_item"
+    {
+      "id": "compendium:poplar_plank_item",
+      "required": false
+    }
   ]
 }

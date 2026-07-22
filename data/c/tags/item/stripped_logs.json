@@ -33,6 +33,10 @@
       "required": false
     },
     {
+      "id": "compendium:stripped_blue_mushroom_small_logs_item",
+      "required": false
+    },
+    {
       "id": "compendium:stripped_blue_spruce_small_logs_item",
       "required": false
     },
@@ -61,6 +65,10 @@
       "required": false
     },
     {
+      "id": "compendium:stripped_crabapple_small_logs_item",
+      "required": false
+    },
+    {
       "id": "compendium:stripped_dried_stem_small_logs_item",
       "required": false
     },
@@ -70,6 +78,22 @@
     },
     {
       "id": "compendium:stripped_fir_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_flowering_crabapple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_flowering_poplar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_flowering_willow_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_fluorescent_maple_small_logs_item",
       "required": false
     },
     {
@@ -121,6 +145,14 @@
       "required": false
     },
     {
+      "id": "compendium:stripped_poplar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_red_mushroom_small_logs_item",
+      "required": false
+    },
+    {
       "id": "compendium:stripped_rowan_small_logs_item",
       "required": false
     },
@@ -130,6 +162,10 @@
     },
     {
       "id": "compendium:stripped_strawberry_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_sycamore_small_logs_item",
       "required": false
     },
     {
@@ -158,6 +194,10 @@
     },
     {
       "id": "compendium:stripped_whitebark_pine_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_willow_small_logs_item",
       "required": false
     },
     {

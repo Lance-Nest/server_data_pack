@@ -1,6 +1,8 @@
 {
   "values": [
-    "cluttered:red_mushroom_planks",
-    "compendium:red_mushroom_planks_item"
+    {
+      "id": "compendium:red_mushroom_styled_planks_item",
+      "required": false
+    }
   ]
 }

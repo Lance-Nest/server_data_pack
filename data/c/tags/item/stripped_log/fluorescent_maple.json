@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:stripped_fluorescent_maple_log",
-    "cluttered:stripped_fluorescent_maple_wood",
-    "compendium:stripped_fluorescent_maple_small_logs_item"
+    {
+      "id": "compendium:stripped_fluorescent_maple_small_logs_item",
+      "required": false
+    }
   ]
 }

@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:crabapple_log",
-    "cluttered:crabapple_wood",
-    "compendium:crabapple_small_logs_item"
+    {
+      "id": "compendium:crabapple_small_logs_item",
+      "required": false
+    }
   ]
 }

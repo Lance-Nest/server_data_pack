@@ -1,6 +1,8 @@
 {
   "values": [
-    "cluttered:crabapple_planks",
-    "compendium:crabapple_planks_item"
+    {
+      "id": "compendium:crabapple_styled_planks_item",
+      "required": false
+    }
   ]
 }

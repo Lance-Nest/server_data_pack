@@ -1,6 +1,8 @@
 {
   "values": [
-    "cluttered:sycamore_planks",
-    "compendium:sycamore_planks_item"
+    {
+      "id": "compendium:sycamore_styled_planks_item",
+      "required": false
+    }
   ]
 }

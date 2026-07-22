@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:sycamore_planks_slab_item"
+    {
+      "id": "compendium:sycamore_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

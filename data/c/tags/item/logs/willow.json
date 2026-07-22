@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:willow_log",
-    "cluttered:willow_wood",
-    "compendium:willow_small_logs_item"
+    {
+      "id": "compendium:willow_small_logs_item",
+      "required": false
+    }
   ]
 }

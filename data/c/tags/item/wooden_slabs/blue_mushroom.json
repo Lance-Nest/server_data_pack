@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:blue_mushroom_planks_slab_item"
+    {
+      "id": "compendium:blue_mushroom_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

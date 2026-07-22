@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:poplar_planks_stairs_item"
+    {
+      "id": "compendium:poplar_styled_planks_stairs_item",
+      "required": false
+    }
   ]
 }

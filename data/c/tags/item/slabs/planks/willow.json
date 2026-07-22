@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:willow_planks_slab_item"
+    {
+      "id": "compendium:willow_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

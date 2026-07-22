@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:crabapple_plank_item"
+    {
+      "id": "compendium:crabapple_plank_item",
+      "required": false
+    }
   ]
 }

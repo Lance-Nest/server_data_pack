@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:stripped_sycamore_log",
-    "cluttered:stripped_sycamore_wood",
-    "compendium:stripped_sycamore_small_logs_item"
+    {
+      "id": "compendium:stripped_sycamore_small_logs_item",
+      "required": false
+    }
   ]
 }

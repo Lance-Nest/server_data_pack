@@ -1,15 +1,11 @@
 {
   "values": [
     {
-      "id": "compendium:amber_sword_item",
-      "required": false
-    },
-    {
       "id": "compendium:amber_axe_item",
       "required": false
     },
     {
-      "id": "compendium:garnet_sword_item",
+      "id": "compendium:amber_sword_item",
       "required": false
     },
     {
@@ -17,7 +13,7 @@
       "required": false
     },
     {
-      "id": "compendium:moonstone_axe_item",
+      "id": "compendium:garnet_sword_item",
       "required": false
     },
     {
@@ -25,7 +21,7 @@
       "required": false
     },
     {
-      "id": "compendium:onyx_sword_item",
+      "id": "compendium:moonstone_axe_item",
       "required": false
     },
     {
@@ -33,7 +29,7 @@
       "required": false
     },
     {
-      "id": "compendium:peridot_sword_item",
+      "id": "compendium:onyx_sword_item",
       "required": false
     },
     {
@@ -41,11 +37,15 @@
       "required": false
     },
     {
-      "id": "compendium:ruby_axe_item",
+      "id": "compendium:peridot_sword_item",
       "required": false
     },
     {
       "id": "compendium:ruby_sword_item",
+      "required": false
+    },
+    {
+      "id": "compendium:ruby_axe_item",
       "required": false
     },
     {

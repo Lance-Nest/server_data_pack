@@ -1,5 +1,8 @@
 {
   "values": [
-    "cluttered:flowering_crabapple_planks"
+    {
+      "id": "compendium:flowering_crabapple_styled_planks_item",
+      "required": false
+    }
   ]
 }

@@ -1,6 +1,8 @@
 {
   "values": [
-    "cluttered:willow_planks",
-    "compendium:willow_planks_item"
+    {
+      "id": "compendium:willow_styled_planks_item",
+      "required": false
+    }
   ]
 }

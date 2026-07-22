@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:stripped_willow_log",
-    "cluttered:stripped_willow_wood",
-    "compendium:stripped_willow_small_logs_item"
+    {
+      "id": "compendium:stripped_willow_small_logs_item",
+      "required": false
+    }
   ]
 }

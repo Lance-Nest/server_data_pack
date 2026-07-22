@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:stripped_poplar_log",
-    "cluttered:stripped_poplar_wood",
-    "compendium:stripped_poplar_small_logs_item"
+    {
+      "id": "compendium:stripped_poplar_small_logs_item",
+      "required": false
+    }
   ]
 }

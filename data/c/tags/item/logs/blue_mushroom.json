@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:blue_mushroom_log",
-    "cluttered:blue_mushroom_wood",
-    "compendium:blue_mushroom_small_logs_item"
+    {
+      "id": "compendium:blue_mushroom_small_logs_item",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:crabapple_planks_slab_item"
+    {
+      "id": "compendium:crabapple_styled_planks_slab_item",
+      "required": false
+    }
   ]
 }

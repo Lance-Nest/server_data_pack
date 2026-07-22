@@ -37,6 +37,10 @@
       "required": false
     },
     {
+      "id": "compendium:blue_mushroom_plank_item",
+      "required": false
+    },
+    {
       "id": "compendium:blue_spruce_plank_item",
       "required": false
     },
@@ -57,6 +61,10 @@
       "required": false
     },
     {
+      "id": "compendium:crabapple_plank_item",
+      "required": false
+    },
+    {
       "id": "compendium:dried_stem_plank_item",
       "required": false
     },
@@ -66,6 +74,22 @@
     },
     {
       "id": "compendium:fir_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_crabapple_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_poplar_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_willow_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:fluorescent_maple_plank_item",
       "required": false
     },
     {
@@ -117,6 +141,14 @@
       "required": false
     },
     {
+      "id": "compendium:poplar_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:red_mushroom_plank_item",
+      "required": false
+    },
+    {
       "id": "compendium:rowan_plank_item",
       "required": false
     },
@@ -126,6 +158,10 @@
     },
     {
       "id": "compendium:strawberry_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:sycamore_plank_item",
       "required": false
     },
     {
@@ -154,6 +190,10 @@
     },
     {
       "id": "compendium:whitebark_pine_plank_item",
+      "required": false
+    },
+    {
+      "id": "compendium:willow_plank_item",
       "required": false
     },
     {

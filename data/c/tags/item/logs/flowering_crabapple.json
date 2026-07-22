@@ -1,7 +1,8 @@
 {
   "values": [
-    "cluttered:flowering_crabapple_log",
-    "cluttered:flowering_crabapple_wood",
-    "compendium:flowering_crabapple_small_logs_item"
+    {
+      "id": "compendium:flowering_crabapple_small_logs_item",
+      "required": false
+    }
   ]
 }

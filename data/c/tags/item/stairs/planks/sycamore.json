@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:sycamore_planks_stairs_item"
+    {
+      "id": "compendium:sycamore_styled_planks_stairs_item",
+      "required": false
+    }
   ]
 }

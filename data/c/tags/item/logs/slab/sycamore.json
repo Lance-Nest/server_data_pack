@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:sycamore_small_logs_slab_item"
+    {
+      "id": "compendium:sycamore_small_logs_slab_item",
+      "required": false
+    }
   ]
 }

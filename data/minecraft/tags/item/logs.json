@@ -37,6 +37,10 @@
       "required": false
     },
     {
+      "id": "compendium:blue_mushroom_small_logs_item",
+      "required": false
+    },
+    {
       "id": "compendium:blue_spruce_small_logs_item",
       "required": false
     },
@@ -45,11 +49,11 @@
       "required": false
     },
     {
-      "id": "compendium:chorus_log_item",
+      "id": "compendium:chorus_wood_item",
       "required": false
     },
     {
-      "id": "compendium:chorus_wood_item",
+      "id": "compendium:chorus_log_item",
       "required": false
     },
     {
@@ -65,6 +69,10 @@
       "required": false
     },
     {
+      "id": "compendium:crabapple_small_logs_item",
+      "required": false
+    },
+    {
       "id": "compendium:dried_stem_small_logs_item",
       "required": false
     },
@@ -74,6 +82,22 @@
     },
     {
       "id": "compendium:fir_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_crabapple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_poplar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_willow_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:fluorescent_maple_small_logs_item",
       "required": false
     },
     {
@@ -125,6 +149,14 @@
       "required": false
     },
     {
+      "id": "compendium:poplar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:red_mushroom_small_logs_item",
+      "required": false
+    },
+    {
       "id": "compendium:rowan_small_logs_item",
       "required": false
     },
@@ -134,6 +166,10 @@
     },
     {
       "id": "compendium:strawberry_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:sycamore_small_logs_item",
       "required": false
     },
     {
@@ -162,6 +198,10 @@
     },
     {
       "id": "compendium:whitebark_pine_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:willow_small_logs_item",
       "required": false
     },
     {

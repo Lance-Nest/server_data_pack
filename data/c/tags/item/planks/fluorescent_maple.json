@@ -1,6 +1,8 @@
 {
   "values": [
-    "cluttered:fluorescent_maple_planks",
-    "compendium:fluorescent_maple_planks_item"
+    {
+      "id": "compendium:fluorescent_maple_styled_planks_item",
+      "required": false
+    }
   ]
 }

@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:stripped_sycamore_small_logs_stairs_item"
+    {
+      "id": "compendium:stripped_sycamore_small_logs_stairs_item",
+      "required": false
+    }
   ]
 }

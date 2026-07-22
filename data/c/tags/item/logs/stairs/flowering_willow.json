@@ -1,5 +1,8 @@
 {
   "values": [
-    "compendium:flowering_willow_small_logs_stairs_item"
+    {
+      "id": "compendium:flowering_willow_small_logs_stairs_item",
+      "required": false
+    }
   ]
 }
