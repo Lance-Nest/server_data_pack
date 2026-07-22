@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "BMB",
+    "BEB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "silentgear:emerald_shard"
+    },
+	"E": {
+      "item": "minecraft:ender_pearl"
+    },
+	"M": {
+      "item": "plushie_buddies:plushie_pillager"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:olnmp_relic"
+}

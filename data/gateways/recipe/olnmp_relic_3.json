@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "BMB",
+    "BEB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:emerald_block"
+    },
+	"E": {
+      "item": "compendium:ender_pearl_block_item"
+    },
+	"M": {
+      "item": "irons_spellbooks:archevoker_helmet"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:olnmp_relic_3"
+}

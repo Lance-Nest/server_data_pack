@@ -1,0 +1,42 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "KMH",
+    "CEI",
+    "BFP"
+  ],
+  "key": {
+    "B": {
+      "item": "butchercraft:soap"
+    },
+	"E": {
+      "item": "minecraft:ender_pearl"
+    },
+	"M": {
+      "item": "dustydecorations:plushy"
+    },
+	"K": {
+      "item": "silentgear:katana"
+    },
+	"C": {
+      "item": "create:cardboard_helmet"
+    },
+	"F": {
+      "item": "extradelight:french_fries"
+    },
+	"I": {
+      "item": "createdeco:gold_coinstack"
+    },
+	"H": {
+      "item": "alshanex_familiars:familiar_helmet"
+    },
+	"P": {
+      "item": "dustydecorations:poster_decor"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:convention"
+}

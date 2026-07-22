@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "BMB",
+    "BEB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:emerald"
+    },
+	"E": {
+      "item": "minecraft:ender_chest"
+    },
+	"M": {
+      "item": "takesapillage:ravager_horn"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:olnmp_relic_2"
+}

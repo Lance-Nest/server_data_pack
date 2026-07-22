@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "MBM",
+    "BEB",
+    "MBM"
+  ],
+  "key": {
+    "B": {
+      "item": "create:belt_connector"
+    },
+	"E": {
+      "item": "minecraft:ender_pearl"
+    },
+	"M": {
+      "item": "apotheosis:mysterious_scrap_metal"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:olnmp_create"
+}
