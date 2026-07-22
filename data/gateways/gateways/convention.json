@@ -216,7 +216,7 @@
     "failures": [
         {
             "type": "gateways:command",
-            "command": "execute as @s run function gateways:con",
+            "command": "execute as @s run function gateways:convention",
             "desc": "You will lose your hat!"
         }
     ],

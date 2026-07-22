@@ -1,0 +1,21 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "FFF",
+    "FAF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "irons_spellbooks:scroll"
+    },
+	"A": {
+      "item": "irons_spellbooks:ender_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:olnmp_ars_3"
+}
