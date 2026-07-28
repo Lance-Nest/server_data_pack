@@ -17,8 +17,6 @@
 	"silentgear:fluffy_plant"
   ],
   "remove": [
-	"veggiesdelight:garlic_crop",
-	"youkaisfeasts:cucumber",
-	"youkaisfeasts:soybean"
+	"veggiesdelight:garlic_crop"
   ]
 }

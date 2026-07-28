@@ -17,8 +17,6 @@
 	"silentgear:fluffy_seeds"
   ],
   "remove": [
-	"veggiesdelight:garlic_clove",
-	"youkaisfeasts:cucumber_seeds",
-	"youkaisfeasts:soybean"
+	"veggiesdelight:garlic_clove"
   ]
 }
