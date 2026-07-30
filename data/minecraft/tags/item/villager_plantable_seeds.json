@@ -5,6 +5,8 @@
   ],
   "remove": [
 	"veggiesdelight:bellpepper_seeds",
-	"veggiesdelight:garlic_clove"
+	"veggiesdelight:garlic_clove",
+	"youkaisfeasts:cucumber_seeds",
+	"youkaisfeasts:soybean"
   ]
 }

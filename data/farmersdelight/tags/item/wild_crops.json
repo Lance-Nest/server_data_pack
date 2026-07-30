@@ -10,6 +10,8 @@
   ],
   "remove": [
     "veggiesdelight:wild_bellpeppers",
-	"veggiesdelight:wild_garlic"
+	"veggiesdelight:wild_garlic",
+	"youkaisfeasts:wild_cucumber",
+	"youkaisfeasts:wild_soybean"
   ]
 }

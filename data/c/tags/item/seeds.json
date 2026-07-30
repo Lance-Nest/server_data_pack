@@ -11,7 +11,11 @@
 	"enchanted:wolfsbane_seeds"
   ],
   "remove": [
+	"cocktailsdelight:red_grape_seeds",
+	"cocktailsdelight:white_grape_seeds",
 	"veggiesdelight:bellpepper_seeds",
-	"veggiesdelight:garlic_clove"
+	"veggiesdelight:garlic_clove",
+	"youkaisfeasts:cucumber_seeds",
+	"youkaisfeasts:soybean"
   ]
 }

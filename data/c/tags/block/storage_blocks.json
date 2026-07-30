@@ -9,6 +9,9 @@
 	"quark:golden_carrot_crate",
 	"quark:potato_crate",
 	"veggiesdelight:bellpepper_crate",
-	"veggiesdelight:garlic_crate"
+	"veggiesdelight:garlic_crate",
+	"youkaisfeasts:cucumber_crate",
+	"youkaisfeasts:pod_crate",
+	"youkaisfeasts:soybean_bag"
   ]
 }
