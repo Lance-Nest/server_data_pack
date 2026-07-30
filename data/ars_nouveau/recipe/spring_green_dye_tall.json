@@ -1,0 +1,16 @@
+{
+  "type": "ars_nouveau:crush",
+  "input": {
+    "tag": "c:raw_materials/dyes/spring_green/tall"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "maxRange": 1,
+      "stack": {
+        "count": 4,
+        "id": "dyenamics:spring_green_dye"
+      }
+    }
+  ]
+}
