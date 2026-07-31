@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "youkaisfeasts:ice_cube"
+    "windswept:icicles",
+	"youkaisfeasts:ice_cube"
   ]
 }

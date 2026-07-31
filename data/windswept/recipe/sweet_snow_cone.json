@@ -10,10 +10,10 @@
   "fluid": {},
   "ingredients": [
     {
-      "item": "extradelight:ginger"
+      "item": "windswept:wild_berries"
     },
     {
-      "tag": "c:nuts/cooked"
+      "item": "minecraft:sweet_berries"
     },
     {
       "item": "minecraft:snowball"
@@ -24,6 +24,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "windswept:spicy_snow_cone"
+    "id": "windswept:sweet_snow_cone"
   }
 }

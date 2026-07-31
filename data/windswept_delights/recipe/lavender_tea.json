@@ -1,0 +1,54 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "windswept:lavender"
+        },
+        {
+          "item": "mysticsbiomes:lavender"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "windswept:lavender"
+        },
+        {
+          "item": "mysticsbiomes:lavender"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "windswept:lavender"
+        },
+        {
+          "item": "mysticsbiomes:lavender"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "windswept:lavender"
+        },
+        {
+          "item": "mysticsbiomes:lavender"
+        }
+      ]
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "windswept:lavender_tea"
+  }
+}

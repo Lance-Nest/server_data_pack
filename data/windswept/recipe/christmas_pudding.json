@@ -1,25 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
   "ingredients": [
-    {
-      "item": "windswept:holly_berries"
-    },
-    {
-      "item": "extradelight:ginger"
-    },
-    {
-      "item": "windswept:roasted_chestnuts"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "c:eggs"
-    },
-    {
-      "tag": "c:crops/wheat"
-    }
+    { "item": "windswept:holly_berries" },
+    { "tag": "extradelight:processed/ginger" },
+    { "item": "windswept:roasted_chestnuts" },
+	{ "item": "minecraft:sugar" },
+    { "tag": "c:eggs" },
+	{ "tag": "c:flour" }
   ],
   "result": {
     "count": 1,

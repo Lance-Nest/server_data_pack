@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "experience": 1.0,
   "ingredients": [
-    { "item": "extradelight:ginger" },
+    { "tag": "extradelight:processed/ginger" },
     { "item": "windswept:mimosa" },
     { "item": "windswept:mimosa" }
   ],

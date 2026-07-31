@@ -10,10 +10,10 @@
   "fluid": {},
   "ingredients": [
     {
-      "item": "extradelight:ginger"
+      "item": "farmersdelight:pumpkin_slice"
     },
     {
-      "tag": "c:nuts/cooked"
+      "item": "extradelight:ground_cinnamon"
     },
     {
       "item": "minecraft:snowball"
@@ -24,6 +24,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "windswept:spicy_snow_cone"
+    "id": "windswept_delights:pumpkin_snow_cone"
   }
 }

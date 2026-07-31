@@ -9,19 +9,19 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:honey_bottle"
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "the_great_outdoors:pinecone_jam"
     },
     {
       "item": "minecraft:sugar"
     },
     {
-      "item": "minecraft:honey_bottle"
-    },
-    {
       "tag": "c:flour"
     },
     {
-      "tag": "c:eggs"
+      "tag": "c:butter"
     },
     {
       "tag": "c:flour"
@@ -29,6 +29,6 @@
   ],
   "result": {
     "count": 8,
-    "id": "the_great_outdoors:cinnamini_bun"
+    "id": "the_great_outdoors:pinecone_jam_shortbread_cookie"
   }
 }

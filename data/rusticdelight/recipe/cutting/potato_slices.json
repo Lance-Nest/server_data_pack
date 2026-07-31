@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rusticdelight:config_boolean",
+      "settingId": "enable_potato_slices"
+    }
+  ],
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 2,
+        "id": "rusticdelight:potato_slices"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "minecraft:axes"
+  }
+}

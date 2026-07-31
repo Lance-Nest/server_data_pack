@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    { "tag": "extradelight:processed/ginger" },
+    { "tag": "extradelight:processed/ginger" },
+    { "tag": "extradelight:processed/ginger" },
+    { "tag": "extradelight:processed/ginger" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "windswept:ginger_tea"
+  }
+}

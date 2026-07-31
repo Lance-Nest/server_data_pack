@@ -9,13 +9,13 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "rusticdelight:syrup"
+      "tag": "rusticdelight:syrup"
     },
     {
-      "item": "rusticdelight:syrup"
+      "tag": "rusticdelight:syrup"
     },
     {
-      "item": "rusticdelight:syrup"
+      "tag": "rusticdelight:syrup"
     },
     {
       "tag": "c:drinks/milk"

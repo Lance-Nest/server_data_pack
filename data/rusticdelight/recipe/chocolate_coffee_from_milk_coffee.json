@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rusticdelight:config_boolean",
+      "settingId": "enable_coffee"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rusticdelight:milk_coffee"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "extradelight:cocoa_powder"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rusticdelight:chocolate_coffee"
+  }
+}

@@ -3,20 +3,23 @@
   "consumeContainer": false,
   "container": {
     "count": 1,
-    "id": "extradelight:sheet"
+    "id": "extradelight:pie_dish"
   },
   "cookingtime": 800,
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "extradelight:sugar_cookie_dough"
+      "item": "extradelight:gravy_boat_item"
     },
     {
-      "tag": "extradelight:processed/ginger"
+      "tag": "c:mutton/raw"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
     }
   ],
   "result": {
-    "count": 4,
-    "id": "windswept:gingerbread_cookie"
+    "count": 1,
+    "id": "windswept:mutton_pie"
   }
 }

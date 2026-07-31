@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:glass_bottle"
+  },
+  "experience": 0.1,
+  "ingredients": [
+    {
+      "tag": "c:pinecone"
+    },
+    {
+      "tag": "c:pinecone"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    },
+    {
+      "tag": "c:pinecone"
+    },
+    {
+      "tag": "c:pinecone"
+    },
+    {
+      "tag": "extradelight:sweetener"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "windswept:pinecone_jam_bottle"
+  }
+}

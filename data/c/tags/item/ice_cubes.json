@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "extradelight:ice_cubes"
+    "extradelight:ice_cubes",
+	"windswept:icicles"
   ]
 }

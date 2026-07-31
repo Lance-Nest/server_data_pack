@@ -1,0 +1,20 @@
+{
+  "type": "extradelight:chiller",
+  "consumeContainer": true,
+  "container": {
+    "count": 4,
+    "id": "minecraft:stick"
+  },
+  "cookingtime": 800,
+  "experience": 0.35,
+  "fluid": {},
+  "ingredients": [
+    {
+      "item": "windswept_delights:wild_berry_juice"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "windswept_delights:wild_berry_popsicle"
+  }
+}

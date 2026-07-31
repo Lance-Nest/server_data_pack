@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    { "item": "windswept:roasted_chestnuts" },
+    { "item": "windswept:roasted_chestnuts" },
+    { "tag": "extradelight:processed/onion" },
+    { "tag": "extradelight:processed/carrot" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "windswept:chestnut_soup"
+  }
+}
