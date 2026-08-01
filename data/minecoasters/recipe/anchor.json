@@ -3,19 +3,22 @@
   "category": "equipment",
   "key": {
     "F": {
-      "tag": "c:feathers"
+      "item": "minecraft:rail"
     },
     "H": {
-      "item": "butchercraft:chicken_head_item"
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
     }
   },
   "pattern": [
-    "F F",
     "FHF",
-    "F F"
+    "HRH",
+    "FHF"
   ],
   "result": {
     "count": 1,
-    "id": "butchercraft:chicken_mask"
+    "id": "mccoasters:track_anchor"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "mccoasters:camera"
+    },
+    "G": {
+      "item": "mccoasters:photo_screen"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "BRG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mccoasters:photo_linker"
+  }
+}

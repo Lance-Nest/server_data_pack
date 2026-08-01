@@ -3,19 +3,18 @@
   "category": "equipment",
   "key": {
     "F": {
-      "tag": "c:feathers"
+      "tag": "create:seats"
     },
     "H": {
-      "item": "butchercraft:chicken_head_item"
+      "item": "minecraft:minecart"
     }
   },
   "pattern": [
-    "F F",
-    "FHF",
-    "F F"
+    "F",
+    "H"
   ],
   "result": {
     "count": 1,
-    "id": "butchercraft:chicken_mask"
+    "id": "mccoasters:coaster_car"
   }
 }

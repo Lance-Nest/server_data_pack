@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:birch_planks"
+    },
+    "R": {
+      "item": "sophisticatedstorage:paintbrush"
+    }
+  },
+  "pattern": [
+    " B",
+    "R "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mccoasters:wood_veneer_birch"
+  }
+}

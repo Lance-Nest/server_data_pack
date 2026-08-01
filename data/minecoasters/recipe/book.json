@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "minecraft:book"
+    },
+    "W": {
+      "item": "mccoasters:track_wrench"
+    }
+  },
+  "pattern": [
+    "HW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mccoasters:guidebook"
+  }
+}

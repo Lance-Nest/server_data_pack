@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:rail"
+    },
+    "G": {
+      "item": "minecraft:iron_nugget"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "BGG",
+    "GRG",
+    "GGB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mccoasters:tilt_track_machine"
+  }
+}
