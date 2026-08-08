@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "unusualend:end_blob"
+    },
+    {
+      "item": "unusualend:chorus_roots"
+    },
+    {
+      "item": "unusualend:chorus_fungus"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    }
+  ],
+  "result": {
+    "id": "unusualend:ender_stew"
+  },
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}
