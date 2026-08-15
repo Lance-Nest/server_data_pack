@@ -59,6 +59,369 @@
 		},
 		"mysticsbiomes:yellow_maple_sapling": {
 		  "chance": 0.3
+		},
+		"herios_floral_expansion:azalea_flowers": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:blue_petals": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:calla_lily": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:clovers": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:lilac_petals": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:golden_petals": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:red_petals": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:white_petals": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:sprouts": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:basalt_rose": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:blooming_endroot": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:curly_endroot": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:curly_endroot": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:tall_curly_endroot": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:short_endroot": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:blue_bell": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:red_bell": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:soul_bell": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:yellow_bell": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:blue_flowering_shrub": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:orange_flowering_shrub": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:pink_flowering_shrub": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:purple_flowering_shrub": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:red_flowering_shrub": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:yellow_flowering_shrub": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:blue_hyacinth": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:magenta_hyacinth": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:purple_hyacinth": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:blue_poppy": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:orange_poppy": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:ender_poppy": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:yellow_poppy": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:cyan_rose": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:cyan_rose_bush": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:desert_rose": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:echo_blossom": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:glow_bloom": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:jungle_velvet": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:marigold": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:rose": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:skygazer_lily": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:spider_lily": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:warped_puff": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:rafflesia": {
+		  "chance": 0.65
+		},
+		"herios_floral_expansion:blue_cactus_flower": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:orange_cactus_flower": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:pink_cactus_flower": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:red_cactus_flower": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:violet_cactus_flower": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:yellow_cactus_flower": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:lava_lily": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:pink_water_lily": {
+		  "chance": 0.3
+		},
+		"herios_floral_expansion:white_water_lily": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:aster": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:beach_grass": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:tall_beach_grass": {
+		  "chance": 0.5
+		},
+		"mysticsbiomes:desert_grass": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:desert_lily": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:sea_oats": {
+		  "chance": 0.5
+		},
+		"mysticsbiomes:maple_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:orange_maple_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:yellow_maple_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:hydrangea_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:lavender_blossoms": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:peach_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:peony_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:sea_shrub_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:tropical_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:vanilla_leaves": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:strawberry_blossoms": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:pink_cherry_blossoms": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:white_cherry_blossoms": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:tall_desert_grass": {
+		  "chance": 0.5
+		},
+		"mysticsbiomes:lavender": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:lavender_buds": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:tall_lavender": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:milkweed": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:sea_thrift": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:wildflower": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:hydrangea_bush": {
+		  "chance": 0.85
+		},
+		"mysticsbiomes:peony_bush": {
+		  "chance": 0.85
+		},
+		"mysticsbiomes:sea_shrub": {
+		  "chance": 0.85
+		},
+		"mysticsbiomes:saguaro_cactus": {
+		  "chance": 0.4
+		},
+		"mysticsbiomes:maple_leaf_litter": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:orange_maple_leaf_litter": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:yellow_maple_leaf_litter": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:cherries": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:peach": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:strawberry": {
+		  "chance": 0.3
+		},
+		"mysticsbiomes:vanilla_beans": {
+		  "chance": 0.65
+		},
+		"mysticsbiomes:saguaro_blossom": {
+		  "chance": 0.3
+		},
+		"unusualend:chorus_fungus": {
+		  "chance": 0.65
+		},
+		"unusualend:purpur_grass": {
+		  "chance": 0.3
+		},
+		"unusualend:chorus_petal": {
+		  "chance": 0.3
+		},
+		"unusualend:chorus_roots": {
+		  "chance": 0.3
+		},
+		"unusualend:crystal_flower": {
+		  "chance": 0.65
+		},
+		"unusualend:dripping_gloopstone": {
+		  "chance": 0.3
+		},
+		"unusualend:endstone_sprouts": {
+		  "chance": 0.3
+		},
+		"unusualend:flowering_purpur_grass": {
+		  "chance": 0.3
+		},
+		"unusualend:flowering_gloopy_pile": {
+		  "chance": 0.65
+		},
+		"unusualend:gloopy_bush": {
+		  "chance": 0.65
+		},
+		"unusualend:gloopy_tendrils": {
+		  "chance": 0.3
+		},
+		"unusualend:grown_warped_bush": {
+		  "chance": 0.3
+		},
+		"unusualend:shiny_spirea": {
+		  "chance": 0.3
+		},
+		"unusualend:small_warped_algae": {
+		  "chance": 0.3
+		},
+		"unusualend:gloopilon_seeds": {
+		  "chance": 0.3
+		},
+		"unusualend:warped_algae": {
+		  "chance": 0.3
+		},
+		"unusualend:warped_bush": {
+		  "chance": 0.3
+		},
+		"unusualend:warped_moss": {
+		  "chance": 0.3
+		},
+		"unusualend:warped_spores": {
+		  "chance": 0.3
+		},
+		"unusualend:warped_berries": {
+		  "chance": 0.3
+		},
+		"unusualend:chorus_cane_flower": {
+		  "chance": 0.3
+		},
+		"ferdinandsflowers:cranberry": {
+		  "chance": 0.3
+		},
+		"ferdinandsflowers:raccoon_grape": {
+		  "chance": 0.3
+		},
+		"windswept:wild_berries": {
+		  "chance": 0.3
+		},
+		"extradelight:apple_petal_litter_item": {
+		  "chance": 0.3
+		},
+		"extradelight:grapefruit_petal_litter_item": {
+		  "chance": 0.3
+		},
+		"extradelight:hazelnut_petal_litter_item": {
+		  "chance": 0.3
+		},
+		"extradelight:lemon_petal_litter_item": {
+		  "chance": 0.3
+		},
+		"extradelight:lime_petal_litter_item": {
+		  "chance": 0.3
+		},
+		"extradelight:orange_petal_litter_item": {
+		  "chance": 0.3
 		}
     },
     "remove": [
