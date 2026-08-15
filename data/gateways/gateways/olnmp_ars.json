@@ -1,10 +1,7 @@
 {
-    "type": "apotheosis:tiered",
-    "settings": {
-        "tier": "frontier",
-        "size": "small",
-        "color": "#28add6"
-    },
+    "type": "gateways:normal",
+    "size": "small",
+    "color": "#28add6",
     "waves": [
         {
             "max_wave_time": 1200,
