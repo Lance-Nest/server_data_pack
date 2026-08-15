@@ -1,216 +1,39 @@
 {
   "values": [
-    {
-      "id": "enchanted:alder_planks",
-      "required": false
-    },
-    {
-      "id": "ars_nouveau:archwood_planks",
-      "required": false
-    },
-    {
-      "id": "quark:ancient_planks",
-      "required": false
-    },
-    {
-      "id": "would:aspen_planks",
-      "required": false
-    },
-    {
-      "id": "would:azalea_planks",
-      "required": false
-    },
-    {
-      "id": "would:baobab_planks",
-      "required": false
-    },
-    {
-      "id": "butchercraft:barn_wood_block_item",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:black_cherry_planks",
-      "required": false
-    },
-    {
-      "id": "abyssal_decor:blackwood_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:blue_mushroom_planks",
-      "required": false
-    },
-    {
-      "id": "would:blue_spruce_planks",
-      "required": false
-    },
-    {
-      "id": "would:cedar_planks",
-      "required": false
-    },
-    {
-      "id": "cataclysm:chorus_planks",
-      "required": false
-    },
-    {
-      "id": "extradelight:cinnamon_planks",
-      "required": false
-    },
-    {
-      "id": "abyssal_decor:cinnamon_planks",
-      "required": false
-    },
-    {
-      "id": "moresnifferflowers:corrupted_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:crabapple_planks",
-      "required": false
-    },
-    {
-      "id": "herios_floral_expansion:dried_stem_planks",
-      "required": false
-    },
-    {
-      "id": "would:ebony_planks",
-      "required": false
-    },
-    {
-      "id": "would:fir_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:flowering_crabapple_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:flowering_poplar_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:flowering_willow_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:fluorescent_maple_planks",
-      "required": false
-    },
-    {
-      "id": "hazennstuff:frostbite_birch_planks",
-      "required": false
-    },
-    {
-      "id": "extradelight:fruit_planks",
-      "required": false
-    },
-    {
-      "id": "herios_floral_expansion:giant_stem_planks",
-      "required": false
-    },
-    {
-      "id": "enchanted:hawthorn_planks",
-      "required": false
-    },
-    {
-      "id": "koopascritters:stripped_kopje_log",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:lavender_planks",
-      "required": false
-    },
-    {
-      "id": "would:mahogany_planks",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:maple_planks",
-      "required": false
-    },
-    {
-      "id": "would:maple_planks",
-      "required": false
-    },
-    {
-      "id": "silentgear:stripped_netherwood_log",
-      "required": false
-    },
-    {
-      "id": "would:palm_planks",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:peach_planks",
-      "required": false
-    },
-    {
-      "id": "would:pine_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:poplar_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:red_mushroom_planks",
-      "required": false
-    },
-    {
-      "id": "enchanted:rowan_planks",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:sea_foam_planks",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:strawberry_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:sycamore_planks",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:tropical_planks",
-      "required": false
-    },
-    {
-      "id": "quark:blossom_planks",
-      "required": false
-    },
-    {
-      "id": "mysticsbiomes:vanilla_planks",
-      "required": false
-    },
-    {
-      "id": "moresnifferflowers:vivicus_planks",
-      "required": false
-    },
-    {
-      "id": "would:walnut_planks",
-      "required": false
-    },
-    {
-      "id": "abyssal_decor:white_wood_planks",
-      "required": false
-    },
-    {
-      "id": "the_great_outdoors:whitebark_pine_planks",
-      "required": false
-    },
-    {
-      "id": "cluttered:willow_planks",
-      "required": false
-    },
-    {
-      "id": "would:willow_planks",
-      "required": false
-    },
-    {
-      "id": "hazennstuff:wisewood_planks",
-      "required": false
-    }
+    "minecraft:acacia_planks",
+    "enchanted:alder_planks",
+    "ars_nouveau:archwood_planks",
+    "butchercraft:barn_wood_block_item",
+    "minecraft:birch_planks",
+    "abyssal_decor:blackwood_planks",
+    "cluttered:blue_mushroom_planks",
+    "minecraft:cherry_planks",
+    "cataclysm:chorus_planks",
+    "extradelight:cinnamon_planks",
+    "abyssal_decor:cinnamon_planks",
+    "cluttered:crabapple_planks",
+    "minecraft:crimson_planks",
+    "minecraft:dark_oak_planks",
+    "cluttered:flowering_crabapple_planks",
+    "cluttered:flowering_poplar_planks",
+    "cluttered:flowering_willow_planks",
+    "cluttered:fluorescent_maple_planks",
+    "hazennstuff:frostbite_birch_planks",
+    "extradelight:fruit_planks",
+    "enchanted:hawthorn_planks",
+    "minecraft:jungle_planks",
+    "koopascritters:kopje_fig_planks",
+    "minecraft:mangrove_planks",
+    "silentgear:netherwood_planks",
+    "minecraft:oak_planks",
+    "cluttered:poplar_planks",
+    "cluttered:red_mushroom_planks",
+    "enchanted:rowan_planks",
+    "minecraft:spruce_planks",
+    "cluttered:sycamore_planks",
+    "minecraft:warped_planks",
+    "abyssal_decor:white_wood_planks",
+    "cluttered:willow_planks",
+    "hazennstuff:wisewood_planks"
   ]
 }

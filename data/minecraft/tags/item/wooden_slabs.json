@@ -53,10 +53,6 @@
       "required": false
     },
     {
-      "id": "compendium:cinnamon_styled_planks_slab_item",
-      "required": false
-    },
-    {
       "id": "compendium:cinnamon_ad_styled_planks_slab_item",
       "required": false
     },
@@ -98,10 +94,6 @@
     },
     {
       "id": "compendium:frostbite_birch_styled_planks_slab_item",
-      "required": false
-    },
-    {
-      "id": "compendium:fruit_styled_planks_slab_item",
       "required": false
     },
     {
