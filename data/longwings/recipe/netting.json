@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+	"aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:string"
+    }
+  },
+  "result": {
+    "id": "longwings:netting",
+    "count": 12
+  }
+}
