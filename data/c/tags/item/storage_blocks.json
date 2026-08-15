@@ -1,5 +1,150 @@
 {
-  "values": [],
+  "values": [
+	{
+      "id": "cataclysm:ancient_metal_block",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:arcane_steel_block",
+      "required": false
+    },
+    {
+      "id": "silentgear:azure_electrum_block",
+      "required": false
+    },
+    {
+      "id": "silentgear:azure_silver_block",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:bellmetal_block",
+      "required": false
+    },
+    {
+      "id": "cataclysm:black_steel_block",
+      "required": false
+    },
+    {
+      "id": "silentgear:blaze_gold_block",
+      "required": false
+    },
+    {
+      "id": "create:brass_block",
+      "required": false
+    },
+    {
+      "id": "compendium:bronze_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:chlorophyte_block_item",
+      "required": false
+    },
+    {
+      "id": "silentgear:crimson_iron_block",
+      "required": false
+    },
+    {
+      "id": "silentgear:crimson_steel_block",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cursium_block",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:deepbronze_block",
+      "required": false
+    },
+    {
+      "id": "compendium:demonite_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:dreadsteel_block_item",
+      "required": false
+    },
+    {
+      "id": "createaddition:electrum_block",
+      "required": false
+    },
+    {
+      "id": "cataclysm:ignitium_block",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:mithril_block",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:moonsilver_block",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:pyrium_block",
+      "required": false
+    },
+    {
+      "id": "compendium:rose_gold_block_item",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:seabrass_block",
+      "required": false
+    },
+    {
+      "id": "compendium:silver_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:steel_block_item",
+      "required": false
+    },
+    {
+      "id": "silentgear:tyrian_steel_block",
+      "required": false
+    },
+    {
+      "id": "create:zinc_block",
+      "required": false
+    },
+    {
+      "id": "compendium:amber_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:garnet_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:moonstone_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:onyx_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:peridot_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:ruby_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:sapphire_block_item",
+      "required": false
+    },
+    {
+      "id": "ars_nouveau:source_gem_block",
+      "required": false
+    },
+    {
+      "id": "compendium:topaz_block_item",
+      "required": false
+    }
+    ],
   "remove": [
 	"incubation:chicken_egg_crate",
 	"quark:apple_crate",

@@ -1,6 +1,46 @@
 {
   "values": [
     {
+      "id": "dyenamics:amber_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:aquamarine_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:rose_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:blurple_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:bubblegum_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:canary_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:cherenkov_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:conifer_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:coral_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:fluorescent_carpet",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_amber_carpet",
       "required": false
     },
@@ -13,7 +53,19 @@
       "required": false
     },
     {
+      "id": "extradelight:gingham_carpet_black",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_blue",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_blurple_carpet",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_brown",
       "required": false
     },
     {
@@ -37,7 +89,19 @@
       "required": false
     },
     {
+      "id": "extradelight:gingham_carpet_cyan",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_fluorescent_carpet",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_gray",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_green",
       "required": false
     },
     {
@@ -53,7 +117,23 @@
       "required": false
     },
     {
+      "id": "extradelight:gingham_carpet_light_blue",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_light_gray",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_lilac_carpet",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_lime",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_magenta",
       "required": false
     },
     {
@@ -69,6 +149,10 @@
       "required": false
     },
     {
+      "id": "extradelight:gingham_carpet_orange",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_peach_carpet",
       "required": false
     },
@@ -77,7 +161,19 @@
       "required": false
     },
     {
+      "id": "extradelight:gingham_carpet_pink",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_purple",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_rainbow_carpet",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_red",
       "required": false
     },
     {
@@ -113,7 +209,91 @@
       "required": false
     },
     {
+      "id": "extradelight:gingham_carpet_white",
+      "required": false
+    },
+    {
       "id": "compendium:gingham_wine_carpet",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_carpet_yellow",
+      "required": false
+    },
+    {
+      "id": "dyenamics:honey_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:icy_blue_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:lavender_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:lavender_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:maroon_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:mint_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:navy_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:peach_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:persimmon_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:rose_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:sacramento_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:sangria_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:sky_carpet",
+      "required": false
+    },
+    {
+      "id": "barnyardbuddies:spotted_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:spring_green_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:ultramarine_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:umber_carpet",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:wasabi_carpet",
+      "required": false
+    },
+    {
+      "id": "dyenamics:wine_carpet",
       "required": false
     }
   ]
