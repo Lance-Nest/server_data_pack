@@ -50,8 +50,8 @@
                     "gear_set": "gateways:wizard_students"
                 },
                 {
-                            "type": "apotheosis:affix",
-                            "affix_chance": 100.0
+					"type": "apotheosis:affix",
+					"affix_chance": 100.0
                 },
                 {
                     "type": "gateways:loot_table",
@@ -69,10 +69,10 @@
             }
         },
         {
-                    "type": "gateways:experience",
-                    "experience": 180,
-                    "orb_size": 25
-                }
+			"type": "gateways:experience",
+			"experience": 180,
+			"orb_size": 25
+		}
     ],
     "failures": [
         {

@@ -1,10 +1,7 @@
 {
-    "type": "apotheosis:tiered",
-    "settings": {
-        "tier": "ascent",
-        "size": "medium",
-        "color": "#28add6"
-    },
+    "type": "gateways:normal",
+	"size": "medium",
+	"color": "#28add6",
     "waves": [
         {
             "max_wave_time": 2500,
@@ -95,10 +92,10 @@
                     "orb_size": 25
                 }
     ],
-        "failures": [
+    "failures": [
         {
             "type": "gateways:mob_effect",
-            "effect": "cataclysm_spellbooks:incapacitated_effect",
+            "effect": "runiclib:confusion",
             "duration": 600,
             "amplifier": 0
         },

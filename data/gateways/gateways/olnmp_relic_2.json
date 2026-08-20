@@ -1,10 +1,7 @@
 {
-    "type": "apotheosis:tiered",
-    "settings": {
-        "tier": "ascent",
-        "size": "medium",
-        "color": "#14ba27"
-    },
+    "type": "gateways:normal",
+	"size": "medium",
+	"color": "#14ba27",
     "waves": [
         {
             "max_wave_time": 1200,
