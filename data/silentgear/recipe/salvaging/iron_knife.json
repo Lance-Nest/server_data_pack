@@ -1,0 +1,17 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "farmersdelight:iron_knife"
+  },
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+	
+  ]
+}

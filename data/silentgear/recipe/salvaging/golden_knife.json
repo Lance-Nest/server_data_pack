@@ -1,0 +1,17 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "farmersdelight:golden_knife"
+  },
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:gold_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+	
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "farmersdelight:flint_knife"
+  },
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:flint"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+	
+  ]
+}
