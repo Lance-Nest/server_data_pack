@@ -1,0 +1,13 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "windswept:wooden_bucket"
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:oak_log"
+    }
+	
+  ]
+}

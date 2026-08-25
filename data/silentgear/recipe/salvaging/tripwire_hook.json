@@ -1,0 +1,17 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "minecraft:tripwire_hook"
+  },
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:iron_nugget"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+	
+  ]
+}

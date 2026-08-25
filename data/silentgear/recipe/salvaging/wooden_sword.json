@@ -1,0 +1,16 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "minecraft:wooden_sword"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:oak_planks"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+  ]
+}
