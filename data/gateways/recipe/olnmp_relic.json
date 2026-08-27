@@ -8,7 +8,7 @@
   ],
   "key": {
     "B": {
-      "item": "silentgear:emerald_shard"
+      "tag": "c:gem_shards/emerald"
     },
 	"E": {
       "item": "minecraft:ender_pearl"
