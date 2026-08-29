@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:stripped_tropical_wood",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:stripped_tropical_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_tropical_small_logs_item",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:baobab_wood",
+      "required": false
+    },
+    {
+      "id": "would:baobab_log",
+      "required": false
+    },
+    {
+      "id": "compendium:baobab_small_logs_item",
+      "required": false
+    }
+  ]
+}

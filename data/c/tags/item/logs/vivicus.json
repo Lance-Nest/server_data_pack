@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "moresnifferflowers:vivicus_wood",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:vivicus_log",
+      "required": false
+    },
+    {
+      "id": "compendium:vivicus_small_logs_item",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:fir_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:fir_styled_planks_item",
+      "required": false
+    }
+  ]
+}

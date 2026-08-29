@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "the_great_outdoors:whitebark_pine_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:whitebark_pine_styled_planks_item",
+      "required": false
+    }
+  ]
+}

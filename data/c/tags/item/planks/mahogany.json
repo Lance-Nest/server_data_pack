@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:mahogany_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:mahogany_styled_planks_item",
+      "required": false
+    }
+  ]
+}

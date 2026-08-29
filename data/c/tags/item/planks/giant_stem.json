@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "herios_floral_expansion:giant_stem_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:giant_stem_styled_planks_item",
+      "required": false
+    }
+  ]
+}

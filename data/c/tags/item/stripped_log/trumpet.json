@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "quark:stripped_blossom_log",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_blossom_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_trumpet_small_logs_item",
+      "required": false
+    }
+  ]
+}

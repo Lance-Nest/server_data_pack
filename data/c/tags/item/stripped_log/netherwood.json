@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "silentgear:stripped_netherwood_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_netherwood_small_logs_item",
+      "required": false
+    }
+  ]
+}

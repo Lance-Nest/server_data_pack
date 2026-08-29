@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "cluttered:stripped_poplar_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:stripped_poplar_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_poplar_small_logs_item",
+      "required": false
+    }
+  ]
+}

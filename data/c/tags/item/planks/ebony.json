@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:ebony_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:ebony_styled_planks_item",
+      "required": false
+    }
+  ]
+}

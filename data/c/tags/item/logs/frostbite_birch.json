@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "hazennstuff:frostbite_birch_wood",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:frostbite_birch_log",
+      "required": false
+    },
+    {
+      "id": "compendium:frostbite_birch_small_logs_item",
+      "required": false
+    }
+  ]
+}

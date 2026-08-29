@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:maple_log",
+      "required": false
+    },
+    {
+      "id": "would:maple_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:maple_w_small_logs_item",
+      "required": false
+    }
+  ]
+}

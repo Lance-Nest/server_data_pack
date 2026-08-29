@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:peach_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:peach_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:peach_small_logs_item",
+      "required": false
+    }
+  ]
+}

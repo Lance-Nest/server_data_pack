@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:ebony_log",
+      "required": false
+    },
+    {
+      "id": "would:ebony_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:ebony_small_logs_item",
+      "required": false
+    }
+  ]
+}

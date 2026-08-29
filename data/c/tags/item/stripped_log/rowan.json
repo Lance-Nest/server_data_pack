@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enchanted:stripped_rowan_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_rowan_small_logs_item",
+      "required": false
+    }
+  ]
+}

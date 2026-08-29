@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "hazennstuff:silver_scraps"
+  },
+  "result": {
+    "id": "compendium:silver_nugget_item"
+  }
+}

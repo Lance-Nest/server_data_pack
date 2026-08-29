@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "hazennstuff:stripped_wisewood_log",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:stripped_wisewood_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_wisewood_small_logs_item",
+      "required": false
+    }
+  ]
+}

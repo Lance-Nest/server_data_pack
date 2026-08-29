@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enchanted:stripped_hawthorn_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_hawthorn_small_logs_item",
+      "required": false
+    }
+  ]
+}

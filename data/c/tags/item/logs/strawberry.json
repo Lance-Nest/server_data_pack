@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:strawberry_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:strawberry_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:strawberry_small_logs_item",
+      "required": false
+    }
+  ]
+}

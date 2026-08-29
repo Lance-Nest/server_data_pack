@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "the_great_outdoors:stripped_whitebark_pine_wood",
+      "required": false
+    },
+    {
+      "id": "the_great_outdoors:stripped_whitebark_pine_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_whitebark_pine_small_logs_item",
+      "required": false
+    }
+  ]
+}

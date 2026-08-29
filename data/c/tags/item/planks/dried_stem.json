@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "herios_floral_expansion:dried_stem_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:dried_stem_styled_planks_item",
+      "required": false
+    }
+  ]
+}

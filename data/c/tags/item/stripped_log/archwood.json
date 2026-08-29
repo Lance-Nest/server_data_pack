@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "ars_nouveau:stripped_purple_archwood_wood",
+      "required": false
+    },
+    {
+      "id": "ars_nouveau:stripped_purple_archwood_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_archwood_small_logs_item",
+      "required": false
+    }
+  ]
+}

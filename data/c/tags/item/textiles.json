@@ -1,0 +1,300 @@
+{
+  "values": [
+    {
+      "id": "dyenamics:amber_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:aquamarine_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:rose_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:blurple_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:bubblegum_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:canary_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:cherenkov_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:conifer_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:coral_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:fluorescent_wool",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_amber_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_aquamarine_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_berry_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_black",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_blue",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_blurple_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_brown",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_bubblegum_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_canary_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_cherenkov_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_conifer_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_coral_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_cyan",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_fluorescent_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_gray",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_green",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_honey_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_icy_blue_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_lavender_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_light_blue",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_light_gray",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_lilac_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_lime",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_magenta",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_maroon_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_mint_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_navy_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_orange",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_peach_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_persimmon_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_pink",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_purple",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_rainbow_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_red",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_rose_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_sacramento_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_sangria_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_sky_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_spring_green_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_ultramarine_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_umber_block_item",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_wasabi_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_white",
+      "required": false
+    },
+    {
+      "id": "compendium:gingham_wine_block_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:gingham_yellow",
+      "required": false
+    },
+    {
+      "id": "dyenamics:honey_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:icy_blue_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:lavender_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:lavender_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:maroon_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:mint_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:navy_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:peach_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:persimmon_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:rose_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:sacramento_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:sangria_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:sky_wool",
+      "required": false
+    },
+    {
+      "id": "barnyardbuddies:spotted_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:spring_green_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:ultramarine_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:umber_wool",
+      "required": false
+    },
+    {
+      "id": "delicate_dyes:wasabi_wool",
+      "required": false
+    },
+    {
+      "id": "dyenamics:wine_wool",
+      "required": false
+    }
+  ]
+}

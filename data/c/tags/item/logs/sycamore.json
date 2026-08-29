@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "cluttered:sycamore_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:sycamore_log",
+      "required": false
+    },
+    {
+      "id": "compendium:sycamore_small_logs_item",
+      "required": false
+    }
+  ]
+}

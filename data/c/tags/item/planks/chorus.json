@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "cataclysm:chorus_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:chorus_styled_planks_item",
+      "required": false
+    }
+  ]
+}

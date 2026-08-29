@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    },
+    {
+      "item": "silentgear:bronze_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "compendium:bronze_block_item"
+  }
+}

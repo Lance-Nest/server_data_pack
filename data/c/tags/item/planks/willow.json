@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "cluttered:willow_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:willow_styled_planks_item",
+      "required": false
+    }
+  ]
+}

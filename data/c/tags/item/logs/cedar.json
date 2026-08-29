@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:cedar_wood",
+      "required": false
+    },
+    {
+      "id": "would:cedar_log",
+      "required": false
+    },
+    {
+      "id": "compendium:cedar_small_logs_item",
+      "required": false
+    }
+  ]
+}

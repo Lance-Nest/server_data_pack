@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:vanilla_wood",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:vanilla_log",
+      "required": false
+    },
+    {
+      "id": "compendium:vanilla_small_logs_item",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enchanted:stripped_alder_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_alder_small_logs_item",
+      "required": false
+    }
+  ]
+}

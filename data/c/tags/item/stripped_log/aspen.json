@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:stripped_aspen_log",
+      "required": false
+    },
+    {
+      "id": "would:stripped_aspen_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_aspen_small_logs_item",
+      "required": false
+    }
+  ]
+}

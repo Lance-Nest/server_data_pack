@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:tropical_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:tropical_styled_planks_item",
+      "required": false
+    }
+  ]
+}

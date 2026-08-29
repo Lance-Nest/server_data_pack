@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:stripped_sea_foam_wood",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:stripped_sea_foam_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_sea_foam_small_logs_item",
+      "required": false
+    }
+  ]
+}

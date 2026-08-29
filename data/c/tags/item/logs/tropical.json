@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:tropical_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:tropical_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:tropical_small_logs_item",
+      "required": false
+    }
+  ]
+}

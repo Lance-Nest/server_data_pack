@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:pine_wood",
+      "required": false
+    },
+    {
+      "id": "would:pine_log",
+      "required": false
+    },
+    {
+      "id": "compendium:pine_small_logs_item",
+      "required": false
+    }
+  ]
+}

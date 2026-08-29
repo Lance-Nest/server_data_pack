@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "cluttered:fluorescent_maple_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:fluorescent_maple_log",
+      "required": false
+    },
+    {
+      "id": "compendium:fluorescent_maple_small_logs_item",
+      "required": false
+    }
+  ]
+}

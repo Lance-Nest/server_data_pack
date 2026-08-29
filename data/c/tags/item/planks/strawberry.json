@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:strawberry_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:strawberry_styled_planks_item",
+      "required": false
+    }
+  ]
+}

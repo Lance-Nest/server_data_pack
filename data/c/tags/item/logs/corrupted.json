@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "moresnifferflowers:corrupted_wood",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:corrupted_log",
+      "required": false
+    },
+    {
+      "id": "compendium:corrupted_small_logs_item",
+      "required": false
+    }
+  ]
+}

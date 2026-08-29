@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:stripped_palm_wood",
+      "required": false
+    },
+    {
+      "id": "would:stripped_palm_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_palm_small_logs_item",
+      "required": false
+    }
+  ]
+}

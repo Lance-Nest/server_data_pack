@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:stripped_mahogany_wood",
+      "required": false
+    },
+    {
+      "id": "would:stripped_mahogany_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_mahogany_small_logs_item",
+      "required": false
+    }
+  ]
+}

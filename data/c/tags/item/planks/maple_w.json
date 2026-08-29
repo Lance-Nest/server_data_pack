@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:maple_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:maple_w_styled_planks_item",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:cedar_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:cedar_styled_planks_item",
+      "required": false
+    }
+  ]
+}

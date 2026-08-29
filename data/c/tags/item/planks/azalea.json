@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:azalea_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:azalea_styled_planks_item",
+      "required": false
+    }
+  ]
+}

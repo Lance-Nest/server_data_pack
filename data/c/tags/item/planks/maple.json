@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:maple_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:maple_styled_planks_item",
+      "required": false
+    }
+  ]
+}

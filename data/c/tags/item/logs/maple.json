@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:maple_wood",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:maple_log",
+      "required": false
+    },
+    {
+      "id": "compendium:maple_small_logs_item",
+      "required": false
+    }
+  ]
+}

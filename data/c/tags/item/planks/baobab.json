@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "would:baobab_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:baobab_styled_planks_item",
+      "required": false
+    }
+  ]
+}

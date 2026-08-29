@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enchanted:alder_log",
+      "required": false
+    },
+    {
+      "id": "compendium:alder_small_logs_item",
+      "required": false
+    }
+  ]
+}

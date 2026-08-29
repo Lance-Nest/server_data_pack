@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "hazennstuff:frostbite_birch_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:frostbite_birch_styled_planks_item",
+      "required": false
+    }
+  ]
+}

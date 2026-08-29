@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "enchanted:hawthorn_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:hawthorn_styled_planks_item",
+      "required": false
+    }
+  ]
+}

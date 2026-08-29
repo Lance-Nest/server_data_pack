@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:fir_wood",
+      "required": false
+    },
+    {
+      "id": "would:fir_log",
+      "required": false
+    },
+    {
+      "id": "compendium:fir_small_logs_item",
+      "required": false
+    }
+  ]
+}

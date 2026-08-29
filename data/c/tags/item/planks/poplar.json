@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "cluttered:poplar_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:poplar_styled_planks_item",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "ars_nouveau:archwood_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:archwood_styled_planks_item",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "abyssal_decor:stripped_cinnamon_log",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:stripped_cinnamon_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_cinnamon_ad_small_logs_item",
+      "required": false
+    }
+  ]
+}

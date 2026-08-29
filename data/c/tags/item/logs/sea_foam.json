@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "mysticsbiomes:sea_foam_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:sea_foam_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:sea_foam_small_logs_item",
+      "required": false
+    }
+  ]
+}

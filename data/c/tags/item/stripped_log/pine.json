@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:stripped_pine_wood",
+      "required": false
+    },
+    {
+      "id": "would:stripped_pine_log",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_pine_small_logs_item",
+      "required": false
+    }
+  ]
+}

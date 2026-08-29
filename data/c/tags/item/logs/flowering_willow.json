@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "cluttered:flowering_willow_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_willow_log",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_willow_small_logs_item",
+      "required": false
+    }
+  ]
+}

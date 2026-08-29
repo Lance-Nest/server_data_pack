@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "quark:ancient_planks",
+      "required": false
+    },
+    {
+      "id": "compendium:ashen_styled_planks_item",
+      "required": false
+    }
+  ]
+}

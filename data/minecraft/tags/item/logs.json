@@ -1,0 +1,604 @@
+{
+  "values": [
+    {
+      "id": "enchanted:alder_log",
+      "required": false
+    },
+    {
+      "id": "compendium:alder_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "ars_nouveau:purple_archwood_log",
+      "required": false
+    },
+    {
+      "id": "compendium:archwood_wood_item",
+      "required": false
+    },
+    {
+      "id": "compendium:archwood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_wood",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_log",
+      "required": false
+    },
+    {
+      "id": "compendium:ashen_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:aspen_wood",
+      "required": false
+    },
+    {
+      "id": "would:aspen_log",
+      "required": false
+    },
+    {
+      "id": "compendium:aspen_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:azalea_log",
+      "required": false
+    },
+    {
+      "id": "would:azalea_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:azalea_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:baobab_wood",
+      "required": false
+    },
+    {
+      "id": "would:baobab_log",
+      "required": false
+    },
+    {
+      "id": "compendium:baobab_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:black_cherry_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:black_cherry_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:black_cherry_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:blackwood_log",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:blackwood_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:blackwood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:blue_mushroom_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:blue_mushroom_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:blue_mushroom_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:blue_spruce_log",
+      "required": false
+    },
+    {
+      "id": "would:blue_spruce_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:blue_spruce_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:cedar_wood",
+      "required": false
+    },
+    {
+      "id": "would:cedar_log",
+      "required": false
+    },
+    {
+      "id": "compendium:cedar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:chorus_log_item",
+      "required": false
+    },
+    {
+      "id": "compendium:chorus_wood_item",
+      "required": false
+    },
+    {
+      "id": "compendium:chorus_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:cinnamon_log",
+      "required": false
+    },
+    {
+      "id": "extradelight:cinnamon_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:cinnamon_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:cinnamon_log",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:cinnamon_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:cinnamon_ad_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:corrupted_wood",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:corrupted_log",
+      "required": false
+    },
+    {
+      "id": "compendium:corrupted_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:crabapple_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:crabapple_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:crabapple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "herios_floral_expansion:dried_stem_wood",
+      "required": false
+    },
+    {
+      "id": "herios_floral_expansion:dried_stem_log",
+      "required": false
+    },
+    {
+      "id": "compendium:dried_stem_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:ebony_log",
+      "required": false
+    },
+    {
+      "id": "would:ebony_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:ebony_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:fir_wood",
+      "required": false
+    },
+    {
+      "id": "would:fir_log",
+      "required": false
+    },
+    {
+      "id": "compendium:fir_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_crabapple_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_crabapple_log",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_crabapple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_poplar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_willow_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_willow_log",
+      "required": false
+    },
+    {
+      "id": "compendium:flowering_willow_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:fluorescent_maple_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:fluorescent_maple_log",
+      "required": false
+    },
+    {
+      "id": "compendium:fluorescent_maple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:frostbite_birch_wood",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:frostbite_birch_log",
+      "required": false
+    },
+    {
+      "id": "compendium:frostbite_birch_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "extradelight:fruit_log",
+      "required": false
+    },
+    {
+      "id": "extradelight:fruit_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:fruit_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "herios_floral_expansion:giant_stem_wood",
+      "required": false
+    },
+    {
+      "id": "herios_floral_expansion:giant_stem_log",
+      "required": false
+    },
+    {
+      "id": "compendium:giant_stem_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "enchanted:hawthorn_log",
+      "required": false
+    },
+    {
+      "id": "compendium:hawthorn_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "compendium:kopje_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:lavender_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:lavender_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:lavender_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:mahogany_wood",
+      "required": false
+    },
+    {
+      "id": "would:mahogany_log",
+      "required": false
+    },
+    {
+      "id": "compendium:mahogany_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:maple_wood",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:maple_log",
+      "required": false
+    },
+    {
+      "id": "compendium:maple_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:maple_log",
+      "required": false
+    },
+    {
+      "id": "would:maple_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:maple_w_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "silentgear:netherwood_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:netherwood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:palm_log",
+      "required": false
+    },
+    {
+      "id": "would:palm_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:palm_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:peach_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:peach_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:peach_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:pine_wood",
+      "required": false
+    },
+    {
+      "id": "would:pine_log",
+      "required": false
+    },
+    {
+      "id": "compendium:pine_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_log",
+      "required": false
+    },
+    {
+      "id": "compendium:poplar_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:red_mushroom_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:red_mushroom_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:red_mushroom_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "enchanted:rowan_log",
+      "required": false
+    },
+    {
+      "id": "compendium:rowan_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:sea_foam_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:sea_foam_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:sea_foam_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:strawberry_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:strawberry_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:strawberry_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:sycamore_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:sycamore_log",
+      "required": false
+    },
+    {
+      "id": "compendium:sycamore_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:tropical_log",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:tropical_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:tropical_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_log",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:trumpet_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:vanilla_wood",
+      "required": false
+    },
+    {
+      "id": "mysticsbiomes:vanilla_log",
+      "required": false
+    },
+    {
+      "id": "compendium:vanilla_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:vivicus_wood",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:vivicus_log",
+      "required": false
+    },
+    {
+      "id": "compendium:vivicus_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:walnut_log",
+      "required": false
+    },
+    {
+      "id": "would:walnut_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:walnut_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:white_wood_log",
+      "required": false
+    },
+    {
+      "id": "abyssal_decor:white_wood_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:white_wood_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "the_great_outdoors:whitebark_pine_wood",
+      "required": false
+    },
+    {
+      "id": "the_great_outdoors:whitebark_pine_log",
+      "required": false
+    },
+    {
+      "id": "compendium:whitebark_pine_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "cluttered:willow_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:willow_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:willow_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "would:willow_log",
+      "required": false
+    },
+    {
+      "id": "would:willow_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:willow_w_small_logs_item",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:wisewood_log",
+      "required": false
+    },
+    {
+      "id": "hazennstuff:wisewood_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:wisewood_small_logs_item",
+      "required": false
+    }
+  ]
+}

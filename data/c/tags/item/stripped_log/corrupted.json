@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "moresnifferflowers:stripped_corrupted_log",
+      "required": false
+    },
+    {
+      "id": "moresnifferflowers:stripped_corrupted_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:stripped_corrupted_small_logs_item",
+      "required": false
+    }
+  ]
+}

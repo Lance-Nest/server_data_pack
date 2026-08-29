@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "would:walnut_log",
+      "required": false
+    },
+    {
+      "id": "would:walnut_wood",
+      "required": false
+    },
+    {
+      "id": "compendium:walnut_small_logs_item",
+      "required": false
+    }
+  ]
+}
