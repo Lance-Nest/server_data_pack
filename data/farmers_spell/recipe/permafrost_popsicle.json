@@ -1,0 +1,29 @@
+{
+  "type": "extradelight:chiller",
+  "consumeContainer": true,
+  "container": {
+    "count": 1,
+    "id": "irons_spellbooks:frozen_bone"
+  },
+  "cookingtime": 20000,
+  "experience": 0.35,
+  "fluid": {},
+  "ingredients": [
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "irons_spellbooks:permafrost_shard"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmers_spell:permafrost_popsicle"
+  }
+}

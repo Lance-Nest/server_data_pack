@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmers_spell:catacombs_wine"
+    },
+    {
+      "item": "farmers_spell:catacombs_wine"
+    },
+    {
+      "item": "farmers_spell:catacombs_wine"
+    },
+    {
+      "item": "farmers_spell:amethyst_sugar"
+    },
+    {
+      "item": "irons_spellbooks:tarnished_helmet"
+    },
+    {
+      "item": "farmers_spell:amethyst_sugar"
+    },
+    {
+      "item": "extradelight:cocoa_powder"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "item": "extradelight:cocoa_powder"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmers_spell:red_velvet_cake"
+  }
+}
