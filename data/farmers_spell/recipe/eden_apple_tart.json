@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "farmers_spell:wsip_butter"
+    },
+    {
+      "item": "farmers_spell:amethyst_sugar"
+    },
+    {
+      "item": "farmers_spell:wsip_butter"
+    },
+    {
+      "item": "farmers_spell:wsip_butter"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "farmers_spell:wsip_butter"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmers_spell:eden_apple_tart"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "extradelight:oven",
+  "consumeContainer": false,
+  "container": {
+    "count": 1,
+    "id": "extradelight:pie_dish"
+  },
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmers_spell:goodberry"
+    },
+    {
+      "item": "farmers_spell:goodberry"
+    },
+    {
+      "item": "farmers_spell:goodberry"
+    },
+    {
+      "item": "farmers_spell:goodberry"
+    },
+    {
+      "item": "farmers_spell:amethyst_sugar"
+    },
+    {
+      "item": "farmers_spell:goodberry"
+    },
+    {
+      "item": "farmers_spell:amethyst_beetroot"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "farmers_spell:amethyst_beetroot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmers_spell:goodberry_pie"
+  }
+}
