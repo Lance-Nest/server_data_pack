@@ -78,8 +78,8 @@
         {
             "type": "gateways:loot_table",
             "loot_table": "gateways:generic/uncommon_relic",
-            "rolls": 1,
-            "desc": "A random uncommon relic"
+            "rolls": 2,
+            "desc": "Uncommon Relic"
         }
     ],
     "rules": {

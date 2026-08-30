@@ -1,0 +1,49 @@
+{
+    "type": "gateways:normal",
+    "size": "small",
+    "color": "#FFFF84",
+    "waves": [
+        {
+            "max_wave_time": 1000,
+            "setup_time": 100,
+            "entities": [
+                {
+                    "type": "gateways:standard",
+                    "count": 5,
+                    "entity": "crittersandcompanions:leaf_insect"
+                },
+                {
+                    "type": "gateways:standard",
+                    "count": 2,
+                    "entity": "crittersandcompanions:ladybug"
+                }
+            ],
+            "modifiers": [
+                {
+                    "type": "gateways:mob_effect",
+                    "effect": {
+                        "effect": "iss_magicfromtheeast:mist_step",
+                        "amplifier": 0,
+                        "visible": true
+                    }
+                },
+                {
+                    "type": "gateways:mob_effect",
+                    "effect": {
+                        "effect": "minecraft:health_boost",
+                        "amplifier": 0,
+                        "visible": true
+                    }
+                }
+            ]
+        }
+    ],
+    "rewards": [
+        {
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:generic/saplings",
+            "rolls": 1,
+            "desc": "Random Handful of Saplings"
+        }
+    ]
+}

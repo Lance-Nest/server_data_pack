@@ -79,7 +79,7 @@
             "type": "gateways:loot_table",
             "loot_table": "gateways:generic/rare_relic",
             "rolls": 1,
-            "desc": "A random rare relic"
+            "desc": "Rare Relic"
         }
     ],
     "rules": {

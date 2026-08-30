@@ -81,8 +81,8 @@
         {
             "type": "gateways:loot_table",
             "loot_table": "gateways:generic/common_relic",
-            "rolls": 1,
-            "desc": "A random common relic"
+            "rolls": 3,
+            "desc": "Common Relic"
         }
     ],
     "rules": {

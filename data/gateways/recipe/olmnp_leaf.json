@@ -1,0 +1,21 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "FFF",
+    "FAF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "tag": "minecraft:saplings"
+    },
+	"A": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "id": "gateways:gate_pearl"
+  },
+  "gateway": "gateways:olnmp_leaf"
+}
