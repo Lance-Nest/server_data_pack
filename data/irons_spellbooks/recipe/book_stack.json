@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:book_stack",
+    "count": 1
+  }
+}

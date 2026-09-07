@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "spelunkery:rough_lazurite"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:lapis_lazuli",
+      "count": 1
+    },
+    {
+      "id": "spelunkery:raw_gold_nugget",
+      "count": 3
+    }
+  ],
+  "processingTime": 350
+}

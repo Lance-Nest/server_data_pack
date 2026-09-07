@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "tag": "c:ingots/copper"
+    },
+	"e": {
+	  "item": knightlib:small_essence"
+	}
+  },
+  "pattern": [
+    "c c",
+    "cec",
+    "ccc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "knightlib:great_chalice"
+  }
+}
