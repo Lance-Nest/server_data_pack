@@ -91,10 +91,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "artifacts:everlasting_beef"
-        },
-        {
-          "type": "minecraft:item",
           "name": "reliquified_ars_nouveau:archmage_glove"
         },
         {
@@ -143,7 +139,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "reliquified_ars_nouveau:flamer_bracer"
+          "name": "reliquified_ars_nouveau:flaming_bracer"
         }
       ]
     }

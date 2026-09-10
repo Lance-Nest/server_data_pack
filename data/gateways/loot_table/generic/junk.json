@@ -7,15 +7,15 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "butchercraft:bone_saw",
+          "name": "butchercraft:bone_saw"
         },
         {
           "type": "minecraft:item",
-          "name": "extradelight:lid",
+          "name": "extradelight:lid"
         },
         {
           "type": "minecraft:item",
-          "name": "extradelight:whisk",
+          "name": "extradelight:whisk"
         },
         {
           "type": "minecraft:item",
