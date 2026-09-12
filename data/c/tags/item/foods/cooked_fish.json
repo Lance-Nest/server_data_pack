@@ -3,6 +3,7 @@
   "values": [
     "naturalist:cooked_bass",
 	"naturalist:cooked_catfish",
-	"reanimal:cooked_starfish_caviar"
+	"reanimal:cooked_starfish_caviar",
+	"starcatcher:cooked_starcaught_fish"
   ]
 }

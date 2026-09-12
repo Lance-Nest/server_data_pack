@@ -4,10 +4,15 @@
     "#c:foods/raw_cod",
 	"#c:foods/raw_salmon",
 	"#starcatcher_delight:filet_fishes",
+	"crittersandcompanions:koi_fish",
 	"koopascritters:raw_peacock_bass",
+	"minecraft:tropical_fish",
 	"naturalist:bass",
 	"naturalist:catfish",
+	"naturalist:piranha"
 	"oceansdelight:fugu_slice",
-	"reanimal:sea_urchin_caviar"
+	"reanimal:sea_urchin_caviar",
+	"starcatcher:starcaught_fish",
+	"youkaisfeasts:raw_lamprey"
   ]
 }
