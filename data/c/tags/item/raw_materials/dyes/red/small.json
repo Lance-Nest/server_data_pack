@@ -4,6 +4,7 @@
 	"ferdinandsflowers:red_clover",
 	"ferdinandsflowers:red_geranium",
 	"jafohana:crimson_clover",
+	"jafohana:desert_pea",
 	"jafohana:firecracker_penstemon",
 	"jafohana:red_snapdragon",
 	"jafohana:red_spider_lily",
@@ -12,6 +13,7 @@
 	"minecraft:fire_coral",
 	"minecraft:fire_coral_fan",
 	"minecraft:poppy",
-	"minecraft:red_tulip"
+	"minecraft:red_tulip",
+	"rusticdelight:bell_pepper_red"
   ]
 }
