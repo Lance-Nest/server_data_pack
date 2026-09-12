@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "veggiesdelight:garlic_crate"
+      "item": "architects_palette:flint_block"
     }
   ],
   "result": {
-    "count": 9,
-    "id": "extradelight:garlic"
+    "count": 4,
+    "id": "minecraft:flint"
   }
 }

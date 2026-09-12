@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "minecraft:stone_crafting_materials"
+		},
+		"subtracted": [
+		  {
+			"item": "minecraft:cobbled_deepslate"
+		  },
+		  {
+			"item": "minecraft:blackstone"
+		  }
+		]
+	}
+  },
+  "result": {
+    "id": "minecraft:furnace"
+  }
+}

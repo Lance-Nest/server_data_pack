@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "w": {
+      "tag": "supplementaries:straw"
+    },
+    "s": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    "wsw",
+    "sws",
+    "wsw"
+  ],
+  "result": {
+    "count": 4,
+    "id": "abyssal_decor:burlap"
+  }
+}
