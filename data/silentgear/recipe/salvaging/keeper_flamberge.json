@@ -1,0 +1,24 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "irons_spellbooks:keeper_flamberge"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:netherite_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    },
+	{
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    }
+  ]
+}

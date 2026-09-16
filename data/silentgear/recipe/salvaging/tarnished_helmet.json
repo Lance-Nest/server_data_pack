@@ -1,0 +1,20 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "irons_spellbooks:tarnished_helmet"
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 5,
+      "id": "createdeco:netherite_nugget"
+    },
+	{
+      "count": 2,
+      "id": "irons_spellbooks:arcane_essence"
+    }
+  ]
+}

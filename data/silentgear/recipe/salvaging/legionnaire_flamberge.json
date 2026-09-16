@@ -1,0 +1,28 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "irons_spellbooks:legionnaire_flamberge"
+  },
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:netherite_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    },
+	{
+      "count": 3,
+      "id": "irons_spellbooks:arcane_essence"
+    },
+	{
+      "count": 1,
+      "id": "irons_spellbooks:pyrium_ingot"
+    }
+  ]
+}

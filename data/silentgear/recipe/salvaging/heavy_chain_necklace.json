@@ -1,0 +1,16 @@
+{
+  "type": "silentgear:salvaging",
+  "ingredient": {
+    "item": "irons_spellbooks:heavy_chain_necklace"
+  },
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:chain"
+    },
+	{
+      "count": 1,
+      "id": "irons_spellbooks:mithril_scrap"
+    }
+  ]
+}

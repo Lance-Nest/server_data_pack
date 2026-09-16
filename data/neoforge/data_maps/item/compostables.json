@@ -425,10 +425,15 @@
 		},
 		"pineapple_delight:pineapple_crop": {
 		  "chance": 0.3
-		}
-		,
+		},
 		"ribbits:giant_lilypad": {
 		  "chance": 0.3
+		},
+		"crittersandcompanions:acorn": {
+		  "chance": 0.4
+		},
+		"would:walnut": {
+		  "chance": 0.4
 		}
     },
     "remove": [
