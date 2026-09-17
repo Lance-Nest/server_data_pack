@@ -1,17 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 1 ",
     "1 1",
-    "111"
+    " 1 "
   ],
   "key": {
     "1": {
-      "tag": "c:ingots/gold"
+      "tag": "c:glass_panes"
     }
   },
   "result": {
-    "id": "supplementaries:gold_bars",
-    "count": 16
+    "id": "longwings:glass_jar",
+    "count": 1
   }
 }
