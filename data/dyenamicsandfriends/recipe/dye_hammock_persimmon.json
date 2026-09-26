@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "comforts:hammock_enabled"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "comforts:hammock",
+  "ingredients": [
+    {
+      "item": "dyenamics:persimmon_dye"
+    },
+    {
+		"type": "neoforge:difference",
+		"base": {
+		  "tag": "comforts:hammocks"
+		},
+		"subtracted": [
+		  {
+			"item": "dyenamicsandfriends:comforts_persimmon_hammock"
+		  }
+		]
+	}
+  ],
+  "result": {
+    "count": 1,
+    "id": "dyenamicsandfriends:comforts_persimmon_hammock"
+  }
+}
