@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "supplementaries:key",
+    "supplementaries:quiver",
+    "toms_storage:adv_wireless_terminal",
+    "iss_magicfromtheeast:bagua_mirror",
+    "iss_magicfromtheeast:coins_sword",
+    "iss_magicfromtheeast:rused_coins_sword",
+    "iss_magicfromtheeast:jade_pendant"
+  ]
+}
