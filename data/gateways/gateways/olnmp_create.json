@@ -59,8 +59,8 @@
         {
             "type": "gateways:stack",
             "stack": {
-                "id": "create:zinc_ore",
-                "count": 16
+                "id": "create:raw_zinc",
+                "count": 64
             }
         }
     ],
