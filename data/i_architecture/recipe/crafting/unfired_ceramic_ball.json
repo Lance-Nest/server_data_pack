@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "c c",
+	" c "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "id": "i_architecture:unfired_ceramic_ball",
+    "count": 4
+  }
+}
